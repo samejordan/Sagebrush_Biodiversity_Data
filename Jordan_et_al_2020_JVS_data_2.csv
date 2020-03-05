@@ -1,0 +1,2188 @@
+s,h,species,2.2,2c,2.4,3.2,3c,3.3,8.2,8c,8.4,9.2,9c,9.3,r,rc,plot,functional_group,native_invasive
+,3,[Elymus lanceolatus + Pascopryum smithii],3,4,2,2,2,3,4,2,5,2,3,5,,,1,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],5,3,3,4,3,5,5,3,6,3,3,5,,,2,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],5,3,4,5,2,4,5,2,3,4,2,4,,,3,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],4,2,2,3,2,1,4,2,3,1,2,3,,,4,g,n
+,1,[Elymus lanceolatus + Pascopryum smithii],4,1,1,1,1,1,1,1,2,,,,,,5,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],4,3,3,1,2,5,2,2,1,2,2,3,,,6,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],5,2,4,5,2,4,5,3,3,2,2,5,,,7,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],5,3,3,2,3,5,5,2,3,3,2,5,,,8,g,n
+,4,[Elymus lanceolatus + Pascopryum smithii],5,3,5,5,4,5,4,3,3,5,3,5,,,9,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],5,3,5,3,3,3,5,4,3,4,4,4,,,10,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],3,2,1,4,2,3,,,,,,,,,11,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],1,2,5,3,2,1,2,3,4,5,2,2,,,14,g,n
+,4,[Elymus lanceolatus + Pascopryum smithii],4,4,4,4,4,4,4,5,3,4,4,2,,,15,g,n
+,1,[Elymus lanceolatus + Pascopryum smithii],,,,,,,1,1,1,,,,,,17,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],3,3,5,5,3,4,4,3,3,5,3,5,,,18,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],5,2,5,4,2,4,5,2,5,5,2,5,,,19,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],4,3,5,5,3,4,4,3,5,4,2,4,,,20,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],4,2,4,4,2,3,5,4,5,5,3,3,,,21,g,n
+,5,[Elymus lanceolatus + Pascopryum smithii],5,3,5,5,4,5,5,5,5,3,5,5,,,22,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],4,3,3,4,3,4,5,3,5,2,4,4,,,23,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],4,2,4,4,3,3,2,3,1,3,3,1,,,24,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],4,3,4,5,3,4,4,2,1,5,4,5,,,25,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],5,3,2,5,4,4,5,3,4,3,3,5,,,26,g,n
+,5,[Elymus lanceolatus + Pascopryum smithii],4,4,4,5,4,5,4,5,4,5,5,4,,,27,g,n
+,5,[Elymus lanceolatus + Pascopryum smithii],5,5,5,4,5,5,5,5,5,5,5,5,,,28,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],3,2,3,1,2,4,3,2,3,2,2,1,,,29,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],4,3,4,5,3,5,4,3,3,4,3,4,,,30,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],4,3,5,5,3,4,4,3,5,3,3,1,,,31,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],2,2,4,1,2,5,4,3,4,3,2,1,,,32,g,n
+,4,[Elymus lanceolatus + Pascopryum smithii],5,4,3,5,4,5,5,4,4,4,4,1,,,33,g,n
+,4,[Elymus lanceolatus + Pascopryum smithii],3,4,4,3,4,3,4,4,3,5,4,4,,,34,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],3,2,5,4,2,4,4,2,3,4,2,4,,,36,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],5,3,4,5,3,5,5,3,3,5,3,3,,,37,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],3,3,5,4,3,4,5,3,5,5,3,4,,,38,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],,,,3,2,1,1,2,1,1,2,3,,,39,g,n
+,4,[Elymus lanceolatus + Pascopryum smithii],5,5,5,5,4,5,5,4,5,5,4,5,,,40,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],4,3,4,3,2,4,5,2,4,5,2,4,,,43,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],3,3,2,4,3,1,5,3,1,1,3,5,,,44,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],3,2,3,1,2,3,1,2,2,,,,,,45,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],2,2,4,5,2,1,2,2,1,,,,,,46,g,n
+,3,[Elymus lanceolatus + Pascopryum smithii],3,3,4,3,3,3,1,2,3,4,2,2,,,47,g,n
+,2,[Elymus lanceolatus + Pascopryum smithii],2,2,1,,,,1,2,3,2,2,1,,,48,g,n
+,2,Achillea millefolium,2,2,5,1,2,2,2,2,3,1,2,2,,,21,f,n
+,2,Achillea millefolium,1,2,1,1,2,2,1,2,1,2,2,2,,,26,f,n
+,2,Achillea millefolium,,,,1,2,1,1,2,1,,,,,,35,f,n
+,2,Achillea millefolium,1,2,1,1,2,1,1,2,2,,,,,,42,f,n
+,2,Achillea millefolium,,,,1,2,1,,,,,,,,,44,f,n
+,2,Achillea millefolium,,,,1,2,1,1,2,1,1,,1,,,49,f,n
+,3,Achillea millefolium,3,3,2,4,2,5,3,3,4,3,2,2,,,50,f,n
+,2,Achillea millefolium,,,,,,,,,,,,,1,2,51,f,n
+,3,Achnatherum hymenoides,2,2,1,1,2,3,2,3,1,2,2,3,,,1,g,n
+,2,Achnatherum hymenoides,3,2,2,4,2,1,2,2,2,4,3,3,,,2,g,n
+,2,Achnatherum hymenoides,2,3,1,1,2,3,2,2,2,2,1,1,,,3,g,n
+,3,Achnatherum hymenoides,4,3,2,4,3,1,4,3,3,2,3,5,,,4,g,n
+,1,Achnatherum hymenoides,,,,2,1,1,1,1,2,3,2,1,,,5,g,n
+,3,Achnatherum hymenoides,1,2,2,3,4,3,3,3,3,1,4,3,,,7,g,n
+,3,Achnatherum hymenoides,,,,,,,2,3,2,1,2,1,,,11,g,n
+,2,Achnatherum hymenoides,3,2,2,1,2,2,1,1,1,1,1,1,,,15,g,n
+,2,Achnatherum hymenoides,1,2,1,1,2,1,,,,,,,,,16,g,n
+,2,Achnatherum hymenoides,,,,2,2,1,3,2,1,,,,,,17,g,n
+,3,Achnatherum hymenoides,3,2,3,3,3,4,2,3,3,3,3,1,,,24,g,n
+,2,Achnatherum hymenoides,,,,,,,5,2,1,3,2,1,,,25,g,n
+,2,Achnatherum hymenoides,,,,1,2,1,,,,1,2,1,,,28,g,n
+,2,Achnatherum hymenoides,1,2,2,,,,,,,1,2,1,,,29,g,n
+,2,Achnatherum hymenoides,1,2,2,1,2,2,,,,,,,,,30,g,n
+,2,Achnatherum hymenoides,2,2,1,1,2,2,1,2,1,,,,,,31,g,n
+,3,Achnatherum hymenoides,2,2,1,1,2,3,3,3,2,,3,3,,,34,g,n
+,2,Achnatherum hymenoides,1,2,2,1,2,1,1,2,3,4,2,,,,37,g,n
+,2,Achnatherum hymenoides,1,2,1,1,2,1,1,2,2,,,,,,40,g,n
+,3,Achnatherum hymenoides,2,3,2,2,3,3,,2,3,2,2,1,,,41,g,n
+,2,Achnatherum hymenoides,1,2,1,3,2,1,1,2,2,4,2,1,,,47,g,n
+,2,Achnatherum hymenoides,,,,2,2,1,,,,,,,,,51,g,n
+,3,Achnatherum nelsonii,1,3,2,3,3,1,2,3,2,1,2,2,,,35,g,n
+,2,Achnatherum nelsonii,1,3,3,2,4,4,,,,,,,,,44,g,n
+,2,Achnatherum pinetorum,1,3,4,2,2,1,2,2,1,2,3,1,,,32,g,n
+,3,Achnatherum pinetorum,4,3,4,4,3,2,4,3,3,4,3,2,,,48,g,n
+,2,Achnatherum robustum,5,3,5,4,2,3,4,2,2,3,2,5,,,21,g,n
+,2,Achnatherum robustum,,,,1,2,2,,,,1,2,1,,,46,g,n
+,1,Agoseris,,,,,,,,,,,,,1,1,18,f,n
+,3,Agoseris,3,3,3,4,2,5,3,3,4,2,3,5,,,26,f,n
+,2,Agoseris,,,,,,,,,,,,,1,2,44,f,n
+,2,Agoseris glauca,4,2,1,3,2,2,4,2,3,4,2,3,,,8,f,n
+,2,Agoseris glauca,4,2,3,2,2,1,4,2,2,5,2,3,,,23,f,n
+,2,Agoseris glauca,3,3,3,2,2,3,3,2,1,1,2,3,,,26,f,n
+,2,Agoseris glauca,1,2,3,2,1,1,2,2,1,1,2,2,,,35,f,n
+,2,Agropyron cristatum,1,2,2,,,,1,2,3,1,2,1,,,7,g,i
+,2,Agropyron cristatum,,,,,,,,,,1,2,1,,,33,g,i
+,2,Allium,3,2,1,2,2,2,4,2,2,2,1,1,,,10,f,n
+,2,Allium,2,2,1,3,2,1,3,2,3,2,2,2,,,12,f,n
+,2,Allium,1,2,3,3,2,1,,,,3,2,4,,,25,f,n
+,2,Allium,,,,,,,,,,,,,1,2,39,f,n
+,2,Allium,3,2,2,2,2,2,4,2,5,2,2,2,,,50,f,n
+,2,Allium acuminatum,2,2,1,,,,,,,,,,,,35,f,n
+,3,Allium acuminatum,3,3,5,4,3,5,3,4,4,3,2,4,,,42,f,n
+,1,Allium acuminatum,,,,3,1,1,,,,,,,,,44,f,n
+,2,Allium cernuum,3,2,3,4,2,3,1,2,3,,,,,,8,f,n
+,2,Allium cernuum,,,,,,,,,,2,2,1,,,43,f,n
+,2,Allium cernuum,,,,,,,2,2,3,,,,,,45,f,n
+,1,Allium geyeri,1,1,1,,,,,,,,,,,,5,f,n
+,2,Allium geyeri,,,,,,,,,,,,,1,1,6,f,n
+,1,Allium geyeri,,,,,,,1,1,1,,,,,,7,f,n
+,2,Allium geyeri,1,2,3,3,2,1,,,,,,,,,9,f,n
+,2,Allium geyeri,1,1,1,,,,1,1,1,,,,,,11,f,n
+,2,Allium geyeri,3,2,3,4,2,4,3,2,3,3,2,2,,,12,f,n
+,1,Allium geyeri,,,,,,,,,,,,,1,1,14,f,n
+,1,Allium geyeri,,,,,,,1,2,1,,,,,,16,f,n
+,2,Allium geyeri,1,2,2,3,2,1,,,,1,2,2,,,21,f,n
+,2,Allium geyeri,,,,1,1,1,2,2,1,,,,,,23,f,n
+,1,Allium textile,,,,,,,,,,,,,1,1,13,f,n
+,2,Allium textile,3,2,2,1,2,1,1,2,1,2,2,2,,,15,f,n
+,1,Allium textile,,,,1,1,1,,,,,,,,,17,f,n
+,2,Allium textile,1,2,2,2,2,5,,,,1,1,1,,,18,f,n
+,2,Allium textile,2,2,2,2,2,2,2,2,1,3,2,3,,,19,f,n
+,2,Allium textile,5,2,2,2,2,3,1,2,3,3,2,3,,,20,f,n
+,2,Allium textile,2,2,3,,,,1,2,2,1,2,3,,,27,f,n
+,2,Allium textile,1,2,2,,,,,,,,,,,,28,f,n
+,2,Allium textile,1,2,2,2,2,2,,,,1,,1,,,29,f,n
+,2,Allium textile,3,2,4,2,2,3,1,2,2,1,2,1,,,30,f,n
+,2,Allium textile,2,2,1,3,2,1,2,2,2,1,2,1,,,34,f,n
+,2,Allium textile,1,2,1,,,,,,,1,2,2,,,35,f,n
+,2,Allium textile,3,2,2,2,2,1,2,2,3,3,2,1,,,36,f,n
+,2,Allium textile,3,2,2,2,2,2,2,2,3,1,2,2,,,37,f,n
+,2,Allium textile,1,2,1,1,2,1,2,2,1,2,2,2,,,38,f,n
+,2,Alopecurus pratensis,,,,1,2,1,3,2,1,,2,,,,49,g,i
+,2,Alyssum,3,2,3,5,2,3,3,2,5,5,2,4,,,21,f,i
+,2,Alyssum,4,2,3,4,2,3,3,2,4,2,2,1,,,23,f,i
+,2,Alyssum alyssoides,4,2,3,4,2,2,3,2,4,4,2,5,,,19,f,i
+,2,Alyssum alyssoides,2,2,2,5,2,1,1,2,4,5,2,2,,,26,f,i
+,2,Alyssum desertorum,1,2,3,2,2,3,2,2,3,3,2,2,,,2,f,i
+,1,Alyssum desertorum,1,1,2,,,,,,,,,,,,3,f,i
+,2,Alyssum desertorum,5,2,2,1,3,3,4,2,5,5,2,3,,,6,f,i
+,2,Alyssum desertorum,5,3,5,5,3,5,4,2,5,5,2,5,,,7,f,i
+,2,Alyssum desertorum,5,2,5,5,2,5,5,2,5,3,2,5,,,8,f,i
+,3,Alyssum desertorum,5,2,4,4,3,5,5,3,5,5,2,5,,,9,f,i
+,2,Alyssum desertorum,5,2,5,5,2,4,5,2,5,5,2,5,,,12,f,i
+,2,Alyssum desertorum,1,2,2,1,2,2,1,1,1,,,,,,13,f,i
+,2,Alyssum desertorum,4,2,4,5,3,4,4,2,5,3,2,5,,,14,f,i
+,2,Alyssum desertorum,3,3,5,4,2,3,4,2,3,3,2,4,,,15,f,i
+,2,Alyssum desertorum,1,1,3,,,,,,,,,,,,18,f,i
+,2,Alyssum desertorum,5,2,4,5,2,4,5,2,5,5,2,5,,,20,f,i
+,2,Alyssum desertorum,5,2,3,5,2,4,5,2,4,3,2,5,,,26,f,i
+,2,Alyssum desertorum,,,,,,,,,,,,,1,2,27,f,i
+,2,Alyssum desertorum,,,,,,,,,,1,2,2,,,32,f,i
+,2,Alyssum desertorum,3,2,1,2,2,1,3,2,2,1,2,1,,,34,f,i
+,2,Alyssum desertorum,4,2,3,5,2,2,4,2,4,3,2,5,,,37,f,i
+,2,Alyssum desertorum,,,,,,,1,2,1,,,,,,42,f,i
+,1,Alyssum desertorum,,,,1,1,1,,,,,,,,,47,f,i
+,3,Amelanchier utahensis,,,,1,1,2,1,2,1,1,3,1,,,11,s,n
+,2,Amelanchier utahensis,,,,,,,,,,1,2,,,,38,s,n
+,3,Amelanchier utahensis,1,3,2,1,2,1,2,2,2,,,,,,42,s,n
+2,,Amelanchier utahensis,,,,,,,1,2,1,,,,,,51,s,n
+,2,Androsace occidentalis,1,2,1,,,,,,,1,2,4,,,39,f,n
+,2,Androsace occidentalis,5,2,4,2,2,2,4,2,1,2,2,3,,,43,f,n
+,2,Androsace occidentalis,4,2,1,,,,1,1,1,1,1,1,,,46,f,n
+,2,Androsace occidentalis,1,2,2,2,2,2,1,2,4,,,,,,48,f,n
+,2,Androsace occidentalis,3,2,3,4,2,2,1,2,1,5,2,2,,,49,f,n
+,2,Androsace occidentalis,2,2,1,3,2,1,,,,,,,,,50,f,n
+,2,Antennaria anaphaloides,1,2,2,4,1,1,1,2,1,,,,,,44,f,n
+,1,Antennaria dimorpha,,,,,,,,,,,,,1,1,4,f,n
+,2,Antennaria dimorpha,2,2,3,2,2,2,1,2,3,1,2,2,,,6,f,n
+,2,Antennaria dimorpha,3,2,2,4,2,3,4,2,5,4,2,3,,,7,f,n
+,2,Antennaria dimorpha,1,2,2,1,2,4,,,,2,2,2,,,8,f,n
+,2,Antennaria dimorpha,3,2,5,2,2,2,3,2,3,1,2,3,,,10,f,n
+,2,Antennaria dimorpha,2,2,4,3,2,4,3,2,3,1,2,2,,,12,f,n
+,2,Antennaria dimorpha,,,,1,1,2,,,,1,2,2,,,19,f,n
+,2,Antennaria dimorpha,1,2,1,,,,1,2,1,1,2,2,,,23,f,n
+,2,Antennaria dimorpha,1,2,1,1,2,1,,,,,,,,,31,f,n
+,2,Antennaria dimorpha,,2,3,3,2,1,1,2,1,1,1,1,,,32,f,n
+,2,Antennaria dimorpha,1,2,3,,,,,,,,,,,,33,f,n
+,1,Antennaria dimorpha,,,,,,,1,2,1,,,,,,39,f,n
+,2,Antennaria dimorpha,2,2,1,,,,2,2,1,,,,,,41,f,n
+,2,Antennaria dimorpha,3,2,2,1,2,2,,,,1,2,1,,,42,f,n
+,1,Antennaria dimorpha,,,,,,,,,,,,,1,1,51,f,n
+,1,Antennaria microphylla,2,1,1,,,,,,,,,,,,3,f,n
+,3,Antennaria microphylla,5,3,3,4,2,3,4,3,2,2,3,3,,,35,f,n
+,2,Antennaria microphylla,2,2,3,3,2,3,,,,1,2,2,,,39,f,n
+,2,Antennaria microphylla,1,2,1,1,2,1,,,,,,,,,42,f,n
+,3,Antennaria microphylla,2,4,2,4,4,3,4,3,4,5,3,2,,,43,f,n
+,4,Antennaria microphylla,5,4,5,5,4,3,5,5,5,3,4,4,,,45,f,n
+,2,Antennaria microphylla,2,2,2,1,2,4,1,2,1,2,2,1,,,46,f,n
+,3,Antennaria microphylla,4,2,2,5,2,1,4,4,4,5,3,2,,,48,f,n
+,3,Antennaria microphylla,3,3,5,2,2,5,2,2,1,1,3,1,,,49,f,n
+,4,Antennaria microphylla,2,5,2,3,4,1,1,3,5,2,3,2,,,50,f,n
+,2,Antennaria microphylla,1,2,2,1,2,2,,,,2,2,1,,,51,f,n
+,2,Antennaria parvifolia,,,,,,,,,,,,,1,2,19,f,n
+,3,Antennaria parvifolia,2,3,1,3,2,2,3,2,2,1,2,5,,,23,f,n
+,2,Antennaria parvifolia,,,,,,,,,,,,,1,2,25,f,n
+,2,Antennaria parvifolia,1,2,1,1,2,2,1,2,1,2,2,1,,,26,f,n
+,2,Antennaria rosea,1,2,2,2,2,2,1,2,2,,,,,,32,f,n
+,2,Antennaria rosea,3,2,1,3,4,3,4,3,1,1,2,1,,,38,f,n
+,2,Antennaria rosea,3,3,1,2,2,2,4,2,5,1,2,3,,,44,f,n
+,2,Apiaceae,2,2,1,1,2,1,,,,1,2,2,,,9,f,n
+,2,Apiaceae,3,2,2,3,2,2,,,,1,1,1,,,12,f,n
+,2,Apiaceae,3,2,5,2,2,3,3,2,1,1,2,3,,,20,f,n
+,2,Apiaceae,,,,,,,1,1,2,1,2,1,,,45,f,n
+,2,Arabis,2,2,1,,,,,,,1,1,2,,,2,f,n
+,2,Arabis,1,1,2,4,2,4,2,2,3,2,2,2,,,3,f,n
+,2,Arabis,3,2,2,2,2,2,2,2,2,2,2,1,,,5,f,n
+,3,Arabis,3,2,3,1,1,1,1,2,3,3,2,1,,,6,f,n
+,2,Arabis,2,2,1,3,2,3,3,2,1,3,2,1,,,7,f,n
+,1,Arabis,,,,,,,,,,,,,1,1,8,f,n
+,2,Arabis,,,,,,,,,,2,2,2,,,12,f,n
+,1,Arabis,,,,,,,,,,1,1,1,,,14,f,n
+,1,Arabis,,,,,,,,,,,,,1,1,21,f,n
+,2,Arabis,4,2,2,2,2,2,,,,1,2,2,,,37,f,n
+,2,Arabis cobrensis,,,,,,,1,2,1,1,1,1,,,36,f,n
+,2,Arabis divaricarpa,3,2,2,2,2,2,3,2,2,3,2,4,,,43,f,n
+,2,Arabis exilis,2,2,1,3,2,1,2,2,3,1,2,2,,,11,f,n
+,2,Arabis exilis,4,2,3,1,2,1,,,,,,,,,23,f,n
+,2,Arabis exilis,3,2,2,2,2,3,2,2,,4,2,1,,,31,f,n
+,2,Arabis exilis,2,2,3,,,,1,2,4,,,,,,32,f,n
+,2,Arabis exilis,1,2,3,3,2,1,3,2,2,4,2,1,,,33,f,n
+,2,Arabis exilis,1,2,3,,,,4,2,1,4,2,1,,,39,f,n
+,2,Arabis exilis,2,2,2,3,2,4,1,2,4,2,2,5,,,45,f,n
+,2,Arabis exilis,1,2,2,1,2,5,1,2,3,4,2,1,,,48,f,n
+,2,Arabis holboellii,3,2,1,,,,2,2,2,1,2,4,,,8,f,n
+,1,Arabis holboellii,1,1,1,,,,,,,,,,,,12,f,n
+,2,Arabis holboellii,,,,,,,,,,3,1,1,,,21,f,n
+,2,Arabis holboellii,3,2,1,,,,,,,,,,,,26,f,n
+,2,Arabis holboellii,1,2,1,1,2,1,,,,2,2,1,,,30,f,n
+,2,Arabis holboellii,2,2,2,2,2,1,1,2,1,3,2,2,,,34,f,n
+,2,Arabis holboellii,3,2,2,1,2,3,1,2,2,,,,,,38,f,n
+,2,Arabis holboellii,3,2,2,3,2,4,,,,1,2,2,,,42,f,n
+,2,Arabis holboellii,3,1,1,1,2,2,3,2,1,2,,1,,,49,f,n
+,2,Arabis microphylla,,,,,,,,,,,,,1,2,39,f,n
+,2,Arabis microphylla,,,,,,,,,,1,2,1,,,40,f,n
+,2,Arabis microphylla,,,,,,,1,2,1,,,,,,41,f,n
+,2,Arabis microphylla,2,2,2,1,2,1,3,1,3,,,,,,47,f,n
+,2,Arabis sp 1,2,2,4,2,2,3,2,2,3,3,2,3,,,10,f,n
+,2,Arabis sp 2,2,2,3,2,2,2,2,2,3,3,2,3,,,10,f,n
+,2,Arabis drummondi,,,,,,,,,,,,,1,2,45,f,n
+,2,Arabis drummondi,1,2,3,1,2,2,3,2,2,1,2,2,,,46,f,n
+,2,Arabis drummondi,,,,1,2,2,2,2,1,,,,,,50,f,n
+,2,Arabis drummondi,,,,1,2,3,,,,3,2,1,,,51,f,n
+,2,Arenaria,5,2,3,1,1,3,,,,,,,,,49,f,n
+,2,Arenaria congesta,2,2,3,2,2,2,2,2,2,3,2,1,,,35,f,n
+,2,Arenaria congesta,1,2,1,2,2,1,3,3,4,3,2,1,,,43,f,n
+,2,Arenaria congesta,2,2,1,1,2,3,2,2,5,1,2,5,,,45,f,n
+,2,Arenaria congesta,3,2,4,3,2,4,3,2,1,4,2,4,,,46,f,n
+ ,2,Arenaria congesta,,,,,,,,,,,,,1,2,48,f,n
+,2,Arenaria congesta,4,2,4,5,2,2,2,2,5,4,2,2,,,50,f,n
+,2,Arenaria fendleri,3,2,2,2,2,4,2,2,3,3,2,1,,,44,f,n
+,2,Arenaria fendleri,1,2,2,,,,1,2,1,1,2,1,,,45,f,n
+,2,Arenaria hookeri,4,2,2,1,2,3,5,2,5,2,2,3,,,5,f,n
+,2,Arenaria hookeri,2,2,2,2,2,2,3,2,1,3,2,5,,,19,f,n
+,2,Arenaria hookeri,1,2,2,2,2,1,1,2,2,1,2,,,,25,f,n
+,1,Arenaria hookeri,,,,,,,1,1,2,,,,,,29,f,n
+,2,Arenaria hookeri,,,,,,,,,,,,,1,2,30,f,n
+,2,Arenaria hookeri,2,2,2,3,2,3,2,2,2,2,2,2,,,31,f,n
+,2,Arenaria hookeri,,,,1,2,1,,,,2,1,1,,,32,f,n
+,2,Arenaria hookeri,1,2,1,2,2,1,,,,1,2,2,,,33,f,n
+,2,Arenaria hookeri,3,2,2,2,2,3,2,2,1,2,2,2,,,34,f,n
+,2,Arenaria hookeri,1,2,2,1,2,2,,,,1,2,1,,,37,f,n
+,2,Arenaria hookeri,3,2,2,2,2,3,3,2,3,4,2,4,,,39,f,n
+,2,Arenaria hookeri,1,2,3,2,3,2,1,2,1,1,2,2,,,40,f,n
+,3,Arenaria hookeri,2,3,2,3,3,1,3,3,2,3,3,2,,,41,f,n
+,2,Aristida purpurea,1,2,2,5,3,1,2,3,1,1,2,2,,,18,g,n
+,2,Aristida purpurea,2,2,1,1,1,1,,,,2,2,1,,,22,g,n
+,4,Arnica chamissonis,4,4,3,5,3,3,5,5,5,4,4,3,,,26,f,n
+,2,Artemisia frigida,1,2,1,1,2,1,,,,,,,,,8,f,n
+,1,Artemisia frigida,,,,,,,,,,,,,1,1,14,f,n
+,2,Artemisia frigida,3,2,2,1,2,2,3,2,1,3,2,1,,,16,f,n
+,2,Artemisia frigida,1,3,3,2,2,3,1,2,2,2,3,1,,,19,f,n
+,2,Artemisia frigida,,,,,,,,,,1,2,1,,,20,f,n
+,2,Artemisia frigida,1,1,1,,,,,,,1,1,2,,,22,f,n
+,2,Artemisia frigida,,,,1,1,1,1,1,1,,,,,,23,f,n
+,1,Artemisia frigida,,,,,,,,,,,,,1,1,24,f,n
+,3,Artemisia frigida,3,3,2,3,3,3,4,2,3,2,2,2,,,25,f,n
+,2,Artemisia frigida,,,,,,,,,,,,,1,2,26,f,n
+,2,Artemisia frigida,,,,,,,,,,1,2,1,,,33,f,n
+,3,Artemisia frigida,3,3,2,3,3,2,5,3,3,4,3,5,,,39,f,n
+,2,Artemisia frigida,,,,,,,,,,,,,1,2,40,f,n
+,2,Artemisia frigida,2,2,1,1,2,1,,,,2,2,2,,,43,f,n
+,2,Artemisia frigida,2,3,1,1,2,1,,,,4,3,2,,,44,f,n
+,2,Artemisia frigida,,,,,,,,,,,,,1,2,45,f,n
+,2,Artemisia frigida,,,,2,2,1,,,,,,,,,51,f,n
+,2,Artemisia ludoviciana,,,,,,,,,,1,2,2,,,23,f,n
+,2,Artemisia nova,,,,1,2,1,2,2,1,,,,,,38,s,n
+,4,Artemisia nova,2,4,3,2,3,1,3,4,4,3,4,1,,,48,s,n
+,1,Artemisia pedatifida,,,,,,,,,,,,,1,1,5,f,n
+,1,Artemisia pedatifida,,,,,,,,,,,,,1,1,9,f,n
+,2,Artemisia pedatifida,,,,1,2,2,3,1,1,1,1,1,,,15,f,n
+,2,Artemisia pedatifida,,,,,,,,,,,,,1,2,17,f,n
+,2,Artemisia pedatifida,2,2,5,1,2,2,,,,3,2,1,,,20,f,n
+,1,Artemisia pedatifida,1,1,1,,,,,,,,,,,,23,f,n
+,3,Artemisia pedatifida,2,4,3,2,3,2,3,3,4,4,3,2,,,26,f,n
+,2,Artemisia pedatifida,,,,,,,,,,,,,1,2,31,f,n
+,1,Artemisia pedatifida,,,,,,,,,,,,,1,1,40,f,n
+6,1,Artemisia tridentata,4,6,3,2,6,1,2,6,2,3,6,2,,,1,s,n
+7,7,Artemisia tridentata,3,7,3,3,7,4,3,7,3,3,7,4,,,2,s,n
+4,2,Artemisia tridentata,2,7,3,5,7,4,4,7,3,3,6,4,,,3,s,n
+7,,Artemisia tridentata,3,7,3,2,7,3,2,7,2,2,7,3,,,4,s,n
+6,3,Artemisia tridentata,3,6,3,1,6,3,3,7,2,2,6,3,,,5,s,n
+5,2,Artemisia tridentata,4,7,4,4,7,4,4,7,4,4,7,4,,,6,s,n
+7,5,Artemisia tridentata,3,7,3,3,7,3,2,7,1,4,7,2,,,7,s,n
+7,5,Artemisia tridentata,3,7,4,3,8,3,3,9,3,4,8,3,,,8,s,n
+6,6,Artemisia tridentata,2,6,3,3,7,4,3,7,2,2,6,2,,,9,s,n
+6,6,Artemisia tridentata,4,7,4,2,7,3,3,7,1,5,7,5,,,10,s,n
+7,3,Artemisia tridentata,4,7,3,3,7,3,4,7,3,3,7,3,,,11,s,n
+7,3,Artemisia tridentata,3,7,5,3,7,5,3,7,3,3,7,4,,,12,s,n
+7,3,Artemisia tridentata,3,7,3,3,7,2,4,7,3,3,7,4,,,13,s,n
+6,5,Artemisia tridentata,3,6,4,3,6,3,2,6,2,3,6,2,,,14,s,n
+,7,Artemisia tridentata,3,6,4,4,7,3,3,7,3,4,7,3,,,15,s,n
+5,5,Artemisia tridentata,2,6,3,5,6,3,2,6,3,4,6,3,,,16,s,n
+,7,Artemisia tridentata,2,6,4,3,6,2,3,7,3,3,7,2,,,17,s,n
+6,3,Artemisia tridentata,2,6,3,4,6,2,3,7,3,5,6,4,,,18,s,n
+6,3,Artemisia tridentata,2,6,2,3,6,3,3,6,3,4,6,4,,,19,s,n
+6,3,Artemisia tridentata,4,6,2,4,6,3,3,6,2,2,6,5,,,20,s,n
+7,4,Artemisia tridentata,3,7,4,4,7,3,3,8,3,4,7,3,,,21,s,n
+,8,Artemisia tridentata,4,8,4,4,8,5,4,8,1,5,8,4,,,22,s,n
+7,6,Artemisia tridentata,4,8,4,5,8,4,4,8,5,5,8,4,,,23,s,n
+7,4,Artemisia tridentata,2,7,3,3,7,4,3,7,3,4,8,3,,,24,s,n
+,8,Artemisia tridentata,2,8,4,4,8,4,3,8,4,2,8,4,,,25,s,n
+8,3,Artemisia tridentata,3,8,4,3,7,3,3,8,3,3,8,3,,,26,s,n
+4,6,Artemisia tridentata,4,7,3,4,7,3,3,7,3,2,7,4,,,27,s,n
+6,4,Artemisia tridentata,3,7,2,3,7,3,4,7,3,3,7,3,,,28,s,n
+6,4,Artemisia tridentata,3,7,3,2,7,3,2,7,2,2,7,2,,,29,s,n
+7,4,Artemisia tridentata,3,8,4,3,8,4,3,8,3,3,8,3,,,30,s,n
+8,3,Artemisia tridentata,3,7,4,2,8,2,3,7,2,5,8,3,,,31,s,n
+6,4,Artemisia tridentata,4,7,4,3,7,5,3,7,3,3,7,3,,,32,s,n
+6,4,Artemisia tridentata,3,8,2,3,7,3,3,7,4,3,7,4,,,33,s,n
+3,7,Artemisia tridentata,3,7,3,4,8,4,3,7,2,3,7,4,,,34,s,n
+,5,Artemisia tridentata,3,6,3,4,6,1,3,7,3,4,7,3,,,35,s,n
+3,6,Artemisia tridentata,2,7,2,2,7,3,3,6,2,2,6,2,,,36,s,n
+7,3,Artemisia tridentata,4,7,3,3,7,3,5,7,3,3,7,3,,,37,s,n
+,7,Artemisia tridentata,5,7,4,4,7,3,4,8,4,3,7,5,,,38,s,n
+7,3,Artemisia tridentata,3,7,4,4,7,3,2,7,5,3,7,3,,,39,s,n
+7,3,Artemisia tridentata,3,7,3,4,7,3,4,8,3,3,8,3,,,40,s,n
+,7,Artemisia tridentata,4,8,3,4,7,3,3,7,4,3,7,3,,,41,s,n
+8,3,Artemisia tridentata,3,8,3,4,8,3,3,8,3,2,7,3,,,42,s,n
+6,5,Artemisia tridentata,4,7,4,4,7,2,2,7,3,3,7,3,,,43,s,n
+6,5,Artemisia tridentata,4,7,3,3,7,3,3,8,4,3,7,4,,,44,s,n
+6,5,Artemisia tridentata,3,7,3,4,6,3,2,7,2,2,6,3,,,45,s,n
+7,5,Artemisia tridentata,3,8,4,2,8,2,2,8,3,3,8,4,,,46,s,n
+4,7,Artemisia tridentata,3,7,2,3,7,4,2,7,3,4,7,5,,,47,s,n
+7,4,Artemisia tridentata,3,8,2,3,7,4,4,7,4,4,7,3,,,48,s,n
+8,4,Artemisia tridentata,4,8,3,3,8,3,3,8,3,3,8,3,,,49,s,n
+8,3,Artemisia tridentata,3,8,3,3,8,5,3,8,3,3,7,3,,,50,s,n
+7,3,Artemisia tridentata,3,7,3,3,7,4,3,7,2,2,7,4,,,51,s,n
+,3,Artemisia tripartia,3,3,1,1,2,1,1,3,3,1,2,1,,,44,s,n
+,1,Asteraceae,1,1,3,,,,2,1,1,,,,,,7,f,n
+,2,Asteraceae,2,2,5,2,2,2,1,2,2,2,2,2,,,10,f,n
+,2,Asteraceae,1,2,1,2,2,1,1,1,1,1,2,2,,,12,f,n
+,2,Asteraceae,,,,,,,1,2,1,,,,,,13,f,n
+,1,Asteraceae,,,,,,,,,,,,,1,1,17,f,n
+,2,Asteraceae,,,,2,1,1,2,2,1,2,1,1,,,18,f,n
+,2,Asteraceae,3,2,1,2,2,5,2,2,2,5,2,5,,,20,f,n
+,2,Asteraceae,2,2,2,,,,2,2,3,1,1,1,,,21,f,n
+,2,Asteraceae,4,2,3,5,2,3,3,2,1,1,2,1,,,22,f,n
+,1,Asteraceae,,,,,,,,,,,,,1,1,40,f,n
+,2,Asteraceae,3,2,1,,,,,,,,,,,,42,f,n
+,3,Asteraceae,5,4,3,1,3,3,5,2,2,5,2,2,,,49,f,n
+,2,Asteraceae,,,,,,,,,,1,2,1,,,49,f,n
+,2,Asteraceae,2,2,2,2,2,1,,,,4,2,3,,,50,f,n
+,2,Asteraceae sp 1,4,2,2,5,2,4,5,2,2,,,,,,19,f,n
+,2,Asteraceae sp 1,1,1,1,1,1,1,,,,1,2,1,,,20,f,n
+,2,Asteraceae sp 2,3,2,2,3,2,2,2,2,1,1,2,1,,,19,f,n
+,1,Asteraceae sp 2,,,,,,,1,1,2,,,,,,20,f,n
+,2,Astragalus,3,2,1,2,2,2,2,1,1,1,2,2,,,8,f,n
+,2,Astragalus,1,2,2,4,2,1,,,,1,2,2,,,11,f,n
+,1,Astragalus,,,,,,,,,,,,,1,1,14,f,n
+,2,Astragalus,1,1,1,1,1,3,,,,,,,,,20,f,n
+,1,Astragalus,,,,,,,,,,,,,1,1,21,f,n
+,2,Astragalus,1,2,1,2,2,2,1,2,5,,,,,,44,f,n
+,2,Astragalus argophyllus,1,2,1,,,,,,,1,2,3,,,42,f,n
+,1,Astragalus australis,1,1,1,,,,,,,,,,,,33,f,n
+,1,Astragalus calycosus,1,1,1,,,,1,1,2,,,,,,2,f,n
+,2,Astragalus chamaeleuce,,,,1,2,1,,,,2,1,3,,,24,f,n
+,2,Astragalus chamaeleuce,,,,1,1,3,,,,,,,,,28,f,n
+,2,Astragalus chamaeleuce,1,2,1,,,,,,,,,,,,40,f,n
+,2,Astragalus cibarius,,,,,,,,,,,,,1,1,26,f,n
+,2,Astragalus cibarius,2,2,4,2,2,4,1,2,2,4,2,1,,,42,f,n
+,2,Astragalus convallarius,1,2,1,1,2,1,,,,,,,,,31,f,n
+,2,Astragalus convallarius,3,2,3,2,2,4,2,2,2,2,2,1,,,32,f,n
+,2,Astragalus convallarius,,,,,,,1,2,1,,,,,,33,f,n
+,2,Astragalus convallarius,4,2,1,1,2,1,1,2,2,2,2,1,,,34,f,n
+,2,Astragalus convallarius,3,2,3,2,2,3,3,2,2,3,3,3,,,37,f,n
+,3,Astragalus convallarius,3,3,2,3,4,3,2,3,2,2,3,3,,,38,f,n
+,2,Astragalus convallarius,4,2,1,3,2,1,4,2,1,4,2,1,,,39,f,n
+,2,Astragalus convallarius,3,2,3,,,,,,,,,,,,42,f,n
+,2,Astragalus convallarius,,,,,,,,,,,,,1,2,48,f,n
+,2,Astragalus convallarius,2,2,1,4,2,3,1,2,2,1,2,4,,,51,f,n
+,3,Astragalus drummondii,1,2,2,2,2,1,,,,1,2,1,,,11,f,n
+,2,Astragalus drummondii,,,,,,,1,1,1,1,1,1,,,12,f,n
+,2,Astragalus drummondii,2,3,5,4,2,1,,,,3,3,4,,,25,f,n
+,2,Astragalus drummondii,,,,,,,,,,1,2,,,,38,f,n
+,2,Astragalus geyeri,1,2,4,,,,4,1,4,3,2,1,,,1,f,n
+,2,Astragalus geyeri,1,2,1,1,2,3,1,2,1,1,2,1,,,17,f,n
+,2,Astragalus gracilis,1,1,1,2,2,3,3,2,2,1,2,1,,,20,f,n
+,2,Astragalus laxmanii,2,2,2,1,2,2,4,2,1,1,2,1,,,36,f,n
+,2,Astragalus lentiginosus,1,2,1,2,2,1,1,1,2,1,1,1,,,6,f,n
+,1,Astragalus lentiginosus,,,,,,,,,,,,,1,1,31,f,n
+,2,Astragalus megacarpus,3,2,4,3,2,1,1,2,2,3,2,2,,,5,f,n
+,2,Astragalus megacarpus,,,,1,2,1,,,,,,,,,32,f,n
+,1,Astragalus megacarpus,1,1,1,,,,,,,,,,,,33,f,n
+,2,Astragalus miser,1,2,1,2,2,1,1,2,2,,,,,,6,f,n
+,1,Astragalus miser,1,2,1,1,2,3,1,1,2,2,2,4,,,8,f,n
+,2,Astragalus miser,2,1,1,,,,,,,2,2,1,,,15,f,n
+,2,Astragalus miser,1,2,2,,,,,,,2,1,1,,,23,f,n
+,2,Astragalus miser,2,2,4,5,2,4,2,2,2,4,2,3,,,25,f,n
+,2,Astragalus miser,3,2,3,3,2,4,3,2,2,4,2,2,,,26,f,n
+,2,Astragalus miser,1,2,4,3,2,1,1,2,3,,,,,,34,f,n
+,2,Astragalus miser,2,2,1,3,2,1,2,2,4,1,2,2,,,35,f,n
+,2,Astragalus miser,1,2,2,2,2,1,,,,3,2,1,,,37,f,n
+,2,Astragalus miser,,,,,,,,,,,,,1,2,43,f,n
+,2,Astragalus miser,2,2,3,1,2,2,4,2,3,5,2,2,,,45,f,n
+,3,Astragalus miser,3,4,2,2,3,2,2,2,1,1,3,5,,,46,f,n
+,2,Astragalus miser,3,2,3,1,2,3,4,2,3,2,2,2,,,48,f,n
+,2,Astragalus missouriensis,,,,,,,,,,,,,1,2,16,f,n
+,2,Astragalus missouriensis,2,2,2,3,2,1,1,2,1,2,2,1,,,27,f,n
+,2,Astragalus missouriensis,,,,3,2,1,1,2,2,1,,2,,,37,f,n
+,3,Astragalus oreganus,3,3,2,3,3,5,2,4,5,3,4,2,,,29,f,n
+,2,Astragalus purshii,2,2,1,,,,3,3,1,3,2,1,,,1,f,n
+,1,Astragalus purshii,1,1,1,1,1,1,,,,,,,,,2,f,n
+,2,Astragalus purshii,1,1,2,,,,,,,1,1,2,,,3,f,n
+,2,Astragalus purshii,2,2,2,,,,3,2,2,1,1,1,,,5,f,n
+,2,Astragalus purshii,,,,,,,,,,,,,1,1,6,f,n
+,2,Astragalus purshii,2,2,1,2,2,2,2,2,2,2,2,2,,,7,f,n
+,2,Astragalus purshii,,,,,,,1,1,1,,,,,,8,f,n
+,2,Astragalus purshii,,,,1,1,1,,,,,,,,,9,f,n
+,2,Astragalus purshii,3,2,1,1,2,2,,,,2,2,1,,,11,f,n
+,2,Astragalus purshii,1,2,4,2,2,3,2,2,1,1,1,1,,,12,f,n
+,2,Astragalus purshii,,,,,,,,,,,,,1,2,14,f,n
+,2,Astragalus purshii,1,2,1,1,2,1,,,,2,2,1,,,15,f,n
+,1,Astragalus purshii,1,1,1,,,,,,,,,,,,20,f,n
+,2,Astragalus purshii,1,2,2,1,2,1,,,,1,2,2,,,21,f,n
+,2,Astragalus purshii,1,2,2,1,2,2,2,2,1,1,2,1,,,23,f,n
+,1,Astragalus purshii,,,,,,,1,1,1,,,,,,26,f,n
+,2,Astragalus purshii,1,2,1,,,,3,2,3,1,2,2,,,27,f,n
+,2,Astragalus purshii,1,1,1,,,,,,,,,,,,31,f,n
+,2,Astragalus purshii,1,1,1,,,,,,,1,2,2,,,32,f,n
+,2,Astragalus purshii,1,1,1,1,2,2,,,,2,2,3,,,33,f,n
+,2,Astragalus purshii,,,,3,2,1,1,2,1,,,,,,34,f,n
+,2,Astragalus purshii,2,2,1,1,1,1,1,2,2,1,2,1,,,37,f,n
+,2,Astragalus purshii,,,,2,2,1,,,,,,,,,39,f,n
+,2,Astragalus purshii,1,2,1,,,,,,,1,2,1,,,40,f,n
+,2,Astragalus purshii,1,2,1,2,2,1,2,2,2,2,2,3,,,41,f,n
+,2,Astragalus purshii,2,2,2,,,,,,,,,,,,43,f,n
+,1,Astragalus purshii,,,,1,1,1,,,,,,,,,44,f,n
+,2,Astragalus purshii,,,,,,,1,2,2,,,,,,48,f,n
+,2,Astragalus purshii,1,1,1,,,,1,1,1,1,2,2,,,51,f,n
+,2,Astragalus shortianus,,,,,,,,,,,,,1,2,24,f,n
+,2,Astragalus shortianus,,,,2,1,1,1,1,1,,,,,,29,f,n
+,2,Astragalus simplicifolius,2,2,1,,,,2,2,1,1,1,1,,,34,f,n
+,2,Astragalus sp 1,1,1,1,1,2,1,1,2,2,2,2,2,,,12,f,n
+,1,Astragalus sp 2,,,,1,1,1,,,,,,,,,12,f,n
+,2,Astragalus spatulatus,1,1,2,,,,1,2,4,1,2,1,,,3,f,n
+,2,Astragalus spatulatus,2,2,1,1,2,2,2,2,1,1,1,1,,,16,f,n
+,1,Astragalus spatulatus,,,,,,,,,,,,,1,1,19,f,n
+,2,Astragalus spatulatus,,,,,,,1,1,2,1,2,1,,,31,f,n
+,2,Astragalus spatulatus,,,,,,,,,,,,,1,2,32,f,n
+,2,Astragalus spatulatus,2,2,1,1,2,2,3,2,3,1,2,3,,,39,f,n
+,2,Astragalus spatulatus,3,3,3,1,2,1,3,2,1,3,2,4,,,43,f,n
+,1,Astragalus vexilliflexus,,,,,,,1,1,1,,,,,,16,f,n
+,2,Astragalus vexilliflexus,,,,,,,,,,,,,1,2,44,f,n
+2,2,Atriplex confertifolia,1,1,1,,,,1,3,2,2,2,1,,,5,s,n
+,3,Atriplex confertifolia,1,2,4,1,2,2,1,2,2,5,2,2,,,9,s,n
+,2,Atriplex confertifolia,3,3,1,1,2,1,,,,,,,,,40,s,n
+,2,Atriplex confertifolia,,,,1,2,2,,,,,,,,,41,s,n
+,2,Atriplex falcata,2,2,1,2,2,3,2,2,2,2,2,2,,,39,s,n
+,2,Atriplex gardneri,3,2,1,2,2,2,1,2,2,1,2,2,,,5,s,n
+,2,Atriplex gardneri,1,2,2,,,,,,,,,,,,21,s,n
+,2,Atriplex gardneri,,,,,,,,,,,,,1,2,31,s,n
+,2,Atriplex gardneri,1,2,2,,,,3,2,1,,,,,,40,s,n
+,2,Atriplex tridentata,,,,,,,,,,,,,1,1,1,s,n
+,2,Atriplex tridentata,3,2,2,1,1,1,2,2,1,1,2,1,,,19,s,n
+,2,Atriplex tridentata,,,,,,,,,,,,,1,2,39,s,n
+,2,Balsamorhiza,1,1,1,,,,,,,1,2,2,,,26,f,n
+,3,Balsamorhiza incana,2,3,3,2,3,2,2,2,3,2,3,2,,,25,f,n
+,2,Balsamorhiza incana,,,,,,,,,,1,2,,,,38,f,n
+,5,Balsamorhiza sagittata,2,2,2,,,,,,,3,2,2,,,35,f,n
+,2,Balsamorhiza sagittata,1,3,1,1,3,2,1,2,1,,,,,,42,f,n
+,4,Balsamorhiza sagittata,2,4,3,2,4,2,2,4,2,2,4,3,,,51,f,n
+,7,Bare Ground,,6,,,6,,,7,,,7,,,,1,,
+,7,Bare Ground,,7,,,7,,,6,,,7,,,,2,,
+,7,Bare Ground,,6,,,6,,,7,,,7,,,,3,,
+,6,Bare Ground,,6,,,6,,,7,,,7,,,,4,,
+,7,Bare Ground,,7,,,7,,,7,,,6,,,,5,,
+,5,Bare Ground,,6,,,5,,,5,,,5,,,,6,,
+,7,Bare Ground,,7,,,7,,,7,,,7,,,,7,,
+,5,Bare Ground,,6,,,5,,,4,,,5,,,,8,,
+,2,Bare Ground,,7,,,6,,,6,,,6,,,,9,,
+,6,Bare Ground,,6,,,5,,,5,,,5,,,,10,,
+,8,Bare Ground,,6,,,7,,,7,,,8,,,,11,,
+,6,Bare Ground,,6,,,6,,,6,,,7,,,,12,,
+,8,Bare Ground,,8,,,8,,,8,,,8,,,,13,,
+,7,Bare Ground,,7,,,7,,,7,,,7,,,,14,,
+,7,Bare Ground,,7,,,7,,,7,,,7,,,,15,,
+,7,Bare Ground,,7,,,7,,,7,,,7,,,,16,,
+,8,Bare Ground,,8,,,8,,,8,,,8,,,,17,,
+,3,Bare Ground,,4,,,2,,,2,,,2,,,,18,,
+,6,Bare Ground,,6,,,6,,,6,,,6,,,,19,,
+,6,Bare Ground,,6,,,6,,,6,,,6,,,,20,,
+,6,Bare Ground,,6,,,6,,,6,,,6,,,,21,,
+,6,Bare Ground,,6,,,6,,,6,,,6,,,,22,,
+,7,Bare Ground,,7,,,7,,,7,,,7,,,,23,,
+,8,Bare Ground,,8,,,8,,,8,,,8,,,,24,,
+,7,Bare Ground,,7,,,7,,,7,,,7,,,,25,,
+,3,Bare Ground,,3,,,3,,,3,,,3,,,,26,,
+,6,Bare Ground,,7,,,7,,,7,,,7,,,,27,,
+,7,Bare Ground,,7,,,7,,,7,,,7,,,,28,,
+,7,Bare Ground,,7,,,8,,,7,,,7,,,,29,,
+,7,Bare Ground,,7,,,7,,,7,,,7,,,,30,,
+,8,Bare Ground,,8,,,8,,,8,,,8,,,,31,,
+,8,Bare Ground,,8,,,8,,,8,,,8,,,,32,,
+,7,Bare Ground,,7,,,7,,,7,,,7,,,,33,,
+,8,Bare Ground,,8,,,8,,,8,,,8,,,,34,,
+,5,Bare Ground,,5,,,5,,,6,,,5,,,,35,,
+,8,Bare Ground,,8,,,8,,,8,,,7,,,,36,,
+,6,Bare Ground,,5,,,6,,,6,,,6,,,,37,,
+,5,Bare Ground,,5,,,5,,,6,,,5,,,,38,,
+,5,Bare Ground,,5,,,5,,,5,,,5,,,,39,,
+,8,Bare Ground,,8,,,8,,,8,,,7,,,,40,,
+,8,Bare Ground,,8,,,8,,,8,,,8,,,,41,,
+,4,Bare Ground,,4,,,4,,,4,,,5,,,,42,,
+,7,Bare Ground,,7,,,7,,,6,,,7,,,,43,,
+,4,Bare Ground,,4,,,4,,,4,,,4,,,,44,,
+,3,Bare Ground,,2,,,3,,,3,,,3,,,,45,,
+,3,Bare Ground,,3,,,3,,,3,,,3,,,,46,,
+,8,Bare Ground,,8,,,8,,,8,,,8,,,,47,,
+,7,Bare Ground,,6,,,7,,,7,,,7,,,,48,,
+,3,Bare Ground,,3,,,3,,,3,,,3,,,,49,,
+,5,Bare Ground,,5,,,5,,,4,,,5,,,,50,,
+,6,Bare Ground,,6,,,6,,,6,,,6,,,,51,,
+,2,Besseya wyomingensis,2,2,5,1,2,1,1,2,1,,,,,,10,f,n
+,2,Besseya wyomingensis,3,2,2,2,2,2,1,2,1,1,1,1,,,11,f,n
+,1,Boraginaceae,,,,,,,,,,,,,1,1,48,f,n
+,2,Bouteloua gracilis,1,1,1,1,3,1,1,2,2,,,,,,12,g,n
+,4,Bouteloua gracilis,5,4,2,2,4,2,4,4,2,3,4,3,,,13,g,n
+,4,Bouteloua gracilis,5,5,3,3,5,5,5,4,3,5,4,5,,,14,g,n
+,3,Bouteloua gracilis,5,3,5,3,3,4,5,3,3,4,3,5,,,16,g,n
+,2,Bouteloua gracilis,1,3,1,1,2,4,,,,1,2,2,,,17,g,n
+,4,Bouteloua gracilis,4,4,4,2,3,5,4,4,4,3,4,3,,,18,g,n
+,4,Bouteloua gracilis,5,4,4,4,4,5,5,5,3,5,4,5,,,19,g,n
+,5,Bouteloua gracilis,5,5,5,5,5,5,5,5,2,5,5,5,,,20,g,n
+,3,Bouteloua gracilis,4,2,3,1,2,2,3,3,5,5,3,3,,,21,g,n
+,4,Bouteloua gracilis,3,4,3,3,3,5,3,4,1,2,3,3,,,22,g,n
+,4,Bouteloua gracilis,3,3,2,5,4,5,3,5,5,4,4,4,,,28,g,n
+,5,Bouteloua gracilis,5,4,2,5,5,4,4,5,4,5,5,5,,,29,g,n
+,4,Bouteloua gracilis,3,4,3,2,5,3,3,3,2,2,3,1,,,30,g,n
+,3,Bouteloua gracilis,,,,,,,,,,1,4,5,,,36,g,n
+,2,Bouteloua gracilis,,,,,,,,,,,,,1,2,43,g,n
+,2,Brassicaceae,5,2,3,3,2,3,2,2,4,1,1,1,,,6,f,n
+,2,Brassicaceae,2,2,1,1,1,2,,,,4,2,1,,,8,f,n
+,1,Brassicaceae,,,,,,,,,,,,,1,2,49,f,n
+,2,Brassicaceae sp 1,3,2,1,4,2,1,2,2,1,,,,,,9,f,n
+,2,Brassicaceae sp 1,2,2,1,1,2,3,4,2,3,2,2,2,,,14,f,n
+,1,Brassicaceae sp 2,1,2,1,,,,,,,,,,,,9,f,n
+,1,Brassicaceae sp 2,,,,,,,,,,,,,1,1,14,f,n
+,2,Bromus arvensis,2,3,2,4,2,4,5,2,5,4,2,4,,,12,g,i
+,2,Bromus ciliatus,,,,,,,,,,,,,1,2,44,g,n
+,2,Bromus ciliatus,1,2,2,,,,,,,,,,,,50,g,n
+,2,Bromus inermis,,,,,,,,,,,,,1,2,44,g,i
+,2,Bromus inermis,2,2,2,,,,,,,4,2,1,,,46,g,i
+,2,Bromus inermis,,,,,,,,,,,,,1,2,49,g,i
+,2,Bromus racemosus,3,2,1,4,3,5,1,2,5,1,3,1,,,19,g,i
+,2,Bromus racemosus,2,2,3,1,2,3,,,,2,2,1,,,20,g,i
+,2,Bromus racemosus,3,2,1,4,2,3,5,2,1,1,2,1,,,21,g,i
+,2,Bromus racemosus,1,2,1,1,2,1,,,,,,,,,22,g,i
+,2,Bromus racemosus,3,2,5,,,,,,,,,,,,26,g,i
+,2,Bromus tectorum,1,2,2,1,2,3,2,3,4,,,,,,9,g,i
+,3,Bromus tectorum,4,3,4,1,2,2,3,3,4,5,3,5,,,12,g,i
+,2,Bromus tectorum,1,1,1,2,1,1,3,1,1,,,,,,13,g,i
+,2,Bromus tectorum,1,2,1,2,2,1,,,,1,2,2,,,14,g,i
+,2,Bromus tectorum,1,2,2,1,2,1,,,,1,2,1,,,15,g,i
+,2,Bromus tectorum,1,2,1,2,2,3,1,2,5,4,3,3,,,17,g,i
+,6,Bromus tectorum,4,6,5,4,6,5,4,6,5,5,6,5,,,18,g,i
+,2,Bromus tectorum,,,,,,,,,,,,,1,2,19,g,i
+,2,Bromus tectorum,,,,1,1,1,1,2,3,1,2,5,,,20,g,i
+,4,Bromus tectorum,4,3,5,5,4,5,5,5,4,4,4,4,,,22,g,i
+,2,Bromus tectorum,2,2,1,1,2,3,1,3,4,2,2,4,,,23,g,i
+,4,Bromus tectorum,5,4,3,5,5,5,5,4,5,4,4,4,,,26,g,i
+,2,Bromus tectorum,,,,,,,1,2,2,1,2,2,,,27,g,i
+,1,Bromus tectorum,1,1,2,,,,,,,,,,,,36,g,i
+,1,Bromus tectorum,,,,,,,1,1,1,,,,,,41,g,i
+,1,Cactaceae,,,,,,,,,,1,1,1,,,19,c,n
+,2,Cactaceae,1,1,1,,,,1,2,1,,,,,,41,c,n
+,2,Cactaceae,2,2,2,1,2,3,3,2,1,2,2,2,,,43,c,n
+,2,Cactaceae,,,,,,,,,,1,2,1,,,44,c,n
+,2,Cactaceae,,,,2,2,1,,,,,,,,,45,c,n
+,1,Cactaceae,,,,,,,,,,,,,1,1,48,c,n
+,2,Calochortus,2,2,1,,,,1,1,1,,2,2,,,35,f,n
+,2,Calochortus,3,2,4,2,2,1,3,2,2,2,2,1,,,37,f,n
+,2,Calochortus gunnisonii,,,,2,2,1,1,2,2,,,,,,45,f,n
+,2,Calochortus nuttallii,2,2,3,2,2,1,3,2,3,2,2,5,,,12,f,n
+,2,Calochortus nuttallii,3,2,4,4,2,2,3,2,3,3,2,3,,,27,f,n
+,1,Calochortus nuttallii,,,,,,,,,,1,1,1,,,30,f,n
+,2,Calochortus nuttallii,1,2,2,2,2,2,1,2,3,4,2,2,,,34,f,n
+,2,Calochortus nuttallii,1,2,2,1,1,2,1,2,1,1,2,1,,,35,f,n
+,2,Calochortus nuttallii,3,2,2,1,2,1,1,2,2,2,2,2,,,38,f,n
+,2,Calochortus nuttallii,3,2,1,2,2,2,1,2,2,,,,,,42,f,n
+,2,Calochortus nuttallii,,,,2,2,1,,,2,,,,,,46,f,n
+,2,Calochortus nuttallii,,,,1,2,3,2,2,1,,,,,,51,f,n
+,2,Camelina microcarpa,1,1,1,1,1,1,,,,,,,,,14,f,i
+,2,Camelina microcarpa,1,2,1,,,,1,2,2,2,2,1,,,15,f,i
+,2,Camelina microcarpa,,,,3,2,1,,,,,,,,,21,f,i
+,2,Carex,5,2,3,4,2,2,4,2,3,3,2,4,,,7,g,n
+,1,Carex,,,,1,2,5,,,,,,,,,8,g,n
+,2,Carex,1,2,2,1,2,3,3,2,1,,,,,,18,g,n
+,2,Carex,4,2,2,3,2,1,4,2,3,5,2,2,,,25,g,n
+,2,Carex,1,2,1,,,,,,,4,2,1,,,38,g,n
+,2,Carex,2,2,3,3,2,1,1,2,2,2,2,2,,,39,g,n
+,2,Carex,1,2,3,5,3,3,3,3,1,,,,,,44,g,n
+,2,Carex,,,,,,,2,2,3,,,,,,50,g,n
+,3,Carex,2,2,2,1,3,3,3,2,1,2,2,1,,,51,g,n
+,2,Carex douglasii,1,2,1,1,2,1,,,,,,,,,42,g,n
+,2,Carex douglasii,4,2,5,5,2,1,4,2,5,3,2,1,,,49,g,n
+,2,Carex duriuscula,1,1,1,,,,3,2,2,,,,,,14,g,n
+,2,Carex duriuscula,2,2,2,2,2,3,3,2,1,2,2,1,,,19,g,n
+,2,Carex duriuscula,2,2,2,,,,1,2,2,1,2,1,,,20,g,n
+,2,Carex duriuscula,,,,1,2,1,3,2,1,3,2,1,,,21,g,n
+,2,Carex duriuscula,3,2,1,,,,3,2,3,4,2,2,,,22,g,n
+,2,Carex duriuscula,,,,,,,,,,,,,1,2,24,g,n
+,2,Carex duriuscula,1,2,1,1,2,1,2,2,2,2,2,1,,,30,g,n
+,2,Carex duriuscula,3,2,5,4,2,4,2,2,3,5,2,3,,,32,g,n
+,2,Carex duriuscula,5,2,5,5,2,5,2,2,5,4,2,,,,36,g,n
+,2,Carex duriuscula,1,2,1,,,,1,2,1,,,,,,43,g,n
+,2,Carex duriuscula,,,,4,2,1,4,2,3,,,,,,45,g,n
+,2,Carex duriuscula,1,1,1,1,2,1,,,,2,1,1,,,48,g,n
+,2,Carex duriuscula,4,2,2,1,2,2,4,2,3,1,2,4,,,50,g,n
+,6,Carex filifolia,5,6,5,5,6,5,5,6,5,5,6,5,,,16,g,n
+,4,Carex filifolia,5,4,3,3,3,1,3,4,4,3,5,1,,,21,g,n
+,2,Carex filifolia,1,2,2,1,2,1,,,,1,3,3,,,24,g,n
+,2,Carex filifolia,,,,,,,,,,,,,1,2,25,g,n
+,2,Carex filifolia,4,2,1,1,3,1,,,,,,,,,27,g,n
+,4,Carex filifolia,4,4,4,5,5,5,4,4,4,5,5,5,,,29,g,n
+,3,Carex filifolia,,,,1,3,2,3,2,1,2,3,1,,,34,g,n
+,5,Carex filifolia,2,5,4,1,5,3,5,5,4,5,5,1,,,36,g,n
+,4,Carex filifolia,2,4,3,1,3,1,2,4,4,3,4,2,,,37,g,n
+,3,Carex geyeri,3,3,3,5,2,5,2,3,1,1,3,4,,,35,g,n
+,2,Carex rossii,1,2,1,,,,,,,1,2,2,,,23,g,n
+,2,Carex siccata,3,2,1,2,2,1,1,3,2,4,2,1,,,46,g,n
+,2,Carex vallicola,,,,,,,,,,,,,1,2,35,g,n
+,2,Caryophyllaceae,4,2,3,3,2,3,2,2,3,4,2,3,,,48,f,n
+,1,Castilleja,,,,,,,,,,,,,1,1,5,f,n
+,1,Castilleja,1,1,1,,,,,,,,,,,,23,f,n
+,2,Castilleja,4,2,4,4,2,4,3,2,4,2,3,5,,,44,f,n
+,1,Castilleja angustifolia,,,,,,,,,,,,,1,1,2,f,n
+,2,Castilleja angustifolia,,,,,,,1,1,1,3,2,1,,,10,f,n
+,1,Castilleja angustifolia,,,,,,,,,,,,,1,1,12,f,n
+,1,Castilleja angustifolia,,,,1,1,1,,,,,,,,,13,f,n
+,1,Castilleja angustifolia,,,,,,,1,1,1,,,,,,15,f,n
+,1,Castilleja angustifolia,1,1,1,,,,,,,,,,,,16,f,n
+,2,Castilleja angustifolia,1,2,1,2,2,1,1,2,1,2,2,4,,,30,f,n
+,2,Castilleja angustifolia,1,2,3,,,,,,,,,,,,31,f,n
+,2,Castilleja angustifolia,3,2,3,3,2,2,3,2,3,4,2,3,,,37,f,n
+,2,Castilleja angustifolia,,,,,,,,,,,,,1,2,39,f,n
+,1,Castilleja angustifolia,,,,,,,,,,,,,1,1,43,f,n
+,2,Castilleja angustifolia,,,,,,,,,,,,,1,2,44,f,n
+,2,Castilleja flava,1,2,1,2,2,2,2,2,1,1,2,1,,,12,f,n
+,3,Castilleja flava,4,3,3,5,3,4,4,3,3,2,3,4,,,26,f,n
+,2,Castilleja flava,2,2,3,1,2,2,2,2,2,2,2,1,,,27,f,n
+,2,Castilleja flava,,,,,,,,,,,,,1,2,37,f,n
+,2,Castilleja flava,4,2,2,2,2,2,3,2,3,4,2,1,,,42,f,n
+,2,Castilleja flava,,,,1,2,4,,,,,,,,,43,f,n
+,2,Castilleja flava,3,2,1,4,2,3,3,2,2,4,2,3,,,45,f,n
+,2,Castilleja flava,,,,1,2,2,,,,,,,,,50,f,n
+,2,Castilleja flava,2,2,1,2,2,3,3,2,1,1,2,1,,,51,f,n
+,2,Castilleja linariifolia,1,1,1,,,,,,,1,2,2,,,35,f,n
+,3,Castilleja linariifolia,3,3,1,,,,2,3,2,1,3,1,,,46,f,n
+,2,Castilleja pallescens,3,2,1,1,2,2,1,1,1,2,2,1,,,33,f,n
+,2,Castilleja pallescens,2,2,1,1,2,3,2,2,1,1,2,1,,,38,f,n
+,2,Cerastium arvense,,,,,,,,,,,,,1,2,26,f,n
+,3,Cerastium nutans,4,3,5,5,3,4,5,2,4,1,2,2,,,44,f,n
+,2,Ceratocephala testiculata,4,2,5,4,2,1,3,2,3,2,2,1,,,9,f,i
+,2,Chaenactis douglasii,1,2,1,1,2,2,1,2,1,,,,,,51,f,n
+,2,Chaetopappa ericoides,2,2,1,1,2,1,1,2,2,1,2,1,,,40,f,n
+,1,Chamaesyce serpens,,,,,,,,,,,,,1,1,17,f,n
+,2,Chenopodium,5,2,3,1,2,1,4,2,2,4,2,1,,,7,f,n
+,2,Chenopodium pratericola,1,1,1,3,2,1,,,,1,2,5,,,15,f,n
+,1,Chenopodium pratericola,,,,1,1,2,,,,,,,,,17,f,n
+,1,Chenopodium pratericola,1,1,2,,,,,,,,,,,,18,f,n
+,2,Chenopodium pratericola,,,,1,2,1,,,,,,,,,19,f,n
+,2,Chenopodium pratericola,1,2,1,,,,3,2,1,,,,,,28,f,n
+,1,Chorispora tenella,,,,,,,,,,,,,1,1,40,f,i
+2,4,Chrysothamnus viscidiflorous,3,4,3,2,3,4,4,4,2,3,4,3,,,1,s,n
+,3,Chrysothamnus viscidiflorous,2,3,3,2,2,2,1,3,2,2,3,5,,,2,s,n
+,2,Chrysothamnus viscidiflorous,3,3,2,3,2,3,3,3,2,3,1,1,,,3,s,n
+1,2,Chrysothamnus viscidiflorous,2,4,2,4,3,2,2,4,3,2,3,2,,,4,s,n
+,2,Chrysothamnus viscidiflorous,3,2,1,2,2,2,2,2,3,2,2,2,,,5,s,n
+,2,Chrysothamnus viscidiflorous,3,3,3,4,3,3,4,3,4,3,3,4,,,6,s,n
+,3,Chrysothamnus viscidiflorous,3,3,4,3,3,4,3,3,3,4,3,3,,,7,s,n
+,3,Chrysothamnus viscidiflorous,3,3,3,3,3,3,3,3,3,4,2,3,,,8,s,n
+,2,Chrysothamnus viscidiflorous,2,2,4,1,2,2,,,,,,,,,9,s,n
+,2,Chrysothamnus viscidiflorous,2,2,2,2,2,3,2,2,2,5,2,3,,,10,s,n
+,3,Chrysothamnus viscidiflorous,3,4,3,3,2,5,2,3,1,2,4,2,,,11,s,n
+,2,Chrysothamnus viscidiflorous,1,2,2,1,2,1,3,2,1,1,1,1,,,15,s,n
+,2,Chrysothamnus viscidiflorous,,,,,,,1,2,1,,,,,,16,s,n
+1,2,Chrysothamnus viscidiflorous,,,,,,,,,,,,,1,2,17,s,n
+,2,Chrysothamnus viscidiflorous,2,2,1,1,1,1,,,,1,2,1,,,19,s,n
+,2,Chrysothamnus viscidiflorous,1,1,1,1,1,2,1,1,1,2,2,1,,,20,s,n
+,2,Chrysothamnus viscidiflorous,2,2,3,3,2,2,2,2,3,1,2,1,,,21,s,n
+,2,Chrysothamnus viscidiflorous,,,,,,,1,2,1,,,,,,23,s,n
+,2,Chrysothamnus viscidiflorous,,,,1,2,1,,,,,,,,,25,s,n
+,3,Chrysothamnus viscidiflorous,4,3,3,2,3,4,3,3,4,3,3,2,,,27,s,n
+,3,Chrysothamnus viscidiflorous,3,2,2,3,3,3,4,3,2,2,3,2,,,31,s,n
+,4,Chrysothamnus viscidiflorous,3,4,4,1,4,3,3,4,3,4,4,3,,,32,s,n
+,4,Chrysothamnus viscidiflorous,3,3,3,3,4,3,3,4,3,3,3,2,,,33,s,n
+,2,Chrysothamnus viscidiflorous,,,,,,,1,2,1,,,,,,34,s,n
+,2,Chrysothamnus viscidiflorous,1,2,1,1,2,1,,,,,,,,,35,s,n
+,3,Chrysothamnus viscidiflorous,3,3,3,3,4,3,5,3,3,2,4,2,,,36,s,n
+,2,Chrysothamnus viscidiflorous,1,2,2,1,2,2,2,2,1,,,,,,37,s,n
+,2,Chrysothamnus viscidiflorous,3,2,1,1,2,1,1,2,1,1,3,2,,,38,s,n
+,2,Chrysothamnus viscidiflorous,1,2,1,1,2,2,1,2,1,2,2,1,,,39,s,n
+,2,Chrysothamnus viscidiflorous,,,,,,,,,,1,2,3,,,40,s,n
+,2,Chrysothamnus viscidiflorous,,,,,,,,,,1,2,1,,,41,s,n
+,3,Chrysothamnus viscidiflorous,4,4,2,2,2,2,4,3,3,2,3,1,,,42,s,n
+,2,Chrysothamnus viscidiflorous,,,,,,,1,2,1,1,2,1,,,43,s,n
+,2,Chrysothamnus viscidiflorous,2,3,1,1,2,2,3,2,2,2,2,1,,,45,s,n
+,2,Chrysothamnus viscidiflorous,1,2,1,1,2,2,2,2,1,,,,,,46,s,n
+,3,Chrysothamnus viscidiflorous,2,3,3,3,2,2,4,3,5,5,3,3,,,47,s,n
+,3,Chrysothamnus viscidiflorous,3,3,2,4,2,2,3,3,3,4,3,3,,,48,s,n
+,2,Chrysothamnus viscidiflorous,1,2,1,,,,,,,,,,,,49,s,n
+2,,Chrysothamnus viscidiflorous,,,,,,,2,2,1,,,,,,50,s,n
+4,,Chrysothamnus viscidiflorous,2,3,3,2,3,3,3,3,1,2,3,1,,,51,s,n
+,1,Cirsium,,,,,,,,2,,,,,,,8,f,i
+,1,Cirsium,,,,,,,1,1,1,,,,,,11,f,i
+,1,Cirsium,,,,,,,,,,1,1,1,,,33,f,i
+,1,Cirsium,,,,,,,,,,2,1,1,,,34,f,i
+,2,Cirsium centaureae,3,2,2,2,2,3,1,1,1,,,,,,46,f,n
+,1,Cirsium pulcherrimum,,,,,,,,,,,,,1,1,31,f,n
+,2,Cirsium pulcherrimum,2,2,1,3,2,2,4,2,3,1,3,1,,,51,f,n
+,2,Collinsia parviflora,2,2,1,5,2,1,4,2,5,3,2,2,,,8,f,n
+,2,Collomia linearis,2,2,2,4,2,3,,,,,,,,,35,f,n
+,1,Comandra umbellata,,,,,,,,,,1,1,1,,,2,f,n
+,2,Comandra umbellata,,,,,,,,,,,,,1,1,8,f,n
+,2,Comandra umbellata,1,2,2,2,2,2,2,2,1,,,,,,12,f,n
+,2,Comandra umbellata,1,2,5,,,,,,,,,,,,14,f,n
+,2,Comandra umbellata,3,2,1,1,2,2,4,2,1,,,,,,19,f,n
+,2,Comandra umbellata,2,2,1,1,2,2,1,2,1,1,2,2,,,21,f,n
+,2,Comandra umbellata,,,,2,3,4,3,2,2,1,2,2,,,25,f,n
+,2,Comandra umbellata,2,2,2,2,2,1,2,2,3,2,2,2,,,27,f,n
+,2,Comandra umbellata,3,2,3,4,2,2,2,2,1,2,2,1,,,29,f,n
+,2,Comandra umbellata,1,2,1,1,2,1,1,2,5,1,2,1,,,30,f,n
+,2,Comandra umbellata,2,2,2,,,,2,2,1,2,2,1,,,35,f,n
+,2,Comandra umbellata,3,2,2,1,2,1,4,3,3,2,2,1,,,37,f,n
+,3,Comandra umbellata,4,3,5,1,,2,1,2,2,3,3,4,,,38,f,n
+,2,Comandra umbellata,1,2,3,,,,1,4,4,2,3,4,,,42,f,n
+,2,Comandra umbellata,3,2,2,3,2,5,4,2,5,1,2,3,,,50,f,n
+,2,Cordylanthus ramosus,2,2,4,5,2,3,2,2,1,3,2,2,,,31,f,n
+,2,Cordylanthus ramosus,3,2,3,4,2,4,2,2,3,1,2,2,,,32,f,n
+,2,Cordylanthus ramosus,3,2,3,3,2,5,5,2,5,4,2,5,,,33,f,n
+,2,Cordylanthus ramosus,3,2,3,3,2,4,1,2,3,1,2,3,,,34,f,n
+,2,Cordylanthus ramosus,3,2,4,3,2,5,3,2,5,4,2,2,,,38,f,n
+,2,Cordylanthus ramosus,3,2,4,4,2,3,3,2,3,3,2,2,,,40,f,n
+,2,Cordylanthus ramosus,1,2,2,2,2,2,1,2,4,2,2,1,,,43,f,n
+,2,Cordylanthus ramosus,2,2,2,1,2,3,4,2,3,2,2,2,,,46,f,n
+,2,Cordylanthus ramosus,,,,2,1,1,1,1,1,,,,,,48,f,n
+,2,Crepis,,,,2,1,1,1,1,2,1,2,2,,,9,f,n
+,2,Crepis,2,2,2,4,2,3,4,2,3,2,2,2,,,10,f,n
+,2,Crepis,1,2,1,1,2,1,1,1,1,2,2,1,,,15,f,n
+,2,Crepis,3,2,2,2,2,2,2,2,1,2,2,2,,,25,f,n
+,2,Crepis,2,2,1,1,1,2,,,,,,,,,26,f,n
+,2,Crepis,4,2,2,2,2,3,1,2,1,,,,,,27,f,n
+,2,Crepis,,,,,,,,,,,,,1,2,30,f,n
+,2,Crepis,,,,,,,1,2,3,,,,,,34,f,n
+,2,Crepis,4,2,3,3,2,5,4,2,5,2,2,3,,,38,f,n
+,1,Crepis,,,,,,,1,1,1,,,,,,48,f,n
+,3,Crepis,2,2,5,3,2,1,2,2,1,2,2,4,,,49,f,n
+,2,Crepis acuminata,1,2,1,3,2,4,2,2,2,1,2,2,,,12,f,n
+,1,Crepis acuminata,,,,,,,,,,,,,1,1,26,f,n
+,2,Crepis acuminata,2,2,4,4,2,3,3,2,3,2,2,2,,,35,f,n
+,2,Crepis acuminata,1,2,1,,,,1,2,1,,,,,,38,f,n
+,2,Crepis acuminata,2,2,2,4,3,4,3,2,1,1,2,3,,,44,f,n
+,2,Crepis acuminata,1,2,1,,,,1,2,2,1,2,2,,,45,f,n
+,1,Crepis modocensis,,,,,,,,,,,,,1,1,9,f,n
+,2,Crepis modocensis,,,,,,,2,2,2,1,2,3,,,27,f,n
+,2,Crepis modocensis,,,,,,,1,2,2,,,,,,34,f,n
+,2,Crepis modocensis,2,2,4,4,2,2,3,2,4,2,2,2,,,39,f,n
+,2,Crepis modocensis,,,,,,,,,,1,2,1,,,45,f,n
+,2,Crepis modocensis,2,2,3,1,2,4,2,2,1,4,2,4,,,48,f,n
+,2,Crepis occidentalis,3,2,3,3,2,3,2,2,2,2,2,3,,,37,f,n
+,2,Crepis occidentalis,4,2,4,3,2,2,3,2,1,,,,,,42,f,n
+,2,Crepis sp 1,3,2,2,1,1,3,4,2,2,4,2,3,,,6,f,n
+,2,Crepis sp 1,2,2,1,2,2,1,1,2,1,1,2,2,,,23,f,n
+,2,Crepis sp 2,2,2,3,3,2,2,3,2,2,4,2,3,,,6,f,n
+,1,Crepis sp 2,,,,,,,,,,,,,1,1,23,f,n
+,2,Cryptantha,5,2,5,4,2,5,3,2,5,4,2,3,,,4,f,n
+,2,Cryptantha,2,2,1,,,,1,2,1,,,,,,9,f,n
+,2,Cryptantha,3,2,3,4,3,2,2,2,4,2,2,5,,,14,f,n
+,2,Cryptantha,1,2,1,1,2,1,1,2,1,1,2,1,,,15,f,n
+,2,Cryptantha,1,1,3,1,2,3,,,,,,,,,17,f,n
+,1,Cryptantha,1,2,1,,,,,,,,,,,,19,f,n
+,2,Cryptantha,2,2,1,2,2,1,1,2,3,1,2,1,,,27,f,n
+,2,Cryptantha,2,2,3,2,2,3,1,2,,,,,,,28,f,n
+,2,Cryptantha,,,,,,,,,,1,2,1,,,29,f,n
+,2,Cryptantha,,,,,,,,,,,,,1,2,44,f,n
+,1,Cryptantha ambigua,,,,,,,,,,1,1,1,,,23,f,n
+,1,Cryptantha celosioides,,,,1,1,2,,,,,,,,,34,f,n
+,2,Cryptantha circumscissa,1,2,1,,,,2,1,1,1,1,1,,,36,f,n
+,1,Cryptantha fendleri,,,,,,,,,,,,,1,1,32,f,n
+,2,Cryptantha flavoculata,1,2,2,3,2,2,2,2,1,1,2,2,,,32,f,n
+,1,Cryptantha flavoculata,1,2,1,3,2,2,1,2,3,3,2,1,,,40,f,n
+,2,Cryptantha sericea,,,,3,1,1,1,2,3,,,,,,8,f,n
+,2,Cryptantha virgata,,,,,,,,,,,,,1,2,44,f,n
+,1,Cryptobiotic Crust,,,,,1,,,2,,,,,,,1,,
+,1,Cryptobiotic Crust,,2,,,1,,,1,,,1,,,,2,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,3,,
+,4,Cryptobiotic Crust,,5,,,4,,,4,,,4,,,,4,,
+,1,Cryptobiotic Crust,,1,,,2,,,1,,,2,,,,5,,
+,3,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,6,,
+,3,Cryptobiotic Crust,,3,,,3,,,3,,,3,,,,7,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,8,,
+,2,Cryptobiotic Crust,,,,,,,,2,,,2,,,,9,,
+,1,Cryptobiotic Crust,,,,,,,,2,,,,,,,10,,
+,2,Cryptobiotic Crust,,,,,1,,,2,,,2,,,,11,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,12,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,13,,
+,2,Cryptobiotic Crust,,,,,,,,,,,,,,,14,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,15,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,16,,
+,2,Cryptobiotic Crust,,2,,,,,,2,,,2,,,,17,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,18,,
+,2,Cryptobiotic Crust,,2,,,,,,2,,,2,,,,21,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,22,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,24,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,25,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,27,,
+,2,Cryptobiotic Crust,,,,,1,,,2,,,2,,,,30,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,31,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,32,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,33,,
+,2,Cryptobiotic Crust,,1,,,2,,,2,,,2,,,,34,,
+,1,Cryptobiotic Crust,,2,,,1,,,1,,,1,,,,35,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,37,,
+,2,Cryptobiotic Crust,,2,,,1,,,2,,,2,,,,38,,
+,2,Cryptobiotic Crust,,3,,,2,,,2,,,2,,,,39,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,40,,
+,2,Cryptobiotic Crust,,3,,,2,,,2,,,2,,,,41,,
+,3,Cryptobiotic Crust,,3,,,3,,,3,,,2,,,,42,,
+,2,Cryptobiotic Crust,,2,,,2,,,3,,,2,,,,43,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,44,,
+,2,Cryptobiotic Crust,,2,,,1,,,2,,,2,,,,45,,
+,3,Cryptobiotic Crust,,2,,,3,,,3,,,3,,,,46,,
+,3,Cryptobiotic Crust,,3,,,3,,,3,,,3,,,,47,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,48,,
+,3,Cryptobiotic Crust,,3,,,3,,,3,,,3,,,,49,,
+,2,Cryptobiotic Crust,,2,,,2,,,2,,,2,,,,50,,
+,1,Cymopterus,1,1,2,,,,,,,,,,,,7,f,n
+,2,Cymopterus,1,2,1,,,,,,,1,2,5,,,13,f,n
+,2,Cymopterus,,,,2,1,1,,,,1,2,1,,,19,f,n
+,1,Cymopterus,,,,,,,,,,,,,1,1,29,f,n
+,1,Cymopterus acaulis,,,,,,,1,1,2,,,,,,1,f,n
+,2,Cymopterus acaulis,2,2,4,2,2,2,2,1,1,2,1,2,,,2,f,n
+,1,Cymopterus acaulis,1,1,1,,,,,,,,,,,,3,f,n
+,1,Cymopterus acaulis,,,,,,,2,2,1,,,,,,9,f,n
+,2,Cymopterus acaulis,1,1,1,4,2,2,1,2,2,2,2,1,,,23,f,n
+,1,Cymopterus acaulis,,,,,,,1,1,1,,,,,,31,f,n
+,1,Cymopterus constancei,1,1,1,,,,,,,1,1,1,,,2,f,n
+,1,Cymopterus sp 1,1,1,2,,,,,,,2,2,5,,,3,f,n
+,2,Cymopterus sp 1,2,2,1,,,,,,,1,2,5,,,10,f,n
+,1,Cymopterus sp 2,1,1,1,,,,,,,1,1,1,,,3,f,n
+,2,Cymopterus sp 2,,,,2,2,5,4,2,5,1,2,2,,,10,f,n
+,2,Dalea candida,,,,,,,1,2,3,,,,,,12,f,n
+,4,Dead Shrubs,,5,,,4,,,4,,,4,,,,1,,
+,4,Dead Shrubs,,4,,,4,,,4,,,4,,,,2,,
+,5,Dead Shrubs,,5,,,6,,,4,,,4,,,,3,,
+,6,Dead Shrubs,,6,,,6,,,5,,,5,,,,4,,
+,4,Dead Shrubs,,4,,,4,,,4,,,4,,,,5,,
+3,,Dead Shrubs,,3,,,4,,,3,,,4,,,,6,,
+,4,Dead Shrubs,,4,,,4,,,4,,,3,,,,7,,
+,5,Dead Shrubs,,4,,,4,,,4,,,4,,,,8,,
+,5,Dead Shrubs,,4,,,5,,,4,,,3,,,,9,,
+,4,Dead Shrubs,,4,,,5,,,4,,,4,,,,10,,
+,4,Dead Shrubs,,4,,,,,,,,,,,,,11,,
+,4,Dead Shrubs,,4,,,4,,,4,,,4,,,,12,,
+,4,Dead Shrubs,,5,,,5,,,4,,,5,,,,13,,
+,4,Dead Shrubs,,4,,,4,,,4,,,4,,,,14,,
+,6,Dead Shrubs,,5,,,5,,,6,,,5,,,,15,,
+4,2,Dead Shrubs,,4,,,3,,,4,,,4,,,,16,,
+,4,Dead Shrubs,,4,,,4,,,5,,,5,,,,17,,
+,4,Dead Shrubs,,4,,,4,,,4,,,4,,,,18,,
+,3,Dead Shrubs,,3,,,3,,,3,,,3,,,,19,,
+,4,Dead Shrubs,,4,,,4,,,4,,,4,,,,20,,
+,4,Dead Shrubs,,4,,,4,,,5,,,4,,,,21,,
+,4,Dead Shrubs,,4,,,4,,,4,,,4,,,,22,,
+,4,Dead Shrubs,,4,,,5,,,4,,,5,,,,23,,
+,4,Dead Shrubs,,4,,,5,,,5,,,4,,,,24,,
+,3,Dead Shrubs,,4,,,4,,,3,,,3,,,,25,,
+,3,Dead Shrubs,,4,,,3,,,3,,,3,,,,26,,
+,3,Dead Shrubs,,3,,,4,,,3,,,3,,,,27,,
+,4,Dead Shrubs,,4,,,4,,,7,,,3,,,,28,,
+,4,Dead Shrubs,,4,,,4,,,4,,,4,,,,29,,
+,4,Dead Shrubs,,5,,,4,,,4,,,4,,,,30,,
+,4,Dead Shrubs,,5,,,4,,,4,,,4,,,,31,,
+,4,Dead Shrubs,,4,,,5,,,4,,,4,,,,32,,
+,4,Dead Shrubs,,4,,,4,,,4,,,3,,,,33,,
+,5,Dead Shrubs,,5,,,5,,,5,,,4,,,,34,,
+,2,Dead Shrubs,,5,,,4,,,5,,,5,,,,35,,
+,3,Dead Shrubs,,3,,,3,,,3,,,3,,,,36,,
+,4,Dead Shrubs,,4,,,4,,,4,,,4,,,,37,,
+,5,Dead Shrubs,,4,,,4,,,5,,,5,,,,38,,
+,4,Dead Shrubs,,3,,,4,,,4,,,4,,,,39,,
+,5,Dead Shrubs,,5,,,4,,,5,,,5,,,,40,,
+,4,Dead Shrubs,,4,,,4,,,4,,,4,,,,41,,
+,5,Dead Shrubs,,5,,,5,,,4,,,4,,,,42,,
+,4,Dead Shrubs,,4,,,5,,,4,,,4,,,,43,,
+,4,Dead Shrubs,,4,,,4,,,4,,,4,,,,44,,
+,4,Dead Shrubs,,4,,,3,,,4,,,4,,,,45,,
+,5,Dead Shrubs,,5,,,5,,,4,,,4,,,,46,,
+,3,Dead Shrubs,,4,,,2,,,4,,,3,,,,47,,
+,5,Dead Shrubs,,5,,,5,,,5,,,5,,,,48,,
+,6,Dead Shrubs,,5,,,6,,,5,,,6,,,,49,,
+,4,Dead Shrubs,,4,,,4,,,5,,,4,,,,50,,
+,5,Dead Shrubs,,5,,,5,,,5,,,5,,,,51,,
+,2,Delphinium geyeri,2,2,2,2,2,1,3,2,2,1,2,1,,,36,f,n
+,2,Delphinium geyeri,,,,,,,,,,1,2,,,,38,f,n
+,2,Descurainia,1,2,2,3,2,2,1,2,3,,,,,,9,f,n
+,2,Descurainia,,,,2,1,1,,,,,,,,,14,f,n
+,1,Descurainia,,,,1,2,2,,,,,,,,,17,f,n
+,2,Descurainia pinnata,,,,,,,1,1,1,,,,,,1,f,n
+,2,Descurainia pinnata,4,2,2,1,2,2,4,2,1,5,2,5,,,2,f,n
+,1,Descurainia pinnata,,,,,,,3,2,1,,,,,,3,f,n
+,2,Descurainia pinnata,2,2,3,2,2,5,1,2,3,2,2,1,,,4,f,n
+,2,Descurainia pinnata,1,2,3,2,2,2,2,2,2,1,2,4,,,5,f,n
+,2,Descurainia pinnata,,,,,,,,,,1,1,1,,,6,f,n
+,2,Descurainia pinnata,,,,1,1,1,1,1,1,,,,,,13,f,n
+,2,Descurainia pinnata,3,2,3,3,2,2,2,2,2,4,2,5,,,14,f,n
+,2,Descurainia pinnata,,,,1,2,1,,,,2,2,1,,,15,f,n
+,2,Descurainia pinnata,2,2,1,1,1,1,1,2,2,2,2,1,,,17,f,n
+,2,Descurainia pinnata,1,2,2,2,2,1,,,,,,,,,28,f,n
+,1,Descurainia pinnata,,,,,,,,,,,,,1,1,29,f,n
+,2,Descurainia pinnata,1,1,1,1,1,2,1,1,3,,,,,,30,f,n
+,2,Descurainia pinnata,,,,,,,,,,,,,1,2,39,f,n
+,2,Descurainia pinnata,2,1,1,4,1,1,1,2,2,1,2,1,,,40,f,n
+,2,Descurainia sophia,1,1,1,1,2,1,2,2,1,,,,,,42,f,i
+,2,Descurania,3,2,2,1,1,1,1,1,1,,,,,,7,f,n
+,2,Draba,2,2,1,1,1,1,2,2,1,1,1,1,,,2,f,n
+,2,Draba,1,2,1,2,2,2,2,2,2,3,2,1,,,5,f,n
+,2,Draba,,,,,,,,,,1,1,1,,,6,f,n
+,2,Draba albertina,,,,,,,1,1,1,5,2,1,,,12,f,n
+,1,Draba albertina,,,,4,1,1,,,,,,,,,18,f,n
+,1,Draba albertina,2,2,1,,,,,,,,,,,,21,f,n
+,2,Draba albertina,,,,,,,,,,2,1,1,,,26,f,n
+,2,Draba albertina,4,2,1,2,2,1,,,,1,1,4,,,45,f,n
+,1,Draba albertina,3,2,1,,,,,,,,,,,,49,f,n
+,2,Draba reptans,4,2,2,1,1,2,1,1,1,4,2,1,,,19,f,n
+,2,Draba reptans,3,2,1,4,2,3,1,2,2,3,2,4,,,20,f,n
+,1,Dung (cow),,,,,,,1,1,1,,,,,,1,,
+,1,Dung (cow),,,,,,,,,,,,,1,1,3,,
+,1,Dung (cow),,,,,,,,1,,,1,,,,4,,
+,1,Dung (cow),,1,,,1,,,,,,,,,,5,,
+,1,Dung (cow),,,,,,,,1,,,1,,,,6,,
+,1,Dung (cow),,1,,,1,,,1,,,1,,,,7,,
+,2,Dung (cow),,2,,,2,,,2,,,2,,,,8,,
+,2,Dung (cow),,3,,,2,,,2,,,2,,,,9,,
+,3,Dung (cow),,3,,,3,,,2,,,3,,,,10,,
+,2,Dung (cow),,2,,,2,,,3,,,2,,,,12,,
+,2,Dung (cow),,,,,2,,,2,,,2,,,,13,,
+,2,Dung (cow),,,,,2,,,3,,,2,,,,14,,
+,2,Dung (cow),,2,,,2,,,2,,,2,,,,15,,
+,2,Dung (cow),,2,,,2,,,2,,,2,,,,16,,
+,2,Dung (cow),,1,,,2,,,,,,2,,,,17,,
+,2,Dung (cow),,2,,,3,,,2,,,2,,,,19,,
+,2,Dung (cow),,,,,2,,,,,,2,,,,20,,
+,3,Dung (cow),,3,,,3,,,2,,,2,,,,21,,
+,2,Dung (cow),,2,,,2,,,2,,,,,,,22,,
+,2,Dung (cow),,,,,3,,,,,,,,,,23,,
+,2,Dung (cow),,,,,,,,2,,,2,,,,24,,
+,3,Dung (cow),,2,,,3,,,3,,,2,,,,25,,
+,2,Dung (cow),,2,,,2,,,2,,,2,,,,26,,
+,2,Dung (cow),,2,,,2,,,2,,,2,,,,27,,
+,2,Dung (cow),,2,,,,,,2,,,2,,,,28,,
+,2,Dung (cow),,2,,,,,,,,,,,,,29,,
+,2,Dung (cow),,,,,2,,,,,,,,,,30,,
+,2,Dung (cow),,2,,,2,,,2,,,3,,,,33,,
+,2,Dung (cow),,2,,,2,,,,,,2,,,,34,,
+,2,Dung (cow),,2,,,3,,,2,,,2,,,,36,,
+,3,Dung (cow),,3,,,3,,,3,,,2,,,,37,,
+,2,Dung (cow),,2,,,2,,,2,,,2,,,,38,,
+,1,Dung (cow),,,,,,,,,,,,,,,39,,
+,3,Dung (cow),,3,,,3,,,3,,,3,,,,40,,
+,1,Dung (cow),,1,,,,,,,,,,,,,41,,
+,2,Dung (cow),,2,,,1,,,2,,,,,,,42,,
+,2,Dung (cow),,1,,,1,,,2,,,2,,,,43,,
+,2,Dung (cow),,2,,,3,,,2,,,2,,,,44,,
+,2,Dung (cow),,2,,,2,,,2,,,2,,,,45,,
+,1,Dung (cow),,,,,,,,,,,,,1,2,46,,
+,2,Dung (cow),,2,,,2,,,,,,2,,,,47,,
+,2,Dung (cow),,2,,,2,,,2,,,2,,,,48,,
+,2,Dung (cow),,2,,,2,,,2,,,2,,,,49,,
+,2,Dung (cow),,2,,,1,,,2,,,,,,,50,,
+,2,Dung (cow),,2,,,2,,,2,,,2,,,,51,,
+,1,Dung (deer/antelope),1,1,1,,,,,,,,1,,,,1,,
+,1,Dung (elk),,,,,1,,,1,,,,,,,4,,
+,1,Dung (elk),,3,,,2,,,1,,,1,,,,5,,
+,2,Dung (elk),,,,,,,1,1,1,1,1,3,,,8,,
+,2,Dung (elk),,,,,1,,,1,,,,,,,11,,
+,2,Dung (elk),,,,,,,,2,,,,,,,24,,
+,1,Dung (elk),,2,,,3,,,2,,,2,,,,35,,
+,2,Dung (elk),,2,,,,,,2,,,,,,,39,,
+,2,Dung (elk),,,,,2,,,2,,,,,,,40,,
+,2,Dung (elk),,,,,,,,2,,,,,,,45,,
+,1,Dung (horse),,1,,,2,,,,,,1,,,,1,,
+,1,Dung (horse),,,,,1,,,1,,,,,,,2,,
+,1,Dung (horse),,1,,,1,,,,,,,,,,3,,
+,2,Dung (horse),,2,,,,,,,,,2,,,,13,,
+,1,Dung (horse),,2,,,2,,,2,,,1,,,,16,,
+,2,Dung (horse),,2,,,2,,,2,,,2,,,,23,,
+,2,Dung (horse),,,,,,,,2,,,,,,,29,,
+,3,Dung (horse),,2,,,3,,,2,,,3,,,,30,,
+,2,Dung (horse),,2,,,,,,2,,,,,,,31,,
+,2,Dung (horse),,2,,,2,,,,,,3,,,,32,,
+,2,Dung (horse),,2,,,,,,2,,,3,,,,38,,
+,2,Dung (horse),,2,,,2,,,2,,,,,,,43,,
+,2,Dung (moose),,,,,,,,,,,2,,,,42,,
+,1,Dung (wild),,2,,,1,,,2,,,1,,,,2,,
+,1,Dung (wild),,1,,,1,,,1,,,1,,,,3,,
+,1,Dung (wild),,1,,,1,,,,,,,,,,4,,
+,1,Dung (wild),,1,,,1,,,,,,1,,,,5,,
+,1,Dung (wild),,1,,,1,,,2,,,1,,,,6,,
+,1,Dung (wild),,1,,,1,,,1,,,1,,,,7,,
+,2,Dung (wild),,2,,,1,,,2,,,2,,,,8,,
+,2,Dung (wild),,1,,,2,,,1,,,2,,,,9,,
+,2,Dung (wild),,1,,,2,,,1,,,2,,,,10,,
+,3,Dung (wild),,2,,,2,,,2,,,2,,,,11,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,12,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,13,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,14,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,15,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,17,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,18,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,19,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,20,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,21,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,22,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,23,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,24,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,25,,
+,2,Dung (wild),,2,,,2,,,,,,2,,,,26,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,27,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,28,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,29,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,30,,
+,2,Dung (wild),,2,,,2,,,2,,,1,,,,31,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,32,,
+,2,Dung (wild),,,,,2,,,2,,,2,,,,33,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,34,,
+,1,Dung (wild),,1,,,1,,,1,,,1,,,,35,,
+,2,Dung (wild),,2,,,2,,,2,,,3,,,,36,,
+,4,Dung (wild),,2,,,2,,,2,,,2,,,,37,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,38,,
+,2,Dung (wild),,,,,,,,,,,,,,,39,,
+,3,Dung (wild),,2,,,2,,,3,,,3,,,,40,,
+,2,Dung (wild),,2,,,3,,,2,,,2,,,,41,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,42,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,43,,
+,2,Dung (wild),,,,,,,,2,,,2,,,,44,,
+,2,Dung (wild),,2,,,2,,,1,,,2,,,,45,,
+,2,Dung (wild),,2,,,1,,,1,,,1,,,,46,,
+,3,Dung (wild),,3,,,3,,,3,,,3,,,,47,,
+,2,Dung (wild),,2,,,2,,,2,,,2,,,,48,,
+,2,Dung (wild),,,,,2,,,2,,,2,,,,51,,
+,2,Elymus elymoides,1,2,1,1,1,1,1,2,2,2,2,2,,,1,g,n
+,2,Elymus elymoides,3,3,5,4,3,1,1,2,1,3,2,3,,,2,g,n
+,2,Elymus elymoides,1,2,3,5,1,3,3,2,2,2,2,2,,,3,g,n
+,1,Elymus elymoides,,,,,,,2,1,1,1,1,2,,,4,g,n
+,2,Elymus elymoides,3,2,4,3,2,2,4,3,1,2,2,3,,,5,g,n
+,2,Elymus elymoides,3,2,3,5,3,5,4,3,5,4,3,5,,,6,g,n
+,2,Elymus elymoides,2,3,4,4,2,5,2,2,3,3,2,1,,,7,g,n
+,3,Elymus elymoides,,,,2,2,1,2,3,5,2,2,2,,,9,g,n
+,1,Elymus elymoides,,,,,,,,,,,,,,,12,g,n
+,3,Elymus elymoides,3,3,4,3,3,2,1,3,2,3,3,2,,,13,g,n
+,2,Elymus elymoides,1,2,1,2,2,1,,,,3,2,1,,,14,g,n
+,2,Elymus elymoides,,,,,,,1,2,1,2,2,2,,,16,g,n
+,2,Elymus elymoides,2,2,1,3,2,1,2,2,2,2,2,2,,,17,g,n
+,2,Elymus elymoides,,,,1,2,1,,,,,,,,,22,g,n
+,2,Elymus elymoides,1,2,2,,,,,,,,,,,,24,g,n
+,2,Elymus elymoides,1,3,5,4,2,1,,,,1,2,1,,,25,g,n
+,1,Elymus elymoides,,,,1,1,2,,,,,,,,,26,g,n
+,2,Elymus elymoides,,,,1,2,1,,,,,,,,,28,g,n
+,2,Elymus elymoides,1,2,3,2,3,1,1,2,1,1,2,1,,,29,g,n
+,3,Elymus elymoides,2,3,4,1,3,3,2,3,2,3,4,1,,,30,g,n
+,2,Elymus elymoides,2,2,5,2,2,3,5,2,1,1,3,2,,,31,g,n
+,2,Elymus elymoides,1,2,3,5,2,2,1,2,2,1,2,1,,,32,g,n
+,2,Elymus elymoides,1,2,1,,,,,,,1,2,3,,,33,g,n
+,3,Elymus elymoides,2,3,3,4,3,2,1,2,1,4,2,1,,,34,g,n
+,2,Elymus elymoides,,,,1,2,2,,,,,,,,,35,g,n
+,2,Elymus elymoides,2,2,2,1,2,1,1,2,1,2,2,1,,,36,g,n
+,3,Elymus elymoides,3,3,2,3,3,3,3,3,4,2,3,2,,,40,g,n
+,4,Elymus elymoides,3,4,3,4,4,5,4,3,5,4,3,3,,,41,g,n
+,2,Elymus elymoides,1,2,1,1,3,3,1,3,3,,,,,,42,g,n
+,2,Elymus elymoides,2,2,2,1,2,3,,,,2,1,1,,,43,g,n
+,2,Elymus elymoides,1,1,1,3,2,1,,,,,,,,,44,g,n
+,2,Elymus elymoides,2,2,1,2,2,2,2,2,2,1,2,3,,,45,g,n
+,3,Elymus elymoides,4,3,2,4,3,4,2,3,4,2,3,2,,,47,g,n
+,2,Elymus elymoides,3,3,3,3,2,2,4,2,1,3,2,3,,,48,g,n
+,3,Elymus elymoides,3,3,4,5,3,4,4,3,2,3,,3,,,49,g,n
+,2,Elymus elymoides,1,2,2,2,2,2,1,2,1,2,2,2,,,50,g,n
+,1,Elymus elymoides,,,,,,,,,,,,,1,1,51,g,n
+,2,Elymus trachycaulus,1,2,4,2,2,5,4,2,5,3,2,1,,,46,g,n
+,2,Elymus trachycaulus,2,2,2,2,2,1,2,2,3,2,2,2,,,47,g,n
+,2,Elymus trachycaulus,3,2,1,3,2,1,5,2,2,,,,,,51,g,n
+,2,Eremopyrum triticeum,,,,1,2,2,1,2,1,,,,,,21,g,i
+2,,Ericameria nauseosa,,,,,,,2,2,1,1,2,1,,,1,s,n
+2,2,Ericameria nauseosa,1,1,1,,,,1,2,2,1,2,3,,,4,s,n
+,2,Ericameria nauseosa,,,,,,,,,,,,,1,1,8,s,n
+1,2,Ericameria nauseosa,,,,,,,1,2,1,,,,,,16,s,n
+,2,Ericameria nauseosa,,,,1,2,2,,,,,,,,,26,s,n
+,2,Ericameria nauseosa,,,,,,,,,,,,,1,2,29,s,n
+,2,Ericameria nauseosa,,,,1,1,1,,,,,,,,,32,s,n
+,2,Ericameria nauseosa,2,2,1,,,,,,,2,2,1,,,33,s,n
+,1,Ericameria nauseosa,,,,1,1,1,,,,,,,,,34,s,n
+,2,Ericameria nauseosa,2,3,1,1,2,2,1,2,1,1,2,1,,,37,s,n
+,2,Erigeron,,,,4,2,1,1,2,2,2,2,1,,,10,f,n
+,1,Erigeron,,,,,,,,,,,,,1,1,14,f,n
+,1,Erigeron,,,,,,,,,,,,,1,1,18,f,n
+,2,Erigeron,3,2,2,,,,4,2,2,,,,,,21,f,n
+,2,Erigeron,1,2,1,,,,,,,4,2,1,,,22,f,n
+,1,Erigeron,,,,,,,,,,,,,1,1,23,f,n
+,2,Erigeron,1,2,2,,,,,,,1,2,1,,,45,f,n
+,2,Erigeron,1,2,1,,,,,,,,,,,,48,f,n
+,2,Erigeron caespitosus,1,2,2,3,2,2,2,3,2,3,2,1,,,44,f,n
+,2,Erigeron compositus,,,,,,,,,,,,,1,2,25,f,n
+,2,Erigeron compositus,1,2,2,2,2,2,,,,1,2,5,,,45,f,n
+,2,Erigeron concinnus,2,2,2,1,2,1,1,2,1,2,2,3,,,15,f,n
+,2,Erigeron concinnus,1,2,1,1,2,1,,,,2,2,1,,,42,f,n
+,2,Erigeron corymbosus,2,2,2,2,2,3,4,3,3,2,2,3,,,26,f,n
+,2,Erigeron corymbosus,,,,,,,,,,1,2,,,,38,f,n
+,2,Erigeron corymbosus,1,2,2,2,2,2,2,2,3,1,2,3,,,45,f,n
+,2,Erigeron eatonii,,,,,,,,,,,,,1,2,26,f,n
+,2,Erigeron eatonii,,,,,,,4,2,1,,,,,,35,f,n
+,2,Erigeron engelmannii,3,2,5,2,2,1,4,2,1,4,2,3,,,43,f,n
+,1,Erigeron ochroleucus,,,,,,,2,1,1,,,,,,23,f,n
+,2,Erigeron ochroleucus,2,2,3,3,2,3,1,2,2,1,2,1,,,35,f,n
+,2,Erigeron ochroleucus,2,2,1,4,2,1,1,2,2,,,,,,38,f,n
+,2,Erigeron ochroleucus,2,2,3,1,2,1,2,2,1,1,1,1,,,46,f,n
+,2,Erigeron pulcherrimus,,,,1,1,1,,,,,,,,,24,f,n
+,2,Erigeron pumilus,1,1,1,1,1,1,2,2,2,1,2,4,,,7,f,n
+,1,Erigeron pumilus,,,,,,,1,1,1,,,,,,11,f,n
+,2,Erigeron pumilus,1,2,2,2,2,3,,,,,,,,,12,f,n
+,2,Erigeron pumilus,,,,,,,1,2,1,,,,,,18,f,n
+,2,Erigeron pumilus,,,,,,,,,,1,2,3,,,22,f,n
+,2,Erigeron pumilus,2,2,2,2,2,1,1,2,2,3,3,2,,,27,f,n
+,2,Erigeron pumilus,,,,2,2,2,2,2,2,1,2,1,,,30,f,n
+,2,Erigeron pumilus,4,2,1,4,2,2,3,2,2,2,2,3,,,37,f,n
+,2,Erigeron pumilus,4,2,3,2,2,3,2,2,2,3,2,4,,,39,f,n
+,2,Erigeron pumilus,,,,1,2,2,,,,,,,,,40,f,n
+,2,Erigeron pumilus,2,2,1,2,2,1,3,2,2,1,2,2,,,41,f,n
+,2,Erigeron pumilus,,,,,,,,,,2,2,2,,,44,f,n
+,1,Erigeron pumilus,,,,,,,,,,,,,1,1,48,f,n
+,3,Eriogonum,2,2,2,3,2,1,2,2,1,2,2,1,,,1,f,n
+,1,Eriogonum,,,,,,,,,,2,1,1,,,20,f,n
+,1,Eriogonum,,,,,,,1,2,1,,,,,,23,f,n
+,1,Eriogonum,,,,,,,,,,1,1,1,,,34,f,n
+,2,Eriogonum,,,,1,1,1,1,2,2,,,,,,42,f,n
+,1,Eriogonum caespitosum,,,,,,,,,,,,,1,1,3,f,n
+,2,Eriogonum caespitosum,1,2,2,,,,,,,1,2,1,,,6,f,n
+,2,Eriogonum caespitosum,1,2,1,,,,1,2,2,2,2,1,,,31,f,n
+,2,Eriogonum caespitosum,1,3,1,,,,1,2,3,,,,,,32,f,n
+,2,Eriogonum caespitosum,,,,,,,1,2,1,1,2,1,,,33,f,n
+,2,Eriogonum caespitosum,1,2,1,3,2,1,1,2,1,1,1,1,,,34,f,n
+,2,Eriogonum caespitosum,2,3,2,3,2,2,3,2,3,4,2,3,,,39,f,n
+,4,Eriogonum caespitosum,2,4,3,3,4,3,3,4,3,2,4,3,,,47,f,n
+,3,Eriogonum caespitosum,2,3,2,3,3,3,2,2,4,3,2,2,,,48,f,n
+,3,Eriogonum corymbosum,1,2,1,1,3,2,2,2,2,3,2,3,,,33,f,n
+,2,Eriogonum flavum,1,2,3,,,,,,,1,2,1,,,45,f,n
+,2,Eriogonum jamesii,,,,,,,,,,,,,1,2,44,f,n
+,1,Eriogonum microthecum,,,,,,,,,,,,,1,1,2,f,n
+,2,Eriogonum microthecum,,,,3,2,4,,,,2,1,1,,,3,f,n
+,2,Eriogonum microthecum,3,3,4,1,2,3,5,3,4,3,2,4,,,6,f,n
+,3,Eriogonum microthecum,4,3,4,4,3,5,4,2,3,4,3,4,,,32,f,n
+,2,Eriogonum microthecum,1,2,1,1,2,1,2,2,1,,,,,,46,f,n
+,2,Eriogonum ovalifolium,1,2,1,,,,1,1,1,,,,,,1,f,n
+,2,Eriogonum ovalifolium,2,2,1,,,,1,1,1,1,1,1,,,2,f,n
+,2,Eriogonum ovalifolium,3,2,1,1,2,3,5,1,1,2,2,3,,,3,f,n
+,1,Eriogonum ovalifolium,,,,,,,,,,,,,1,1,4,f,n
+,2,Eriogonum ovalifolium,3,1,1,1,2,2,3,2,1,1,2,2,,,5,f,n
+,2,Eriogonum ovalifolium,1,2,1,,,,,,,,,,,,6,f,n
+,2,Eriogonum ovalifolium,1,2,3,1,2,2,2,2,3,2,2,3,,,7,f,n
+,2,Eriogonum ovalifolium,2,2,2,2,2,2,4,2,1,2,2,2,,,8,f,n
+,1,Eriogonum ovalifolium,1,2,2,,,,,,,,,,,,21,f,n
+,2,Eriogonum ovalifolium,2,2,2,2,2,2,2,2,1,2,2,1,,,31,f,n
+,2,Eriogonum ovalifolium,,,,,,,1,1,1,1,1,1,,,32,f,n
+,2,Eriogonum ovalifolium,1,2,1,,,,1,1,1,1,2,2,,,33,f,n
+,2,Eriogonum ovalifolium,3,2,1,2,2,1,1,2,1,1,2,1,,,34,f,n
+,2,Eriogonum ovalifolium,1,2,1,1,2,2,2,2,1,2,2,2,,,36,f,n
+,2,Eriogonum ovalifolium,,,,2,2,1,3,2,1,2,2,4,,,39,f,n
+,2,Eriogonum ovalifolium,1,2,1,,,,,,,1,2,2,,,43,f,n
+,2,Eriogonum ovalifolium,1,2,1,,,,1,2,2,1,2,2,,,47,f,n
+,2,Eriogonum ovalifolium,2,2,2,2,2,1,1,2,2,2,2,1,,,48,f,n
+,2,Eriogonum umbellatum,,,,,,,1,2,2,3,2,1,,,7,f,n
+,2,Eriogonum umbellatum,3,2,1,,,,,,,,,,,,8,f,n
+,2,Eriogonum umbellatum,1,2,1,,,,,,,,,,,,31,f,n
+,2,Eriogonum umbellatum,,,,1,2,2,,,,,,,,,32,f,n
+,2,Eriogonum umbellatum,1,2,4,,,,1,2,2,,,,,,34,f,n
+,3,Eriogonum umbellatum,2,3,3,2,2,5,2,4,4,5,3,1,,,35,f,n
+,1,Eriogonum umbellatum,1,1,1,,,,,,,,,,,,36,f,n
+,3,Eriogonum umbellatum,4,3,3,3,3,4,3,3,4,2,2,2,,,42,f,n
+,2,Eriogonum umbellatum,1,2,1,3,2,2,2,2,2,1,2,1,,,43,f,n
+,2,Eriogonum umbellatum,2,2,2,5,2,2,3,2,1,1,3,4,,,44,f,n
+,3,Eriogonum umbellatum,3,3,3,3,2,3,3,3,5,3,3,3,,,45,f,n
+,2,Eriogonum umbellatum,1,2,2,1,2,1,1,2,1,1,2,1,,,46,f,n
+,4,Eriogonum umbellatum,2,5,4,5,4,2,3,4,3,3,4,5,,,49,f,n
+,4,Eriogonum umbellatum,3,5,4,4,4,5,3,4,2,4,3,4,,,50,f,n
+,3,Eriogonum umbellatum,1,2,2,3,2,3,3,2,2,1,2,1,,,51,f,n
+,2,Erysimum,,,,1,1,1,1,2,1,,,,,,7,f,n
+,2,Erysimum,3,2,3,3,2,2,1,2,3,3,2,2,,,8,f,n
+,2,Erysimum asperum,1,2,2,,,,4,2,1,3,2,2,,,1,f,n
+,2,Erysimum asperum,1,2,1,1,1,1,,,,,,,,,23,f,n
+,1,Erysimum asperum,,,,,,,,,,,,,1,1,32,f,n
+,2,Erysimum cheiranthoides,,,,,,,,,,,,,1,2,9,f,i
+,2,Erysimum cheiranthoides,,,,1,1,1,,,,,,,,,27,f,i
+,1,Erysimum inconspicuum,,,,,,,,,,,,,1,1,15,f,n
+,1,Erysimum inconspicuum,1,1,1,,,,,,,,,,,,16,f,n
+,2,Erysimum inconspicuum,3,2,3,1,2,1,1,2,2,2,2,2,,,24,f,n
+,1,Erysimum repandum,2,1,1,,,,,,,,,,,,21,f,i
+,4,Festuca idahoensis,5,4,4,3,4,5,5,4,5,3,4,2,,,35,g,n
+,4,Festuca idahoensis,,,,5,4,2,2,6,5,1,2,1,,,43,g,n
+,3,Festuca idahoensis,2,3,1,1,3,5,2,3,1,1,2,4,,,44,g,n
+,3,Festuca idahoensis,5,3,5,4,3,4,5,4,4,4,3,5,,,45,g,n
+,6,Festuca idahoensis,5,6,5,4,6,5,5,6,5,5,6,5,,,46,g,n
+,3,Festuca idahoensis,1,3,1,,,,1,2,2,2,3,5,,,49,g,n
+,1,Festuca idahoensis,,,,,,,,,,2,2,1,,,50,g,n
+,2,Festuca rubra,,,,,,,,,,,,,1,2,43,g,n
+,2,Festuca saximontana,,,,1,2,2,,,,,,,,,43,g,n
+,2,Festuca saximontana,,,,,,,,,,,,,1,2,44,g,n
+,1,Fritillaria atropurpurea,,,,1,1,1,,,,,,,,,42,g,n
+,2,Fritillaria pudica,2,2,2,,,,,,,1,1,1,,,12,f,n
+,2,Gaillardia aristata,3,2,1,1,2,1,1,2,3,,,,,,44,f,n
+,2,Gaura coccinea,4,2,1,1,2,1,2,2,1,1,2,1,,,20,f,n
+,2,Gaura coccinea,,,,,,,,,,1,2,1,1,2,26,f,n
+,1,Gayophytum diffusum,1,2,1,,,,,,,,,,,,49,f,n
+,2,Gayophytum racemosum,,,,1,2,3,,,,,,,,,43,f,n
+,2,Geranium atropurpureum,4,2,2,1,2,2,2,2,2,1,2,1,,,44,f,n
+,1,Geranium viscosissimum,,,,,,,,,,,,,1,1,51,f,n
+,2,Geum triflorum,,,,,,,,,,,,,1,2,35,f,n
+,2,Geum triflorum,,,,,,,,,,,,,1,2,43,f,n
+,2,Geum triflorum,2,3,2,2,3,2,1,2,2,5,2,1,,,45,f,n
+,2,Geum triflorum,1,2,4,,,,1,2,2,,,,,,49,f,n
+4,2,Greyia spinosa,1,3,2,1,3,1,2,3,1,1,5,3,,,17,s,n
+,2,Gutierrezia sarothrae,3,2,2,1,3,3,2,2,3,1,3,2,,,12,s,n
+,2,Gutierrezia sarothrae,1,2,2,1,2,1,,,,,,,,,40,s,n
+,5,Gutierrezia sarothrae,3,5,4,3,5,3,3,4,3,4,4,4,,,43,s,n
+,1,Haplopoppus acaulis,,,,,,,,,,1,1,1,,,3,f,n
+,2,Harbouria trachypleura,2,2,2,1,2,1,1,2,1,2,2,1,,,44,f,n
+,2,Hedeoma hispida,1,2,2,1,2,4,,,,2,2,1,,,18,f,n
+,1,Hedeoma hispida,,,,,,,,,,,,,1,1,19,f,n
+,4,Hedysarum boreale,4,3,1,2,4,2,5,3,2,1,2,2,,,51,f,n
+,3,Helianthella uniflora,2,4,2,2,3,2,2,3,2,3,3,2,,,50,f,n
+,2,Helianthella uniflora,1,1,2,,,,2,2,1,,,,,,51,f,n
+,2,Hesperostipa comata ,4,2,2,5,3,4,3,3,1,3,3,3,,,1,g,n
+,2,Hesperostipa comata ,4,2,2,4,2,1,5,2,1,,,,,,2,g,n
+,3,Hesperostipa comata ,2,1,1,2,2,3,4,3,2,2,3,5,,,12,g,n
+,2,Hesperostipa comata ,3,3,2,4,2,2,3,2,3,2,2,5,,,13,g,n
+,6,Hesperostipa comata ,4,5,4,5,6,5,5,6,4,4,5,3,,,14,g,n
+,2,Hesperostipa comata ,2,2,2,1,2,2,1,2,1,1,2,2,,,15,g,n
+,3,Hesperostipa comata ,4,3,4,1,2,2,5,3,4,3,3,5,,,16,g,n
+,4,Hesperostipa comata ,3,4,5,2,5,4,1,3,2,3,4,2,,,17,g,n
+,4,Hesperostipa comata ,4,4,4,3,4,3,3,3,3,4,4,3,,,18,g,n
+,2,Hesperostipa comata ,,,,5,2,1,1,3,1,1,2,2,,,19,g,n
+,4,Hesperostipa comata ,3,3,1,4,4,3,4,4,5,3,3,2,,,20,g,n
+,2,Hesperostipa comata ,,,,,,,,,,5,2,1,,,21,g,n
+,3,Hesperostipa comata ,3,3,3,3,3,4,4,2,1,3,3,2,,,22,g,n
+,3,Hesperostipa comata ,1,2,1,2,4,1,4,4,2,3,3,1,,,23,g,n
+,3,Hesperostipa comata ,3,3,2,4,3,3,5,3,5,3,2,4,,,24,g,n
+,3,Hesperostipa comata ,1,3,2,1,3,1,1,2,2,2,3,1,,,27,g,n
+,3,Hesperostipa comata ,4,4,5,5,3,4,5,3,3,4,3,3,,,28,g,n
+,3,Hesperostipa comata ,5,4,3,3,4,3,5,3,2,3,3,4,,,29,g,n
+,3,Hesperostipa comata ,4,4,3,3,3,4,3,2,4,3,3,5,,,30,g,n
+,3,Hesperostipa comata ,4,3,3,4,3,3,3,3,3,3,3,3,,,36,g,n
+,3,Hesperostipa comata ,3,3,5,1,3,1,3,3,4,2,3,1,,,37,g,n
+,2,Hesperostipa comata ,1,2,1,,,,,,,3,2,2,,,38,g,n
+,2,Hesperostipa comata ,1,1,1,1,2,1,1,2,1,,,,,,39,g,n
+,2,Hesperostipa comata ,,,,,,,,,,1,2,1,,,40,g,n
+,2,Hesperostipa comata ,3,2,1,1,2,1,1,2,3,2,2,1,,,41,g,n
+,2,Hesperostipa comata ,,,,1,2,1,,,,,,,,,42,g,n
+,2,Hesperostipa comata ,1,2,2,2,2,1,2,2,1,,,,,,43,g,n
+,2,Hesperostipa comata ,3,2,1,,,,1,3,3,1,2,2,,,44,g,n
+,2,Hesperostipa comata ,,,,,,,,,,2,2,2,,,46,g,n
+,2,Hesperostipa comata ,2,2,2,1,2,2,4,2,1,3,2,5,,,47,g,n
+,2,Heterotheca villosa,1,2,1,,,,1,1,1,2,2,1,,,23,f,n
+,3,Heterotheca villosa,2,3,1,3,2,2,1,2,2,4,3,3,,,44,f,n
+,2,Heterotheca villosa,1,2,3,1,2,2,,,,1,2,2,,,45,f,n
+,2,Hymenoxys richardsonii,1,2,2,,,,,,,,,,,,40,f,n
+,2,Ipomopsis aggregata,,,,1,1,1,,,,1,1,1,,,33,f,n
+,2,Ipomopsis aggregata,,,,,,,,,,1,2,1,,,42,f,n
+,2,Ipomopsis aggregata,,,,,,,,,,,,,1,2,43,f,n
+,2,Ipomopsis aggregata,,,,2,2,3,1,1,1,,,,,,51,f,n
+,2,Ipomopsis congesta,1,1,1,,,,4,2,1,1,1,1,,,33,f,n
+,1,Ipomopsis pumila,,,,1,2,2,,,,,,,,,17,f,n
+,2,Ipomopsis spicata,,,,,,,,,,,,,1,2,44,f,n
+,2,Juniperus horizontalis,1,4,1,,,,1,2,2,2,2,1,,,35,s,n
+,2,Juniperus osteosperma,,,,,,,1,2,1,1,2,1,,,12,s,n
+,2,Juniperus osteosperma,,,,,,,1,2,1,,,,,,40,s,n
+,4,Koeleria macrantha,3,3,1,5,3,5,4,3,5,4,4,5,,,7,g,n
+,2,Koeleria macrantha,4,3,3,2,2,3,3,2,3,2,2,3,,,12,g,n
+,2,Koeleria macrantha,2,2,2,,,,,,,1,2,1,,,14,g,n
+,4,Koeleria macrantha,3,3,3,2,4,3,3,4,2,2,4,3,,,15,g,n
+,2,Koeleria macrantha,1,2,1,,,,,,,4,2,1,,,16,g,n
+,2,Koeleria macrantha,,,,,,,1,2,1,,,,,,18,g,n
+,4,Koeleria macrantha,2,4,4,5,4,5,5,4,4,2,3,2,,,19,g,n
+,3,Koeleria macrantha,3,3,3,3,3,3,5,4,2,3,3,5,,,20,g,n
+,3,Koeleria macrantha,2,3,3,5,3,5,3,3,3,4,3,4,,,21,g,n
+,3,Koeleria macrantha,3,3,4,3,3,4,2,2,1,3,3,3,,,22,g,n
+,3,Koeleria macrantha,4,4,4,5,3,3,3,2,1,4,2,5,,,23,g,n
+,2,Koeleria macrantha,1,2,2,2,2,1,1,2,3,2,2,3,,,25,g,n
+,3,Koeleria macrantha,3,3,2,4,3,3,2,3,2,3,3,3,,,26,g,n
+,3,Koeleria macrantha,3,3,4,3,4,2,1,2,1,1,3,4,,,27,g,n
+,2,Koeleria macrantha,3,2,1,1,2,2,,,,1,2,5,,,30,g,n
+,2,Koeleria macrantha,1,2,1,,,,,,,,,,,,35,g,n
+,2,Koeleria macrantha,3,2,1,3,3,4,2,2,1,1,2,3,,,36,g,n
+,3,Koeleria macrantha,1,2,3,2,3,2,2,3,3,2,3,5,,,37,g,n
+,2,Koeleria macrantha,5,2,1,1,2,1,,,,1,2,1,,,38,g,n
+,2,Koeleria macrantha,3,2,4,2,2,5,3,2,1,3,3,5,,,43,g,n
+,3,Koeleria macrantha,2,3,2,2,3,1,1,3,3,1,3,4,,,44,g,n
+,2,Koeleria macrantha,1,2,2,3,3,3,3,2,3,1,2,2,,,45,g,n
+,3,Koeleria macrantha,1,3,3,1,3,3,2,3,3,3,3,2,,,46,g,n
+,3,Koeleria macrantha,2,4,3,2,3,2,,,,2,3,2,,,49,g,n
+,3,Koeleria macrantha,2,3,2,3,2,2,1,2,1,3,2,1,,,50,g,n
+,2,Krascheninnikovia lanata,,,,3,2,1,,,,1,2,2,,,1,s,n
+,2,Krascheninnikovia lanata,1,2,2,,,,,,,1,2,1,,,2,s,n
+,2,Krascheninnikovia lanata,1,1,1,3,1,1,2,2,1,2,1,1,,,3,s,n
+,1,Krascheninnikovia lanata,2,2,1,3,1,1,2,2,1,,,,,,5,s,n
+,1,Krascheninnikovia lanata,,,,,,,,,,,,,1,2,6,s,n
+,1,Krascheninnikovia lanata,,,,,,,,,,,,,1,2,8,s,n
+,2,Krascheninnikovia lanata,1,2,2,1,2,3,2,3,2,3,2,3,,,9,s,n
+,2,Krascheninnikovia lanata,,,,,,,1,1,1,,,,,,14,s,n
+,1,Krascheninnikovia lanata,,,,,,,,,,,,,1,1,16,s,n
+2,2,Krascheninnikovia lanata,1,2,3,2,2,3,1,2,2,2,2,2,,,17,s,n
+,1,Krascheninnikovia lanata,,,,,,,,,,1,1,4,,,20,s,n
+,2,Krascheninnikovia lanata,,,,,,,,,,,,,1,2,21,s,n
+,2,Krascheninnikovia lanata,,,,,,,,,,,,,1,2,28,s,n
+,2,Krascheninnikovia lanata,1,2,2,1,2,1,3,2,4,1,2,1,,,31,s,n
+,2,Krascheninnikovia lanata,1,3,2,2,2,2,2,2,1,1,2,3,,,33,s,n
+,2,Krascheninnikovia lanata,2,2,1,1,2,1,2,2,1,1,2,1,,,39,s,n
+,2,Krascheninnikovia lanata,,,,,,,2,2,1,,,,,,40,s,n
+,2,Krascheninnikovia lanata,,,,1,2,2,,,,,,,,,41,s,n
+,2,Lappula occidentalis,2,2,1,1,2,3,3,2,3,2,1,1,,,9,f,n
+,2,Lappula occidentalis,1,2,2,,,,1,2,1,,,,,,12,f,n
+,2,Lappula occidentalis,1,2,1,2,2,2,1,2,1,1,2,1,,,17,f,n
+,1,Lappula occidentalis,,,,2,1,1,,,,,,,,,20,f,n
+,1,Lappula occidentalis,,,,,,,,,,,,,1,1,23,f,n
+,2,Lappula occidentalis,3,2,1,,,,1,2,2,,,,,,27,f,n
+,2,Lappula occidentalis,2,2,1,1,1,1,2,2,1,1,2,1,,,40,f,n
+,1,Lepidium,,,,,,,,,,,,,1,1,2,f,i
+,2,Lepidium,1,2,1,2,2,1,1,2,1,1,2,4,,,28,f,i
+,2,Lepidium densiflorum,1,2,1,1,2,3,,,,,,,,,18,f,i
+,2,Lepidium densiflorum,1,2,3,2,2,2,1,2,4,1,2,2,,,19,f,i
+,2,Lepidium densiflorum,1,1,1,,,,,,,1,1,1,,,22,f,i
+,2,Lepidium densiflorum,,,,,,,1,1,1,2,2,1,,,27,f,i
+,2,Lepidium densiflorum,3,2,2,1,2,3,,,,2,1,1,,,29,f,i
+,2,Lepidium densiflorum,,,,1,1,2,2,2,1,,,,,,30,f,i
+,1,Lesquerella alpina,1,1,1,,,,,,,,,,,,4,f,n
+,2,Lesquerella arenosa,1,2,1,,,,,,,3,2,1,,,9,f,n
+,2,Lesquerella arenosa,,,,1,2,1,,,,1,1,1,,,15,f,n
+,2,Lesquerella arenosa,,,,2,2,1,1,2,1,,,,,,16,f,n
+,2,Lesquerella arenosa,2,2,1,,,,,,,,,,,,20,f,n
+,2,Lesquerella arenosa,2,2,1,,,,,,,1,1,2,,,21,f,n
+,2,Lesquerella arenosa,2,2,1,2,2,1,1,2,2,2,2,2,,,24,f,n
+,2,Lesquerella arenosa,,,,,,,,,,2,1,1,,,25,f,n
+,2,Lesquerella ludoviciana,1,2,2,,,,2,2,1,1,2,2,,,19,f,n
+,2,Lesquerella ludoviciana,1,2,1,1,2,1,1,2,1,1,2,2,,,27,f,n
+,2,Lesquerella ludoviciana,2,2,4,2,2,3,,,,3,2,2,,,30,f,n
+,2,Lesquerella ludoviciana,4,2,2,3,2,3,4,2,4,1,2,3,,,37,f,n
+,2,Lesquerella montana,2,2,1,2,2,2,3,2,3,2,2,4,,,43,f,n
+,2,Lesquerella parvula,1,1,1,,,,,,,,,,,,40,f,n
+,3,Leucopoa kingii,1,2,1,1,2,1,2,4,2,2,3,2,,,8,g,n
+,2,Leucopoa kingii,1,2,1,,,,2,2,2,1,2,2,,,33,g,n
+,2,Leucopoa kingii,1,2,1,1,2,1,,,,,,,,,35,g,n
+,1,Leucopoa kingii,1,1,3,,,,,,,,,,,,36,g,n
+,1,Leucopoa kingii,,,,,,,,,,,,,1,1,40,g,n
+,3,Leucopoa kingii,1,1,1,1,3,2,1,3,1,,,,,,44,g,n
+,2,Leucopoa kingii,1,2,1,,,,,,,,,,,,46,g,n
+,4,Leucopoa kingii,4,3,5,2,3,2,2,3,2,2,4,4,,,51,g,n
+,2,Lewisia redivia,3,2,4,2,2,2,2,2,2,4,2,2,,,12,f,n
+,2,Lewisia redivia,1,2,1,,,,,,,,,,,,23,f,n
+,2,Lewisia redivia,1,2,1,2,1,1,2,2,1,1,2,1,,,38,f,n
+,2,Lewisia redivia,2,2,1,4,2,1,3,2,2,2,2,1,,,39,f,n
+,2,Lewisia redivia,1,2,2,,,,,,,,,,,,43,f,n
+,2,Lewisia redivia,1,2,4,1,2,1,1,2,3,3,2,2,,,45,f,n
+,1,Lewisia redivia,,,,,,,,,,,,,1,1,48,f,n
+,2,Leymus simplex,,,,,,,,,,,,,1,2,31,g,n
+,2,Leymus simplex,3,2,3,1,2,2,,,,1,2,2,,,33,g,n
+,2,Linanthus pungens,,,,,,,1,1,1,,,,,,1,f,n
+,2,Linanthus pungens,1,2,4,2,2,4,,,,2,2,4,,,2,f,n
+,2,Linanthus pungens,1,2,3,,,,3,2,1,,,,,,3,f,n
+,2,Linanthus pungens,,,,2,2,1,,,,1,2,3,,,5,f,n
+,2,Linanthus pungens,3,2,3,3,2,2,2,2,2,1,2,3,,,6,f,n
+,2,Linanthus pungens,1,2,3,3,2,4,2,2,3,4,2,3,,,7,f,n
+,2,Linanthus pungens,3,2,1,5,2,2,3,2,3,5,2,2,,,8,f,n
+,3,Linanthus pungens,3,3,4,3,2,3,4,3,2,2,2,1,,,16,f,n
+,2,Linanthus pungens,2,2,4,1,2,3,1,2,1,3,2,1,,,20,f,n
+,2,Linanthus pungens,,,,3,2,2,2,2,3,3,2,1,,,21,f,n
+,2,Linanthus pungens,3,2,1,1,2,1,,,,2,2,2,,,23,f,n
+,2,Linanthus pungens,,,,,,,1,2,2,2,,1,,,29,f,n
+,2,Linanthus pungens,,,,2,1,1,1,1,2,,,,,,30,f,n
+,2,Linanthus pungens,1,2,1,,,,,,,1,2,1,,,31,f,n
+,2,Linanthus pungens,3,3,4,3,2,4,3,2,4,2,2,3,,,32,f,n
+,2,Linanthus pungens,2,2,1,1,2,2,2,2,1,,,,,,33,f,n
+,2,Linanthus pungens,,,,2,2,1,,,,1,2,1,,,34,f,n
+,2,Linanthus pungens,,,,,,,,,,,,,1,2,37,f,n
+,2,Linanthus pungens,2,2,2,1,2,3,2,2,1,2,2,1,,,43,f,n
+,2,Linanthus pungens,2,2,1,1,2,1,,,,1,2,1,,,46,f,n
+,2,Linanthus pungens,1,2,2,,,,,,,,,,,,47,f,n
+,2,Linanthus pungens,4,2,2,3,2,5,4,2,4,1,2,2,,,48,f,n
+,2,Linanthus pungens,,,,,,,,,,,,,1,2,49,f,n
+,2,Linum lewisii,,,,1,2,3,,,,,,,,,12,f,n
+,2,Linum lewisii,,,,2,2,1,,,,,,,,,51,f,n
+,2,Lithospermum ruderale,,,,,,,,,,1,1,1,,,32,f,n
+,2,Lithospermum ruderale,,,,1,2,1,1,2,1,1,3,2,,,38,f,n
+,3,Litter,,4,,,4,,,3,,,3,,,,1,,
+,4,Litter,,4,,,4,,,4,,,4,,,,2,,
+,3,Litter,,3,,,3,,,3,,,3,,,,3,,
+,5,Litter,,5,,,5,,,4,,,4,,,,4,,
+,3,Litter,,3,,,3,,,3,,,3,,,,5,,
+,4,Litter,,4,,,4,,,3,,,4,,,,6,,
+,5,Litter,,5,,,5,,,5,,,5,,,,7,,
+,3,Litter,,4,,,3,,,3,,,3,,,,8,,
+,2,Litter,,3,,,2,,,2,,,2,,,,9,,
+,3,Litter,,3,,,3,,,3,,,3,,,,10,,
+,3,Litter,,3,,,3,,,3,,,3,,,,11,,
+,4,Litter,,5,,,4,,,4,,,4,,,,12,,
+,4,Litter,,4,,,4,,,4,,,4,,,,13,,
+,3,Litter,,3,,,4,,,3,,,4,,,,14,,
+,5,Litter,,5,,,5,,,5,,,5,,,,15,,
+,3,Litter,,2,,,3,,,3,,,3,,,,16,,
+,4,Litter,,4,,,3,,,4,,,4,,,,17,,
+,3,Litter,,3,,,3,,,3,,,3,,,,18,,
+,3,Litter,,2,,,3,,,3,,,3,,,,19,,
+,4,Litter,,4,,,4,,,4,,,4,,,,20,,
+,4,Litter,,4,,,4,,,4,,,4,,,,21,,
+,4,Litter,,4,,,4,,,4,,,4,,,,22,,
+,3,Litter,,3,,,3,,,3,,,2,,,,23,,
+,4,Litter,,3,,,4,,,4,,,4,,,,24,,
+,4,Litter,,4,,,4,,,4,,,4,,,,25,,
+,4,Litter,,4,,,4,,,4,,,4,,,,26,,
+,5,Litter,,4,,,5,,,5,,,5,,,,27,,
+,3,Litter,,3,,,3,,,3,,,3,,,,28,,
+,4,Litter,,4,,,4,,,4,,,4,,,,29,,
+,5,Litter,,5,,,5,,,4,,,4,,,,30,,
+,4,Litter,,4,,,4,,,3,,,3,,,,31,,
+,4,Litter,,4,,,4,,,4,,,4,,,,32,,
+,4,Litter,,5,,,4,,,4,,,4,,,,33,,
+,4,Litter,,3,,,4,,,4,,,4,,,,34,,
+,6,Litter,,6,,,6,,,6,,,6,,,,35,,
+,3,Litter,,3,,,3,,,3,,,4,,,,36,,
+,4,Litter,,4,,,4,,,4,,,4,,,,37,,
+,5,Litter,,4,,,4,,,5,,,5,,,,38,,
+,3,Litter,,4,,,3,,,3,,,3,,,,39,,
+,4,Litter,,4,,,4,,,4,,,4,,,,40,,
+,4,Litter,,4,,,4,,,4,,,4,,,,41,,
+,5,Litter,,5,,,5,,,5,,,4,,,,42,,
+,3,Litter,,3,,,3,,,3,,,3,,,,43,,
+,4,Litter,,4,,,4,,,4,,,4,,,,44,,
+,2,Litter,,2,,,2,,,2,,,2,,,,45,,
+,5,Litter,,4,,,5,,,5,,,5,,,,46,,
+,5,Litter,,5,,,5,,,5,,,5,,,,47,,
+,4,Litter,,4,,,4,,,4,,,4,,,,48,,
+,4,Litter,,4,,,4,,,4,,,4,,,,49,,
+,4,Litter,,4,,,4,,,4,,,4,,,,50,,
+,4,Litter,,4,,,4,,,4,,,4,,,,51,,
+,2,Logfia arvensis,,,,,,,,,,5,2,1,,,12,f,i
+,2,Logfia arvensis,3,2,2,1,2,2,2,2,4,,,,,,14,f,i
+,1,Logfia arvensis,,,,,,,1,1,2,,,,,,16,f,i
+,2,Logfia arvensis,5,3,5,2,3,4,5,2,5,5,2,3,,,18,f,i
+,1,Logfia arvensis,1,1,4,,,,,,,,,,,,22,f,i
+,1,Logfia arvensis,,,,,,,,,,,,,1,1,27,f,i
+,2,Lomatium,1,2,1,1,2,1,,,,,,,,,9,f,n
+,1,Lomatium,1,1,1,,,,,,,,,,,,24,f,n
+,1,Lomatium foeniculaceum,1,2,1,,,,,,,,,,,,9,f,n
+,2,Lomatium foeniculaceum,2,2,2,4,2,3,1,2,4,3,2,2,,,19,f,n
+,2,Lomatium grayi,,,,,,,,,,,,,1,2,42,f,n
+,2,Lomatium juniperinum,1,2,2,2,2,1,,,,,,,,,26,f,n
+,2,Lomatium macrocarpum,2,2,1,,,,,,,,,,,,48,f,n
+,2,Lomatium orientale,2,2,2,,,,1,1,1,2,2,3,,,7,f,n
+,2,Lomatium orientale,1,2,1,1,2,2,,,,,,,,,8,f,n
+,2,Lomatium orientale,3,2,2,3,2,2,4,2,2,4,2,4,,,12,f,n
+,1,Lomatium orientale,,,,2,1,1,,,,,,,,,15,f,n
+,2,Lomatium orientale,,2,2,3,2,3,1,2,3,2,2,2,,,16,f,n
+,2,Lomatium orientale,,,,1,2,1,1,1,2,1,1,1,,,25,f,n
+,2,Lomatium orientale,1,2,2,1,1,1,,,,,,,,,26,f,n
+,2,Lomatium orientale,1,2,3,5,2,2,1,2,1,4,2,3,,,27,f,n
+,2,Lomatium orientale,,,,1,1,3,2,2,3,1,1,2,,,34,f,n
+,5,Lomatium orientale,3,1,1,5,2,1,,,,,,,,,35,f,n
+,2,Lomatium orientale,1,1,1,1,1,1,,,,,,,,,37,f,n
+,2,Lomatium orientale,1,2,3,1,2,2,1,1,3,3,2,1,,,38,f,n
+,2,Lomatium simplex,3,2,3,2,2,2,5,2,2,2,2,1,,,42,f,n
+,2,Lomatium triternatum,1,1,1,,,,,,,,,,,,23,f,n
+,2,Lupinus,,,,,,,,,,2,2,1,,,8,f,n
+,1,Lupinus,,,,,,,1,1,1,,,,,,20,f,n
+,3,Lupinus,4,3,4,4,3,4,3,3,5,4,3,2,,,49,f,n
+1,4,Lupinus argenteus,2,3,3,1,2,1,1,1,1,3,3,3,,,23,f,n
+,4,Lupinus argenteus,4,5,3,3,4,3,3,4,4,3,4,4,,,26,f,n
+,2,Lupinus caudatus,1,1,1,1,2,2,1,2,1,1,2,1,,,35,f,n
+,2,Lupinus caudatus,,,,1,2,1,,,,,,,,,38,f,n
+,2,Lupinus caudatus,,,,,,,,,,,,,1,2,43,f,n
+5,,Lupinus caudatus,4,5,4,4,5,3,3,5,4,2,5,2,,,46,f,n
+,3,Lupinus leucophyllus,2,3,2,5,2,1,1,2,2,2,2,3,,,50,f,n
+,2,Lupinus leucophyllus,1,2,1,,,,,,,1,3,2,,,51,f,n
+,2,Lupinus pusillus,,,,1,1,1,,,,,,,,,7,f,n
+,2,Lupinus pusillus,3,2,1,2,2,1,2,2,1,2,2,1,,,13,f,n
+,2,Lupinus pusillus,,,,2,2,2,1,2,1,3,2,1,,,17,f,n
+,2,Lygodesmia juncea,3,2,1,2,2,1,3,2,1,,,,,,16,f,n
+,1,Machaeranthera canescens,,,,1,1,3,,,,,,,,,11,f,n
+,2,Machaeranthera canescens,,,,1,1,1,,,,,,,,,14,f,n
+,1,Machaeranthera canescens,1,2,1,,,,,,,,,,,,17,f,n
+,1,Machaeranthera canescens,,,,,,,1,1,1,,,,,,23,f,n
+,2,Machaeranthera canescens,2,2,2,2,2,1,1,2,1,,,,,,24,f,n
+,2,Machaeranthera canescens,1,2,1,1,1,1,,,,,,,,,30,f,n
+,1,Machaeranthera canescens,,,,,,,,,,,,,1,1,34,f,n
+,2,Machaeranthera canescens,,,,,,,,,,,,,1,2,42,f,n
+,2,Machaeranthera canescens,2,2,3,1,1,1,2,2,1,2,2,1,,,43,f,n
+,2,Machaeranthera canescens,2,2,2,2,2,1,2,2,1,2,2,1,,,47,f,n
+,1,Machaeranthera canescens,,,,,,,,,,,,,1,1,48,f,n
+,1,Machaeranthera grindeliodes,,,,,,,,,,,,,1,2,31,f,n
+,1,Machaeranthera grindeliodes,,,,,,,,,,,,,1,1,34,f,n
+,2,Machaeranthera grindeliodes,1,2,3,1,2,1,1,2,2,1,2,2,,,37,f,n
+,2,Machaeranthera grindeliodes,,,,,,,,,,,,,1,2,40,f,n
+,2,Machaeranthera tanacetifolia,,,,5,2,1,1,2,1,2,1,1,,,14,f,n
+,1,Machaeranthera tanacetifolia,,,,,,,,,,,,,1,2,17,f,n
+,2,Mahonia aquifolium,,,,,,,,,,,,,1,2,42,f,n
+,3,Mahonia aquifolium,2,3,1,3,2,4,3,3,2,1,3,1,,,50,f,n
+,3,Mahonia aquifolium,3,2,2,5,3,5,5,2,1,1,3,1,,,51,f,n
+,1,Malacothrix sonchoides,,,,,,,,,,,,,1,1,17,f,n
+,2,Malcolmia africana,2,2,2,2,2,1,1,2,4,3,2,3,,,9,f,i
+,3,Melica bulbosa,5,2,1,,,,4,3,4,1,2,3,,,35,g,n
+,1,Melica spectabilis,,,,,,,2,2,1,,,,,,50,g,n
+,2,Melilotus officinalis,2,2,2,,,,,,,,,,,,21,f,i
+,2,Mertensia,,,,,,,1,2,1,1,2,1,,,33,f,n
+,2,Mertensia,1,2,1,2,1,1,1,1,1,2,2,1,,,35,f,n
+,2,Mertensia,3,2,2,1,2,2,2,2,2,,,,,,42,f,n
+,2,Mertensia,3,2,1,,,,3,2,1,2,2,1,,,44,f,n
+,2,Mertensia,4,2,2,4,2,2,1,2,3,2,2,2,,,45,f,n
+,1,Mertensia,2,1,1,,,,,,,,,,,,46,f,n
+,1,Mertensia,,,,,,,1,1,1,,,,,,50,f,n
+,1,Mertensia,,,,2,1,1,,,,,,,,,51,f,n
+,2,Mertensia brevistyla,1,2,1,2,2,1,1,1,1,,,,,,8,f,n
+,3,Mertensia brevistyla,3,2,3,3,2,3,2,2,2,5,2,2,,,11,f,n
+,2,Mertensia humilis,1,2,2,,,,,,,,,,,,11,f,n
+,2,Mertensia humilis,4,2,4,3,2,2,3,2,3,5,2,3,,,45,f,n
+,2,Mertensia oblongifolia,1,2,2,1,2,2,1,1,1,2,2,1,,,6,f,n
+,1,Mertensia oblongifolia,1,1,1,,,,,,,,,,,,21,f,n
+,2,Mertensia oblongifolia,1,2,1,2,2,1,1,2,2,,,,,,42,f,n
+,2,Mertensia oblongifolia,2,2,2,4,2,2,2,2,3,2,2,2,,,43,f,n
+,2,Mertensia oblongifolia,2,2,1,1,2,2,2,2,4,2,2,1,,,46,f,n
+,1,Microseris nutans,,,,,,,,,,,,,1,1,12,f,n
+,2,Microsteris gracilis,5,2,2,,,,1,2,3,2,2,1,,,12,f,n
+,1,Microsteris gracilis,,,,,,,1,1,1,,,,,,13,f,n
+,1,Microsteris gracilis,,,,,,,,,,,,,1,1,19,f,n
+,2,Microsteris gracilis,2,2,2,,,,,,,,,,,,26,f,n
+,2,Muhlenbergia asperifolia,1,2,2,,,,,,,,,,,,50,g,n
+,3,Muhlenbergia filiculmis,2,3,1,1,3,5,1,2,4,5,2,5,,,44,g,n
+,2,Muhlenbergia filiculmis,1,2,5,1,2,4,,,,,,,,,45,g,n
+,1,Musineon,2,2,5,,,,,,,,,,,,8,f,n
+,2,Musineon divaricatum,1,2,1,1,2,3,1,2,3,,,,,,15,f,n
+,2,Musineon divaricatum,2,2,4,2,2,1,2,2,1,5,2,4,,,19,f,n
+,2,Musineon divaricatum,2,2,1,1,2,2,2,2,1,5,2,1,,,20,f,n
+,2,Nassella viridula,,,,,,,3,2,1,,,,,,37,g,n
+,2,Noccaea fendleri,1,1,1,1,1,2,1,2,2,1,2,2,,,44,f,n
+,1,Oenothera albicaulis,,,,1,1,1,,,,,,,,,17,f,n
+,1,Oenothera suffrutescens,,,,,,,1,2,2,,,,,,16,f,n
+,2,Oenothera suffrutescens,1,2,1,2,2,1,,,,1,2,1,,,23,f,n
+,2,Oenothera suffrutescens,3,2,3,,,,1,2,2,2,2,1,,,29,f,n
+,1,Opuntia fragilas,,,,2,2,1,1,1,1,,,,,,4,c,n
+,2,Opuntia polyacantha,,,,1,2,1,,,,,,,,,1,c,n
+,2,Opuntia polyacantha,1,1,1,1,1,1,,,,1,2,1,,,2,c,n
+,1,Opuntia polyacantha,1,2,1,,,,,,,,,,,,3,c,n
+,2,Opuntia polyacantha,,,,1,2,1,1,1,2,,,,,,6,c,n
+,4,Opuntia polyacantha,2,3,2,2,3,4,3,3,2,2,4,4,,,7,c,n
+,2,Opuntia polyacantha,2,2,2,1,2,2,,,,1,2,2,,,8,c,n
+,3,Opuntia polyacantha,1,2,1,4,2,1,2,2,2,2,2,1,,,9,c,n
+,2,Opuntia polyacantha,2,3,2,3,2,2,2,2,2,2,2,2,,,12,c,n
+,4,Opuntia polyacantha,3,3,3,2,3,2,2,4,3,2,4,2,,,13,c,n
+,5,Opuntia polyacantha,2,4,3,2,5,3,2,4,2,2,4,2,,,14,c,n
+,2,Opuntia polyacantha,2,2,1,2,2,1,2,2,2,2,2,1,,,15,c,n
+,3,Opuntia polyacantha,3,3,2,2,3,2,3,2,2,2,3,2,,,16,c,n
+,4,Opuntia polyacantha,2,4,2,1,3,4,2,2,1,2,3,2,,,17,c,n
+,5,Opuntia polyacantha,4,6,4,2,5,5,5,4,5,2,4,3,,,18,c,n
+,3,Opuntia polyacantha,3,3,3,3,3,3,2,3,1,3,3,4,,,19,c,n
+,4,Opuntia polyacantha,3,3,1,3,4,4,2,4,3,2,3,2,,,20,c,n
+,3,Opuntia polyacantha,2,2,3,1,2,1,1,3,1,2,3,3,,,21,c,n
+,3,Opuntia polyacantha,2,3,2,5,3,3,2,4,2,3,2,3,,,22,c,n
+,2,Opuntia polyacantha,1,2,2,2,2,1,2,2,1,3,2,2,,,23,c,n
+,3,Opuntia polyacantha,2,2,2,2,3,1,1,3,2,2,3,2,,,24,c,n
+,2,Opuntia polyacantha,1,3,2,1,2,1,,,,5,2,1,,,25,c,n
+,3,Opuntia polyacantha,2,3,2,2,3,2,3,2,3,2,3,2,,,27,c,n
+,4,Opuntia polyacantha,3,4,1,1,4,5,3,4,3,2,3,1,,,28,c,n
+,3,Opuntia polyacantha,4,3,2,2,3,2,3,3,1,2,2,2,,,29,c,n
+,3,Opuntia polyacantha,3,2,2,2,2,2,3,3,,3,3,2,,,30,c,n
+,2,Opuntia polyacantha,,,,1,2,1,,,,,,2,,,31,c,n
+,2,Opuntia polyacantha,,,,1,2,1,1,2,1,1,2,2,,,34,c,n
+,2,Opuntia polyacantha,1,2,2,3,3,2,3,2,1,1,2,1,,,36,c,n
+,3,Opuntia polyacantha,2,3,4,2,3,2,2,3,1,3,,1,,,37,c,n
+,3,Opuntia polyacantha,2,3,2,2,2,2,3,3,2,1,2,3,,,39,c,n
+,1,Opuntia polyacantha,,,,,,,1,1,1,,,,,,40,c,n
+,2,Opuntia polyacantha,1,2,2,1,3,2,2,3,1,1,2,1,,,41,c,n
+,2,Opuntia polyacantha,2,2,2,2,3,2,1,2,1,2,2,3,,,47,c,n
+,2,Opuntia polyacantha,,,,,,,,,,,,,1,2,48,c,n
+,2,Orobanche fasciculata,,,,2,2,1,,,,1,1,1,,,14,f,n
+,2,Orobanche fasciculata,1,2,1,,,,,,,,,,,,29,f,n
+,2,Orobanche fasciculata,2,1,1,,,,,,,,,,,,35,f,n
+,2,Orobanche fasciculata,,,,,,,,,,1,2,1,,,42,f,n
+,1,Orobanche fasciculata,,,,,,,,,,,,,1,1,51,f,n
+,2,Orobanche ludoviciana,,,,,,,2,1,1,,,,,,38,f,n
+,2,Orthocarpus luteus,3,2,1,,,,,,,,,,,,49,f,n
+,3,Oxytropis,1,2,3,1,2,2,,,,1,1,1,,,8,f,n
+,2,Oxytropis,,,,1,2,2,,,,,,,,,26,f,n
+,2,Oxytropis lambertii,2,2,1,2,2,2,,,,1,2,1,,,44,f,n
+,2,Oxytropis lambertii,4,2,1,2,2,2,1,2,1,2,2,2,,,45,f,n
+,1,Oxytropis sericea,,,,,,,,,,,,,1,2,11,f,n
+,2,Oxytropis sericea,2,2,1,,,,1,2,1,2,2,1,,,25,f,n
+,1,Oxytropis sericea,,,,,,,,,,,,,1,1,45,f,n
+,2,Packera,1,2,2,2,2,4,2,2,4,2,2,2,,,46,f,n
+,2,Packera,3,2,2,1,2,2,3,2,2,1,2,2,,,50,f,n
+,2,Packera cana,2,2,3,,,,,,,,,,,,10,f,n
+,2,Packera cana,,,,,,,,,,,,,1,2,43,f,n
+,1,Packera multilobata,,,,,,,,,,,,,1,1,42,f,n
+,2,Pediomelum esculentum,,,,2,2,1,2,2,1,1,2,2,,,19,f,n
+,1,Penstemon,,,,,,,,,,,,,1,1,2,f,n
+,1,Penstemon,,,,,,,1,1,1,3,2,1,,,5,f,n
+,1,Penstemon,,,,1,2,1,,,,,,,,,9,f,n
+,1,Penstemon,1,2,1,1,2,2,,,,,,,,,16,f,n
+,2,Penstemon,,,,,,,,,,1,1,2,,,19,f,n
+,2,Penstemon,1,2,4,3,2,1,1,2,1,,,,,,32,f,n
+,2,Penstemon,,,,1,2,2,1,2,1,1,2,1,,,37,f,n
+,2,Penstemon,,,,,,,,,,,,,1,2,43,f,n
+,1,Penstemon albidus,,,,2,1,1,,,,,,,,,19,f,n
+,2,Penstemon albidus,,,,2,1,1,1,1,1,1,2,1,,,20,f,n
+,2,Penstemon angustifolius,1,1,1,2,1,1,1,1,1,,,,,,1,f,n
+,1,Penstemon angustifolius,,,,,,,,,,1,1,1,,,4,f,n
+,1,Penstemon caespitosus,,,,,,,,,,,,,1,1,46,f,n
+,2,Penstemon cyathophorus,1,1,1,,,,1,2,1,1,2,1,,,43,f,n
+,2,Penstemon eriantherus,2,2,2,2,2,1,2,2,2,2,2,2,,,9,f,n
+,2,Penstemon eriantherus,2,1,1,1,2,4,1,2,1,2,1,1,,,12,f,n
+,1,Penstemon eriantherus,,,,,,,,,,,,,1,1,14,f,n
+,2,Penstemon eriantherus,,,,1,2,2,,,,2,2,2,,,15,f,n
+,1,Penstemon eriantherus,,,,1,1,1,,,,,,,,,16,f,n
+,2,Penstemon eriantherus,1,1,1,,,,,,,,,,,,24,f,n
+,2,Penstemon eriantherus,2,2,3,2,2,2,2,2,2,2,2,1,,,30,f,n
+,2,Penstemon eriantherus,2,1,1,1,1,1,,,,,,,,,33,f,n
+,2,Penstemon eriantherus,,,,,,,1,2,1,,,,,,34,f,n
+,2,Penstemon eriantherus,2,2,3,3,2,3,1,2,1,,,,,,37,f,n
+,2,Penstemon fremontii,2,,2,3,2,2,2,2,1,3,2,1,,,31,f,n
+,2,Penstemon fremontii,1,1,1,1,2,1,1,2,1,1,2,2,,,33,f,n
+,2,Penstemon humilis,1,2,2,1,2,1,,,,,,,,,23,f,n
+,2,Penstemon humilis,,,,,,,,,,,,,1,2,35,f,n
+,3,Penstemon humilis,3,2,4,5,2,2,2,2,2,2,2,3,,,51,f,n
+,2,Penstemon laricifolius,1,2,3,1,2,2,,,,,,,,,32,f,n
+,2,Penstemon laricifolius,,,,,,,,,,,,,1,2,33,f,n
+,2,Penstemon radicosus,1,2,1,1,1,1,,,,,,,,,9,f,n
+,2,Penstemon radicosus,,,,1,2,2,,,,,,,,,12,f,n
+,1,Penstemon radicosus,,,,,,,,,,,,,1,1,33,f,n
+,2,Penstemon radicosus,1,2,3,1,2,1,1,2,2,,,,,,34,f,n
+,2,Penstemon radicosus,1,2,3,1,2,4,4,2,1,1,2,2,,,35,f,n
+,1,Penstemon radicosus,,,,,,,,,,2,2,1,,,39,f,n
+,2,Penstemon radicosus,1,2,1,1,2,1,,,,,,,,,46,f,n
+,2,Penstemon strictus,1,2,1,2,2,3,2,2,1,,,,,,32,f,n
+,1,Penstemon strictus,,,,,,,,,,,,,1,1,42,f,n
+,1,Phacelia,,,,,,,2,2,1,,,,,,23,f,n
+,1,Phacelia ivesiana,,,,,,,,,,,,,1,2,17,f,n
+,2,Phacelia linearis,2,2,1,2,2,1,1,2,1,2,2,1,,,12,f,n
+,1,Phlox,1,1,2,,,,,,,,,,,,7,f,n
+,2,Phlox,,,,1,1,1,1,2,1,,,,,,11,f,n
+,2,Phlox andicola,2,2,5,4,2,4,4,2,3,2,,,,,35,f,n
+,3,Phlox andicola,3,3,5,5,3,3,4,3,5,5,3,4,,,45,f,n
+,3,Phlox hoodii,3,2,2,4,2,1,3,3,3,3,2,2,,,1,f,n
+,3,Phlox hoodii,2,2,3,3,2,1,4,3,3,3,3,3,,,2,f,n
+,2,Phlox hoodii,3,2,2,3,2,4,3,2,4,3,2,3,,,3,f,n
+,2,Phlox hoodii,3,2,5,4,2,3,3,2,4,5,2,3,,,5,f,n
+,2,Phlox hoodii,4,2,2,2,2,3,2,2,4,2,2,3,,,6,f,n
+,2,Phlox hoodii,3,2,4,5,2,4,4,2,2,5,2,3,,,7,f,n
+,2,Phlox hoodii,2,2,3,2,2,4,1,2,2,2,2,4,,,8,f,n
+,2,Phlox hoodii,5,2,4,4,2,5,5,2,2,4,2,1,,,9,f,n
+,2,Phlox hoodii,3,2,4,5,2,4,3,2,4,5,2,3,,,10,f,n
+,2,Phlox hoodii,2,2,4,2,2,5,2,2,5,3,2,2,,,11,f,n
+,2,Phlox hoodii,4,2,3,3,2,4,5,2,3,2,2,4,,,12,f,n
+,2,Phlox hoodii,,,,,,,1,2,2,,,,1,,14,f,n
+,2,Phlox hoodii,3,2,3,2,2,3,3,2,3,2,2,3,,,15,f,n
+,2,Phlox hoodii,4,2,2,5,2,4,3,2,2,2,2,4,,,16,f,n
+,2,Phlox hoodii,4,2,4,1,2,2,2,2,2,1,2,5,,,19,f,n
+,2,Phlox hoodii,1,2,4,2,2,1,,,,5,2,2,,,20,f,n
+,2,Phlox hoodii,3,2,3,4,2,1,3,2,1,5,2,4,,,21,f,n
+,2,Phlox hoodii,1,2,5,1,2,2,3,2,2,2,2,1,,,23,f,n
+,2,Phlox hoodii,2,2,4,4,2,2,2,2,4,3,2,4,,,24,f,n
+,3,Phlox hoodii,4,3,3,3,3,5,4,3,3,5,2,2,,,25,f,n
+,2,Phlox hoodii,1,2,3,3,2,4,1,2,3,3,2,1,,,26,f,n
+,2,Phlox hoodii,3,2,4,2,2,3,5,2,2,3,2,4,,,27,f,n
+,2,Phlox hoodii,4,2,4,,,,2,2,4,2,2,1,,,28,f,n
+,2,Phlox hoodii,1,1,1,4,2,3,1,2,3,1,2,1,,,29,f,n
+,2,Phlox hoodii,2,2,3,4,2,2,3,2,1,3,2,3,,,30,f,n
+,2,Phlox hoodii,3,2,4,4,2,3,3,2,2,3,2,4,,,31,f,n
+,2,Phlox hoodii,4,2,4,1,2,2,3,2,4,4,2,1,,,32,f,n
+,2,Phlox hoodii,4,3,5,3,2,3,4,2,4,3,2,2,,,33,f,n
+,2,Phlox hoodii,2,2,3,4,2,,5,2,3,3,2,3,,,34,f,n
+,1,Phlox hoodii,,,,,,,,,,1,1,2,,,35,f,n
+,2,Phlox hoodii,2,2,2,3,2,2,3,2,2,2,2,1,,,36,f,n
+,2,Phlox hoodii,4,2,4,2,2,4,3,2,3,,2,4,,,37,f,n
+,2,Phlox hoodii,2,2,4,3,2,4,1,2,4,2,2,2,,,38,f,n
+,2,Phlox hoodii,3,2,4,4,2,5,3,2,3,4,2,3,,,39,f,n
+,2,Phlox hoodii,3,2,4,3,2,4,1,2,2,3,2,2,,,40,f,n
+,2,Phlox hoodii,5,2,3,3,2,3,4,2,3,2,2,5,,,41,f,n
+,2,Phlox hoodii,3,2,4,1,2,4,4,2,1,4,2,4,,,43,f,n
+,2,Phlox hoodii,3,2,4,4,2,5,3,2,4,3,2,3,,,47,f,n
+,2,Phlox hoodii,2,3,5,1,3,3,2,2,1,2,2,1,,,48,f,n
+,2,Phlox hoodii,2,2,4,5,2,2,1,2,2,3,2,1,,,49,f,n
+,2,Phlox longifolia,3,2,4,3,2,1,5,2,1,3,2,1,,,35,f,n
+,2,Phlox longifolia,4,2,5,5,3,3,4,3,1,5,2,5,,,42,f,n
+,2,Phlox longifolia,3,2,2,3,2,4,5,2,3,1,2,2,,,43,f,n
+,3,Phlox longifolia,5,3,4,3,3,4,5,3,3,3,3,2,,,46,f,n
+,2,Phlox longifolia,4,2,2,2,2,1,3,2,2,3,2,2,,,48,f,n
+,1,Phlox longifolia,,,,,,,,,,,,,1,1,51,f,n
+,2,Phlox multiflora,5,3,2,2,2,3,4,2,4,3,2,1,,,42,f,n
+,3,Phlox multiflora,3,3,3,5,2,4,3,3,5,2,3,5,,,49,f,n
+,2,Physaria,3,2,3,3,2,1,,,,1,2,3,,,20,f,n
+,1,Physaria,,,,,,,,,,,,,1,1,28,f,n
+,2,Physaria acutifolia,1,2,1,4,1,1,2,2,1,1,1,3,,,11,f,n
+,2,Picradeniopsis oppositifolia,,,,,,,,,,,,,1,2,28,f,n
+,2,Pinus flexilis,1,2,1,2,3,1,1,2,1,1,2,1,,,35,s,n
+,2,Pinus flexilis,,,,,,,,,,,,,1,2,44,s,n
+,2,Plantago patagonica,5,2,3,3,2,3,4,3,3,5,2,4,,,12,f,n
+,2,Plantago patagonica,1,2,1,1,1,1,1,2,1,1,2,1,,,13,f,n
+,2,Plantago patagonica,5,2,2,2,2,4,4,2,4,1,2,5,,,14,f,n
+,2,Plantago patagonica,5,2,2,2,3,4,5,2,5,3,2,2,,,18,f,n
+,2,Plantago patagonica,5,2,5,4,2,4,5,2,2,4,2,3,,,19,f,n
+,2,Plantago patagonica,3,2,5,4,2,3,4,2,3,5,2,5,,,20,f,n
+,2,Plantago patagonica,3,2,2,3,2,2,2,2,1,3,2,1,,,22,f,n
+,2,Plantago patagonica,,,,2,2,1,,,,3,2,1,,,27,f,n
+,2,Plantago patagonica,,,,,,,2,1,1,,,,,,30,f,n
+,2,Plantago patagonica,2,2,1,,,,3,2,1,,,,,,37,f,n
+,4,Poa,1,2,3,5,2,1,3,3,5,4,4,3,,,10,g,n
+,1,Poa,,,,,,,,,,,,,1,1,42,g,n
+,3,Poa,1,2,5,1,2,4,1,2,1,5,2,2,,,51,g,n
+,2,Poa arida,2,2,1,1,1,1,3,2,3,2,2,2,,,12,g,n
+,4,Poa arida,3,4,3,1,4,5,3,3,3,5,3,1,,,45,g,n
+,5,Poa arida,4,5,5,4,5,5,2,4,2,4,5,5,,,49,g,n
+,2,Poa compressa,,,,,,,,,,,,,1,2,42,g,i
+,3,Poa cusickii,1,3,2,3,3,1,3,3,2,1,2,3,,,25,g,n
+,2,Poa cusickii,4,2,1,1,2,2,,,,,,,,,35,g,n
+,4,Poa cusickii,2,4,4,3,4,3,2,4,2,3,4,4,,,38,g,n
+,2,Poa cusickii,1,2,1,1,3,2,3,2,2,3,2,3,,,48,g,n
+,2,Poa cusickii,,,,1,2,4,5,2,2,3,2,2,,,51,g,n
+,2,Poa fendleriana,,,,,3,5,,,,,,,,,32,g,n
+,3,Poa fendleriana,1,3,2,2,3,3,2,3,1,2,2,3,,,33,g,n
+,2,Poa fendleriana,,,,1,2,2,,,,,,,,,36,g,n
+,3,Poa fendleriana,1,3,1,4,3,5,4,4,5,5,3,3,,,42,g,n
+,3,Poa fendleriana,4,4,4,3,3,5,5,3,4,4,3,4,,,47,g,n
+,3,Poa pratensis,1,4,1,3,2,1,1,3,1,5,3,1,,,42,g,n
+,2,Poa pratensis,,,,3,2,2,2,2,2,,,,,,44,g,n
+,1,Poa pratensis,,,,,,,1,1,1,2,2,1,,,49,g,n
+,5,Poa pratensis,5,5,2,5,4,4,5,5,5,5,3,3,,,50,g,n
+,2,Poa secunda,1,3,4,,,,1,2,3,,,,,,2,g,n
+,2,Poa secunda,3,2,5,5,3,4,4,3,4,3,2,5,,,3,g,n
+,1,Poa secunda,,,,1,2,2,5,2,1,,,,,,4,g,n
+,2,Poa secunda,4,2,5,4,3,2,4,2,4,5,2,4,,,6,g,n
+,3,Poa secunda,3,3,5,3,2,4,4,3,3,4,3,3,,,7,g,n
+,4,Poa secunda,3,3,3,3,4,4,1,4,4,5,3,4,,,8,g,n
+,2,Poa secunda,3,4,4,3,3,4,3,2,1,3,2,4,,,9,g,n
+,5,Poa secunda,5,4,5,5,4,5,4,5,4,5,5,3,,,10,g,n
+,3,Poa secunda,1,3,4,3,2,1,2,2,3,5,2,4,,,11,g,n
+,2,Poa secunda,4,2,4,4,3,5,4,3,5,4,2,4,,,12,g,n
+,3,Poa secunda,3,3,3,4,3,2,5,3,3,4,3,5,,,13,g,n
+,4,Poa secunda,3,3,5,5,4,5,4,3,5,4,4,4,,,14,g,n
+,2,Poa secunda,3,2,4,3,4,4,2,4,5,4,2,3,,,15,g,n
+,3,Poa secunda,2,3,4,4,4,3,2,3,3,3,2,3,,,16,g,n
+,2,Poa secunda,2,2,2,2,2,2,2,3,4,2,2,2,,,17,g,n
+,5,Poa secunda,5,5,4,3,3,2,5,4,3,4,4,4,,,18,g,n
+,2,Poa secunda,4,2,3,1,3,4,3,2,2,5,2,4,,,19,g,n
+,3,Poa secunda,2,2,5,3,3,4,5,3,4,5,3,5,,,20,g,n
+,2,Poa secunda,3,2,2,2,2,2,5,2,1,3,3,3,,,22,g,n
+,4,Poa secunda,5,3,1,4,3,5,3,4,5,3,4,4,,,23,g,n
+,4,Poa secunda,4,4,5,2,4,5,4,4,5,4,4,5,,,24,g,n
+,3,Poa secunda,5,3,5,3,3,5,5,3,5,3,3,2,,,25,g,n
+,2,Poa secunda,2,2,3,3,3,2,3,2,4,5,2,5,,,26,g,n
+,4,Poa secunda,5,3,5,5,3,5,5,4,5,4,4,4,,,27,g,n
+,3,Poa secunda,5,2,1,4,2,2,2,3,4,3,3,4,,,28,g,n
+,3,Poa secunda,4,3,3,2,3,2,3,3,2,3,3,2,,,29,g,n
+,4,Poa secunda,5,4,5,4,4,4,4,4,4,5,4,5,,,30,g,n
+,3,Poa secunda,4,3,4,2,4,4,5,3,1,2,3,4,,,31,g,n
+,5,Poa secunda,4,5,4,4,5,5,3,4,3,3,5,3,,,32,g,n
+,2,Poa secunda,3,2,1,3,2,4,3,2,2,3,2,4,,,33,g,n
+,3,Poa secunda,3,3,5,5,3,4,5,3,3,5,3,5,,,34,g,n
+,2,Poa secunda,3,3,2,3,2,4,3,2,2,1,3,3,,,36,g,n
+,3,Poa secunda,4,3,4,5,3,4,4,3,5,5,3,5,,,37,g,n
+,3,Poa secunda,4,3,4,5,3,5,4,3,4,3,3,3,,,38,g,n
+,3,Poa secunda,5,4,5,5,3,4,5,3,4,5,3,5,,,39,g,n
+,3,Poa secunda,4,3,4,3,3,3,4,3,4,5,3,4,,,40,g,n
+,4,Poa secunda,4,4,4,4,4,5,4,4,5,5,4,3,,,41,g,n
+,3,Poa secunda,3,3,5,2,3,4,1,2,1,2,4,4,,,42,g,n
+,2,Poa secunda,4,3,3,2,2,4,5,2,2,5,2,5,,,43,g,n
+,2,Poa secunda,3,2,1,,,,,,,,,,,,46,g,n
+,5,Poa secunda,4,5,5,5,4,5,3,5,4,5,5,4,,,48,g,n
+,2,Poaceae,1,2,1,1,2,2,1,1,2,,,,,,7,g,n
+,4,Poaceae,3,4,5,5,3,4,5,3,2,4,4,3,,,8,g,n
+,1,Poaceae,,,,3,1,1,,,,,,,,,19,g,n
+,2,Poaceae,1,2,4,,,,1,2,1,1,3,1,,,23,g,n
+,2,Poaceae,3,2,2,3,2,1,,,,,,,,,26,g,n
+,2,Poaceae,2,3,2,1,2,1,1,2,5,1,2,1,,,33,g,n
+,1,Poaceae,1,1,4,,,,,,,,,,,,49,g,n
+,2,Poaceae sp 1,1,2,1,1,2,2,1,2,1,2,1,1,,,17,g,n
+,2,Poaceae sp 1,,,,,,,,,,,,,1,2,44,g,n
+,2,Poaceae sp 2,,,,1,2,3,1,2,1,1,1,1,,,17,g,n
+,2,Poaceae sp 2,,,,,,,2,3,1,1,2,3,,,34,g,n
+,2,Poaceae sp 2,,,,,,,,,,,,,1,2,44,g,n
+,2,Polygonum douglasii,2,2,4,3,2,4,,,,,,,,,42,f,n
+,1,Polygonum douglasii,,,,,,,,,,,,,1,1,50,f,n
+,1,Polygonum ramosissimum,,,,,,,,,,,,,1,1,43,f,n
+,2,Potentilla concinna,,,,,,,,,,1,2,1,,,43,f,n
+,2,Potentilla concinna,2,2,1,1,2,1,,,,,,,,,44,f,n
+,2,Potentilla concinna,,,,1,2,1,,,,2,1,1,,,45,f,n
+,2,Potentilla concinna,2,2,1,1,1,1,,,,,,,,,46,f,n
+,2,Potentilla concinna,,,,2,2,1,2,2,1,1,2,1,,,49,f,n
+,2,Potentilla pensylvanica,1,1,1,,,,,,,1,2,2,,,44,f,n
+,2,Potentilla pulcherrima,,,,,,,,,,,,,1,2,45,f,n
+,3,Potentilla pulcherrima,2,4,5,2,2,1,3,2,1,1,2,1,,,50,f,n
+,4,Pseudelymus saxicola,4,4,2,2,3,2,3,3,4,5,3,2,,,49,g,n
+,3,Pseudelymus saxicola,2,3,5,2,3,4,,,,,,,,,50,g,n
+,3,Pseudoroegneria spicata,1,3,2,4,3,4,5,3,5,4,3,4,,,5,g,n
+,5,Pseudoroegneria spicata,3,4,4,4,5,5,3,4,5,4,4,4,,,11,g,n
+,4,Pseudoroegneria spicata,5,4,5,5,3,5,5,4,3,5,4,4,,,12,g,n
+,1,Pseudoroegneria spicata,,,,,,,1,2,1,,,,,,13,g,n
+,4,Pseudoroegneria spicata,5,5,4,5,4,3,4,3,4,5,4,5,,,15,g,n
+,3,Pseudoroegneria spicata,2,2,1,3,2,1,1,2,2,3,4,1,,,16,g,n
+,1,Pseudoroegneria spicata,1,2,1,,,,1,2,1,,,,,,17,g,n
+,4,Pseudoroegneria spicata,3,5,1,2,3,3,2,4,3,3,5,3,,,31,g,n
+,2,Pseudoroegneria spicata,,,,,,,1,3,1,1,2,2,,,34,g,n
+6,4,Pseudoroegneria spicata,2,4,5,4,4,3,2,4,2,3,4,3,,,35,g,n
+,2,Pseudoroegneria spicata,,,,1,3,2,2,3,1,1,2,1,,,37,g,n
+,5,Pseudoroegneria spicata,5,5,4,3,5,4,5,5,4,4,5,4,,,39,g,n
+,4,Pseudoroegneria spicata,5,4,5,5,4,5,,4,4,1,3,4,,,42,g,n
+,3,Pseudoroegneria spicata,,,,1,2,1,1,2,1,4,3,2,,,43,g,n
+,4,Pseudoroegneria spicata,2,4,3,1,4,2,1,3,2,3,3,1,,,44,g,n
+,3,Pseudoroegneria spicata,2,3,1,1,3,2,2,3,2,2,3,1,,,45,g,n
+,2,Pseudoroegneria spicata,3,2,3,,,,,,,,,,,,48,g,n
+,2,Pseudoroegneria spicata,4,2,1,1,2,1,,,,,,,,,49,g,n
+,3,Pseudoroegneria spicata,1,2,3,1,2,3,5,3,5,3,2,4,,,50,g,n
+,4,Pseudoroegneria spicata,3,3,2,5,4,4,2,4,3,4,4,4,,,51,g,n
+,2,Psoralidium tenuiflorum,1,1,1,3,1,1,3,2,2,4,2,5,,,4,f,n
+,2,Psoralidium tenuiflorum,2,2,2,1,2,2,2,2,4,1,2,1,,,12,f,n
+,2,Pteryxia terebinthina,3,2,3,2,2,4,2,2,3,4,2,2,,,5,f,n
+,2,Pteryxia terebinthina,4,2,1,2,2,1,3,2,1,2,2,2,,,6,f,n
+,3,Pteryxia terebinthina,5,3,3,4,3,4,5,2,4,4,3,3,,,10,f,n
+,2,Pteryxia terebinthina,,,,,,,,,,,,,1,2,33,f,n
+3,2,Purshia tridentata,1,2,1,,,,1,4,3,2,3,1,,,8,s,n
+,2,Purshia tridentata,3,6,4,2,5,2,3,6,2,4,5,1,,,35,s,n
+5,2,Purshia tridentata,2,6,2,1,3,1,1,1,1,2,4,1,,,42,s,n
+3,,Purshia tridentata,1,3,2,,,,1,3,1,1,3,1,,,50,s,n
+3,,Purshia tridentata,2,4,2,1,3,2,1,2,1,3,3,2,,,51,s,n
+,1,Ranunculus testiculatus,1,2,2,,,,,,,,,,,,7,f,i
+,2,Ranunculus testiculatus,4,2,3,5,3,5,5,2,5,5,2,5,,,8,f,i
+,2,Ranunculus testiculatus,2,2,1,1,2,1,1,2,4,1,2,2,,,11,f,i
+,6,Rock,1,6,1,1,6,1,1,6,1,,6,,,,1,,
+,1,Rock,,1,,,1,,,2,,,1,,,,2,,
+,6,Rock,,6,,,6,,,6,,,6,,,,3,,
+,1,Rock,,1,,,,,,1,,,1,,,,4,,
+,3,Rock,,4,,,3,,,3,,,3,,,,5,,
+,3,Rock,,3,,,3,,,3,,,3,,,,6,,
+,1,Rock,,2,,,2,,,1,,,1,,,,7,,
+,1,Rock,,2,,,1,,,1,,,1,,,,8,,
+,2,Rock,,2,,,1,,,2,,,2,,,,9,,
+,2,Rock,,2,,,2,,,2,,,2,,,,10,,
+,8,Rock,,8,,,8,,,8,,,8,,,,11,,
+,2,Rock,,2,,,2,,,2,,,2,,,,13,,
+,1,Rock,,,,,,,,,,,1,,,,14,,
+,2,Rock,,2,,,2,,,2,,,2,,,,15,,
+,2,Rock,,2,,,2,,,2,,,2,,,,16,,
+,2,Rock,,2,,,2,,,2,,,2,,,,17,,
+,2,Rock,,3,,,2,,,2,,,2,,,,19,,
+,3,Rock,,4,,,2,,,2,,,2,,,,20,,
+,1,Rock,,,,,1,,,1,,,1,,,,21,,
+,1,Rock,,1,,,1,,,,,,,,,,22,,
+,4,Rock,,6,,,2,,,3,,,5,,,,23,,
+,2,Rock,,2,,,2,,,2,,,2,,,,24,,
+,3,Rock,,3,,,3,,,3,,,3,,,,25,,
+,3,Rock,,3,,,2,,,3,,,3,,,,28,,
+,2,Rock,,2,,,2,,,2,,,1,,,,29,,
+,2,Rock,,2,,,2,,,2,,,2,,,,30,,
+,3,Rock,,3,,,3,,,3,,,3,,,,31,,
+,3,Rock,,2,,,3,,,2,,,2,,,,32,,
+,2,Rock,,2,,,2,,,2,,,2,,,,33,,
+,4,Rock,,3,,,3,,,5,,,5,,,,34,,
+,4,Rock,,5,,,4,,,4,,,4,,,,35,,
+,3,Rock,,3,,,3,,,3,,,2,,,,36,,
+,2,Rock,,2,,,2,,,2,,,2,,,,37,,
+,2,Rock,,2,,,2,,,1,,,2,,,,38,,
+,7,Rock,,7,,,7,,,7,,,7,,,,39,,
+,3,Rock,,2,,,4,,,2,,,2,,,,40,,
+,3,Rock,,3,,,3,,,3,,,3,,,,41,,
+,3,Rock,,3,,,3,,,3,,,3,,,,42,,
+,4,Rock,,4,,,5,,,4,,,4,,,,43,,
+,4,Rock,,4,,,5,,,4,,,4,,,,44,,
+,6,Rock,,5,,,6,,,6,,,6,,,,45,,
+,2,Rock,,,,,,,,2,,,,,,,46,,
+,2,Rock,,2,,,2,,,2,,,2,,,,47,,
+,6,Rock,,6,,,6,,,6,,,6,,,,48,,
+,4,Rock,,4,,,4,,,4,,,4,,,,50,,
+,6,Rock,,6,,,6,,,6,,,6,,,,51,,
+2,,Rosa woodsii,,,,,,,1,2,2,,,,,,51,s,n
+,1,Rumex venosus,1,2,4,2,2,4,,,,,,,,,4,f,n
+,1,Rumex venosus,,,,,,,,,,1,1,1,,,17,f,n
+,2,Schoenocrambe linifolia,,,,2,2,2,,,,,,,,,10,f,n
+,2,Schoenocrambe linifolia,1,2,1,1,2,1,1,2,1,2,2,2,,,17,f,n
+,2,Schoenocrambe linifolia,,,,,,,,,,,,,1,2,29,f,n
+,2,Schoenocrambe linifolia,4,2,2,,,,3,2,1,,,,,,33,f,n
+,2,Schoenocrambe linifolia,,,,,,,3,2,1,1,2,1,,,34,f,n
+,1,Schoenocrambe linifolia,,,,2,2,1,,,,,,,,,39,f,n
+,2,Schoenocrambe linifolia,3,2,3,1,2,3,1,2,3,3,2,3,,,40,f,n
+,2,Schoenocrambe linifolia,,,,,,,,,,2,2,1,,,41,f,n
+,2,Schoenocrambe linifolia,3,2,1,2,2,1,,,,,,,,,47,f,n
+,2,Schoenocrambe linifolia,2,2,1,,,,,,,,,,,,48,f,n
+,2,Sedum lanceolatum,,,,,,,,,,1,2,1,,,39,f,n
+,2,Sedum lanceolatum,3,3,5,3,2,4,5,2,4,4,2,4,,,43,f,n
+,2,Sedum lanceolatum,1,2,2,2,2,1,,,,1,2,2,,,44,f,n
+,3,Sedum lanceolatum,4,3,4,2,3,5,5,3,4,5,3,3,,,45,f,n
+,2,Sedum lanceolatum,1,2,1,1,2,2,2,2,2,4,2,2,,,48,f,n
+,2,Sedum lanceolatum,2,2,1,3,2,1,1,2,1,2,2,2,,,50,f,n
+,2,Silene drummondii,,,,,,,,,,,,,1,2,43,f,n
+,2,Silene drummondii,1,2,3,1,1,1,,,,1,2,1,,,44,f,n
+,2,Silene drummondii,4,2,5,2,2,2,1,2,2,2,,5,,,46,f,n
+,2,Silene drummondii,2,1,1,,,,,,,2,2,1,,,49,f,n
+,2,Silene parryi,,,,1,2,2,,,,1,,1,,,35,f,n
+,2,Silene parryi,3,2,4,2,2,1,2,2,1,4,2,1,,,45,f,n
+,2,Silene parryi,1,2,1,2,2,1,1,2,2,1,2,2,,,50,f,n
+,1,Sisymbrium,,,,,,,,,,,,,1,1,34,f,n
+,2,Sphaeralcea coccinea,1,2,1,,,,1,1,3,4,2,1,,,9,f,n
+,2,Sphaeralcea coccinea,4,2,1,2,2,3,2,2,2,3,2,3,,,12,f,n
+,2,Sphaeralcea coccinea,2,2,1,1,2,1,,,,,,,,,13,f,n
+,2,Sphaeralcea coccinea,,,,,,,,,,,,,1,2,14,f,n
+,2,Sphaeralcea coccinea,3,2,1,1,2,1,4,2,1,1,1,1,,,15,f,n
+,2,Sphaeralcea coccinea,2,2,2,,,,1,2,2,1,2,1,,,16,f,n
+,3,Sphaeralcea coccinea,4,3,4,2,2,4,3,2,1,4,2,2,,,17,f,n
+,2,Sphaeralcea coccinea,3,2,3,2,2,2,,2,,1,2,2,,,18,f,n
+,2,Sphaeralcea coccinea,3,2,4,2,2,4,3,2,1,2,2,3,,,19,f,n
+,2,Sphaeralcea coccinea,3,2,3,3,2,4,3,2,4,4,2,3,,,20,f,n
+,2,Sphaeralcea coccinea,2,2,1,4,2,3,4,2,3,3,2,1,,,21,f,n
+,2,Sphaeralcea coccinea,2,2,2,1,2,1,1,2,1,4,2,1,,,22,f,n
+,2,Sphaeralcea coccinea,1,1,1,,,,1,2,3,,,,,,24,f,n
+,2,Sphaeralcea coccinea,3,2,2,2,2,1,1,2,2,,,,,,25,f,n
+,2,Sphaeralcea coccinea,2,2,3,1,1,1,,,,,,,,,26,f,n
+,2,Sphaeralcea coccinea,1,2,2,2,2,1,,,,3,2,2,,,27,f,n
+,2,Sphaeralcea coccinea,3,2,3,2,2,4,3,2,4,3,2,4,,,28,f,n
+,2,Sphaeralcea coccinea,1,2,2,1,2,3,1,1,1,1,2,2,,,29,f,n
+,2,Sphaeralcea coccinea,2,2,3,2,2,3,4,2,1,3,2,1,,,30,f,n
+,2,Sphaeralcea coccinea,2,2,2,1,2,2,1,2,2,2,2,1,,,36,f,n
+,2,Sphaeralcea coccinea,1,2,2,2,2,1,3,2,4,1,2,1,,,37,f,n
+,2,Sphaeralcea coccinea,2,2,1,2,2,1,2,2,1,3,2,3,,,39,f,n
+,2,Sporobolus cryptandrus,1,2,1,,,,,,,,,,,,24,f,n
+,2,Sporobolus cryptandrus,,,,,,,,,,,,,1,2,26,f,n
+,2,Stanleya pinnata,,,,1,2,2,1,2,1,,,,,,34,f,n
+,2,Stenotus acaulis,1,2,1,,,,1,2,3,,,,,,5,f,n
+,2,Stenotus acaulis,,,,3,2,1,,,,,,,,,6,f,n
+,3,Stenotus acaulis,,,,3,2,1,2,3,1,4,3,5,,,7,f,n
+,5,Stenotus acaulis,1,2,1,,,,,,,,,,,,8,f,n
+,2,Stenotus acaulis,1,2,1,,,,,,,,,,,,11,f,n
+,1,Stenotus acaulis,,,,,,,2,1,1,,,,,,15,f,n
+,3,Stenotus acaulis,1,3,3,,,,2,3,2,1,3,2,,,31,f,n
+,2,Stenotus acaulis,1,2,1,,,,,,,,,,,,32,f,n
+,2,Stenotus acaulis,,,,1,3,2,2,2,1,,,,,,33,f,n
+,2,Stenotus acaulis,3,2,2,3,2,3,4,2,2,4,3,2,,,34,f,n
+,2,Stenotus acaulis,1,2,1,1,2,2,1,2,4,3,3,4,,,39,f,n
+,2,Stenotus acaulis,,,,1,2,1,,,,,,,,,40,f,n
+,2,Stenotus acaulis,,,,,,,,,,2,2,2,,,41,f,n
+,2,Stenotus acaulis,1,2,1,,,,,,,1,2,1,,,43,f,n
+,2,Stenotus acaulis,,,,,,,,,,1,2,1,,,47,f,n
+,2,Stenotus acaulis,,,,1,2,1,,,,1,2,1,,,48,f,n
+,1,Stenotus armerioides,,,,,,,,,,,,,1,1,1,f,n
+,2,Stenotus armerioides,,,,1,2,1,,,,,,,,,31,f,n
+,1,Symphoricarpos,,,,,,,,,,,,,1,1,5,s,n
+,2,Symphoricarpos oreophilus,,,,1,2,3,,,,,,,,,8,s,n
+3,,Symphoricarpos oreophilus,3,2,1,4,3,1,2,3,2,1,3,1,,,11,s,n
+,2,Symphoricarpos oreophilus,1,2,1,1,2,1,1,3,1,1,2,4,,,33,s,n
+,2,Symphoricarpos oreophilus,2,6,2,1,5,2,3,4,2,2,4,1,,,35,s,n
+,2,Symphoricarpos oreophilus,,,,,,,1,2,1,,,,,,38,s,n
+3,2,Symphoricarpos oreophilus,2,4,3,1,2,1,1,2,2,1,2,1,,,42,s,n
+,2,Symphoricarpos oreophilus,,,,,,,,,,,,,1,2,46,s,n
+2,,Symphoricarpos oreophilus,,,,1,2,1,1,2,1,,,,,,51,s,n
+,2,Symphyotrichum ascendens,,,,1,2,2,2,2,4,1,3,1,,,51,f,n
+,2,Taraxacum,,,,3,2,1,,,,,,,,,45,f,i
+,1,Taraxacum officinale,1,2,1,,,,1,1,3,,,,,,8,f,i
+,2,Taraxacum officinale,1,2,2,1,2,2,2,2,2,2,2,3,,,9,f,i
+,2,Taraxacum officinale,1,2,1,4,2,1,2,2,1,1,2,2,,,11,f,i
+,2,Taraxacum officinale,3,2,1,3,2,3,2,2,3,1,2,1,,,12,f,i
+,2,Taraxacum officinale,,,,,,,,,,,,,1,2,14,f,i
+,1,Taraxacum officinale,1,1,1,,,,,,,,,,,,15,f,i
+,2,Taraxacum officinale,1,2,2,1,2,3,2,2,2,1,2,,,,19,f,i
+,2,Taraxacum officinale,,,,1,1,1,2,2,1,,,,,,20,f,i
+,2,Taraxacum officinale,5,2,2,3,2,4,3,2,1,3,2,3,,,21,f,i
+,2,Taraxacum officinale,1,1,1,,,,,,,1,1,1,,,23,f,i
+,2,Taraxacum officinale,,,,,,,1,2,3,,,,,,27,f,i
+,2,Taraxacum officinale,1,2,1,,,,,,,,,,,,34,f,i
+,2,Taraxacum officinale,1,2,3,2,2,2,2,3,3,1,2,2,,,42,f,i
+,2,Taraxacum officinale,3,2,3,1,2,2,3,2,2,2,2,1,,,44,f,i
+,2,Taraxacum officinale,,,,,,,,,,1,2,3,,,45,f,i
+,2,Taraxacum officinale,2,2,3,2,2,1,,,,,,,,,46,f,i
+,1,Taraxacum officinale,,,,,,,,,,,,,1,1,51,f,i
+,3,Tetradymia canescens,3,3,1,1,3,2,3,2,2,1,3,3,,,7,s,n
+,2,Tetradymia canescens,2,2,2,1,2,1,2,2,2,,,,,,31,s,n
+,3,Tetradymia canescens,3,3,3,4,3,3,2,3,3,2,3,2,,,32,s,n
+,2,Tetradymia canescens,1,1,1,,,,,,,1,2,1,,,33,s,n
+,2,Tetradymia canescens,,,,,,,,,,,,,1,2,34,s,n
+,2,Tetradymia canescens,1,2,1,1,2,1,,,,1,2,2,,,38,s,n
+,2,Tetradymia canescens,,,,1,2,1,1,2,1,,,,,,43,s,n
+3,,Tetradymia canescens,2,2,1,1,2,1,1,2,1,,,,,,51,s,n
+2,2,Tetradymia nuttallii,2,2,2,2,2,1,2,2,2,2,2,1,,,5,s,n
+,2,Tetradymia nuttallii,1,2,2,1,2,1,,,,,,,,,31,s,n
+,1,Tetradymia spinosa,1,1,1,,,,,,,1,1,1,,,3,s,n
+,2,Tetradymia spinosa,,,,1,3,2,,,,,,,,,21,s,n
+,2,Tetradymia spinosa,,,,,,,,,,1,2,1,,,34,s,n
+,2,Tetradymia spinosa,1,2,1,1,3,2,,,,,,,,,41,s,n
+,2,Tetraneuris acaulis,3,2,1,,,,1,2,1,,,,,,16,f,n
+,2,Tetraneuris acaulis,1,3,1,,,,,,,,,,,,23,f,n
+,2,Tetraneuris acaulis,3,2,2,3,2,4,2,2,3,2,2,2,,,25,f,n
+,2,Tetraneuris torreyana,1,2,1,2,2,1,,,,,,,,,27,f,n
+,2,Thermopsis rhombifolia,,,,,,,,,,,,,1,2,35,f,n
+,2,Townsendia,1,2,1,1,2,2,5,1,1,1,1,1,,,6,f,n
+,1,Townsendia hookeri,1,1,1,1,1,1,,,,,,,,,16,f,n
+,2,Townsendia hookeri,1,1,3,1,2,2,,,,1,1,1,,,40,f,n
+,1,Townsendia incana,,,,,,,,,,,,,1,1,24,f,n
+,1,Townsendia incana,,,,,,,,,,,,,1,1,27,f,n
+,2,Townsendia incana,1,2,1,2,2,2,3,2,2,3,2,1,,,41,f,n
+,2,Townsendia strigosa,1,2,2,,,,,,,,,,,,40,f,n
+,1,Tragopogon,,,,,,,,,,,,,1,1,16,f,i
+,1,Tragopogon,,,,,,,,,,,,,1,1,18,f,i
+,2,Tragopogon,,,,,,,,,,,,,1,2,19,f,i
+,1,Tragopogon,,,,,,,1,1,1,,,,,,20,f,i
+,2,Tragopogon,1,2,2,1,1,1,,,,,,,,,21,f,i
+,2,Tragopogon,1,2,1,,,,2,2,3,,,,,,23,f,i
+,2,Tragopogon,2,2,2,3,2,2,3,2,2,3,2,3,,,27,f,i
+,2,Tragopogon,2,1,1,5,1,1,1,2,3,,,,,,37,f,i
+,2,Tragopogon,2,2,1,1,2,1,,,,,,,,,42,f,i
+,2,Tragopogon,,,,,,,1,1,1,1,2,1,,,44,f,i
+,1,Tragopogon,,,,,,,,,,,,,1,1,45,f,i
+,1,Tragopogon,,,,,,,,,,,,,1,1,51,f,i
+,2,Tragopogon dubius,1,2,2,2,2,3,3,2,2,3,2,2,,,12,f,i
+,2,Tragopogon dubius,,,,,,,,,,,,,1,,14,f,i
+,2,Tragopogon dubius,1,1,1,1,2,1,,,,2,2,1,,,15,f,i
+,2,Tragopogon dubius,1,2,3,5,2,4,1,2,3,2,2,1,,,26,f,i
+,2,Tragopogon dubius,2,2,3,5,2,2,2,2,2,1,2,1,,,37,f,i
+,2,Tragopogon porrifolius,,,,,,,,,,,,,1,2,12,f,i
+,2,Trifolium repens,3,2,3,3,2,2,5,2,4,5,2,1,,,42,f,i
+,2,Trifolium dasyphyllum,1,2,2,,,,1,1,1,1,2,2,,,42,f,n
+,3,Trifolium gymnocarpon,3,2,4,3,2,4,4,2,4,3,2,3,,,6,f,n
+,2,Trifolium gymnocarpon,3,2,3,2,2,5,2,2,4,4,2,3,,,7,f,n
+,2,Trifolium gymnocarpon,4,2,4,4,2,4,2,2,4,5,2,3,,,8,f,n
+,2,Trifolium gymnocarpon,3,2,4,5,2,5,5,2,5,5,2,3,,,10,f,n
+,2,Trifolium gymnocarpon,2,2,2,3,2,3,1,2,3,3,2,2,,,11,f,n
+,2,Trifolium gymnocarpon,4,2,4,3,2,4,2,2,3,5,2,1,,,32,f,n
+,2,Trifolium gymnocarpon,3,2,4,3,2,4,3,2,1,4,2,2,,,33,f,n
+,2,Trifolium gymnocarpon,2,2,4,4,2,3,3,2,3,3,2,4,,,34,f,n
+,2,Trifolium gymnocarpon,2,2,3,2,2,2,1,2,4,2,2,3,,,38,f,n
+,2,Trifolium gymnocarpon,3,2,3,5,2,5,2,2,4,5,2,3,,,39,f,n
+,2,Trifolium gymnocarpon,2,2,2,3,2,2,2,2,3,2,2,2,,,43,f,n
+,2,Trifolium gymnocarpon,3,2,4,2,2,3,4,2,2,4,2,5,,,46,f,n
+,2,Trifolium gymnocarpon,2,2,3,3,2,2,3,2,3,3,2,4,,,47,f,n
+,2,Trifolium gymnocarpon,2,2,5,3,2,3,2,2,4,4,2,3,,,48,f,n
+,1,Unknown,2,1,1,,,,3,1,1,1,1,2,,,2,,
+,1,Unknown,1,1,2,,,,,,,,,,,,5,,
+,1,Unknown,,,,,,,,,,1,1,1,,,12,,
+,1,Unknown,,,,,,,,,,,,,1,1,13,,
+,1,Unknown,1,2,2,,,,1,2,1,,,,,,16,,
+,2,Unknown,1,1,1,1,1,2,1,2,1,2,2,2,,,20,,
+,2,Unknown,1,1,2,,,,2,1,1,,,,,,33,,
+,2,Unknown,2,2,1,1,1,1,,,,2,2,3,,,43,,
+,1,Unknown,,,,,,,1,1,1,,,,,,48,,
+,2,Unknown,,,,3,2,1,3,2,3,,,,,,49,,
+,2,Unknown,1,2,5,1,2,1,,,,,,,,,51,,
+,1,Unknown sp 1,1,2,3,,,,,,,,,,,,9,,
+,1,Unknown sp 1,3,2,1,,,,,,,,,,,,21,,
+,1,Unknown sp 1,,,,,,,,,,,,,1,1,25,,
+,2,Unknown sp 1,,,,,,,,,,,,,1,2,35,,
+,1,Unknown sp 2,,,,1,1,1,,,,,,,,,9,,
+,2,Unknown sp 2,3,2,4,1,2,1,2,2,3,3,2,1,,,21,,
+,2,Unknown sp 2,,,,,,,,,,,,,1,2,25,,
+,1,Unknown sp 2,,,,,,,,,,,,,1,1,35,,
+,1,Unknown sp 2,1,1,1,,,,,,,,,,,,51,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,1,,
+,1,Vagrant Lichen,,1,,,1,,,2,,,1,,,,2,,
+,1,Vagrant Lichen,,1,,,1,,,1,,,1,,,,3,,
+,1,Vagrant Lichen,,1,,,1,,,1,,,1,,,,7,,
+,1,Vagrant Lichen,,1,,,1,,,,,,,,,,8,,
+,2,Vagrant Lichen,,1,,,1,,,1,,,1,,,,10,,
+,1,Vagrant Lichen,,2,,,,,,,,,,,,,11,,
+,1,Vagrant Lichen,,,,,1,,,,,,,,,,12,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,13,,
+,2,Vagrant Lichen,,3,,,2,,,2,,,2,,,,14,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,15,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,16,,
+,1,Vagrant Lichen,,2,,,,,,,,,,,,,18,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,19,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,20,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,21,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,22,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,25,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,27,,
+,2,Vagrant Lichen,,2,,,,,,2,,,2,,,,28,,
+,1,Vagrant Lichen,,2,,,,,,,,,,,,,29,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,30,,
+,1,Vagrant Lichen,,,,,,,,1,,,,,,,31,,
+,2,Vagrant Lichen,,2,,,2,,,,,,,,,,34,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,36,,
+,3,Vagrant Lichen,,3,,,3,,,3,,,3,,,,39,,
+,2,Vagrant Lichen,,1,,,2,,,,,,2,,,,40,,
+,2,Vagrant Lichen,,2,,,2,,,2,,,2,,,,41,,
+,2,Vicia,2,2,2,1,2,2,2,2,3,3,2,2,,,16,f,n
+,2,Vicia,2,2,3,2,2,4,1,2,4,4,2,4,,,20,f,n
+,2,Vicia,3,2,3,3,2,3,2,2,5,2,2,3,,,21,f,n
+,2,Vicia americana,4,2,4,5,2,3,4,2,5,3,2,3,,,10,f,n
+,3,Vicia americana,4,3,3,3,3,4,4,2,3,3,3,5,,,15,f,n
+,2,Vicia americana,2,2,4,5,2,3,3,2,2,2,2,4,,,19,f,n
+,2,Vicia americana,4,2,3,3,2,3,4,2,2,1,2,1,,,28,f,n
+,1,Viola nuttallii,2,1,1,,,,,,,,,,,,7,f,n
+,2,Viola nuttallii,1,2,1,2,2,1,3,2,5,1,2,3,,,8,f,n
+,2,Viola nuttallii,2,2,2,2,2,2,2,2,2,1,2,2,,,12,f,n
+,1,Viola nuttallii,,,,,,,,,,,,,1,1,14,f,n
+,2,Viola nuttallii,2,2,2,1,2,2,1,1,1,2,2,3,,,15,f,n
+,2,Viola nuttallii,2,2,1,,,,1,1,1,,,,,,16,f,n
+,1,Viola nuttallii,,,,1,2,1,,,,,,,,,17,f,n
+,2,Viola nuttallii,,,,,,,3,2,1,1,2,2,,,19,f,n
+,2,Viola nuttallii,,,,1,2,1,2,2,1,,,,,,21,f,n
+,2,Viola nuttallii,1,1,1,1,1,1,,,,1,1,1,,,23,f,n
+,2,Viola nuttallii,1,2,2,2,2,2,3,2,2,2,2,1,,,25,f,n
+,2,Viola nuttallii,4,2,3,3,2,4,4,2,3,5,2,3,,,26,f,n
+,2,Viola nuttallii,3,2,2,,,,1,2,1,4,2,2,,,27,f,n
+,2,Viola nuttallii,,,,1,1,1,1,2,2,,,,,,33,f,n
+,2,Viola nuttallii,1,1,1,,,,,,,3,,1,,,37,f,n
+,2,Viola nuttallii,,,,3,2,1,,,,,,,,,38,f,n
+,2,Vulpia octoflora,,,,,,,,,,1,2,2,,,12,g,n
+,2,Vulpia octoflora,1,1,2,,,,1,2,2,1,2,5,,,13,g,n
+,2,Vulpia octoflora,5,2,2,2,2,5,4,2,5,3,2,4,,,14,g,n
+,2,Vulpia octoflora,2,2,4,2,2,2,2,2,4,4,2,1,,,17,g,n
+,2,Vulpia octoflora,4,2,5,2,2,5,5,2,2,4,2,3,,,18,g,n
+,2,Vulpia octoflora,4,2,4,4,2,3,4,2,2,4,2,1,,,19,g,n
+,2,Vulpia octoflora,5,2,3,4,2,3,5,3,5,4,2,5,,,20,g,n
+,2,Vulpia octoflora,2,2,5,1,2,1,,,,,,,,,22,g,n
+,2,Vulpia octoflora,5,2,1,4,2,3,5,2,4,4,2,4,,,23,g,n
+,2,Vulpia octoflora,,,,1,2,1,,,,,,,,,27,g,n
+,2,Woody Debris,,3,,,2,,,2,,,3,,,,1,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,2,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,3,,
+,4,Woody Debris,,4,,,3,,,4,,,4,,,,4,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,5,,
+,3,Woody Debris,,2,,,2,,,2,,,3,,,,6,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,7,,
+,2,Woody Debris,,2,,,2,,,3,,,2,,,,8,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,9,,
+,3,Woody Debris,,3,,,3,,,3,,,2,,,,10,,
+,3,Woody Debris,,3,,,3,,,3,,,3,,,,11,,
+,3,Woody Debris,,3,,,3,,,3,,,4,,,,12,,
+,2,Woody Debris,,3,,,2,,,2,,,2,,,,13,,
+,3,Woody Debris,,2,,,3,,,3,,,3,,,,14,,
+,3,Woody Debris,,3,,,3,,,3,,,3,,,,15,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,16,,
+,2,Woody Debris,,2,,,2,,,3,,,2,,,,17,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,18,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,19,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,20,,
+,3,Woody Debris,,3,,,3,,,4,,,4,,,,21,,
+,2,Woody Debris,,3,,,2,,,2,,,2,,,,22,,
+,3,Woody Debris,,2,,,2,,,3,,,3,,,,23,,
+,3,Woody Debris,,3,,,3,,,2,,,3,,,,24,,
+,3,Woody Debris,,3,,,3,,,3,,,3,,,,25,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,26,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,27,,
+,3,Woody Debris,,3,,,3,,,3,,,3,,,,28,,
+,2,Woody Debris,,2,,,3,,,3,,,2,,,,29,,
+,3,Woody Debris,,3,,,3,,,3,,,3,,,,30,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,31,,
+,3,Woody Debris,,3,,,3,,,3,,,3,,,,32,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,33,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,34,,
+,5,Woody Debris,,5,,,5,,,4,,,4,,,,35,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,36,,
+,3,Woody Debris,,3,,,3,,,3,,,3,,,,37,,
+,3,Woody Debris,,3,,,3,,,2,,,3,,,,38,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,39,,
+,3,Woody Debris,,3,,,2,,,3,,,3,,,,40,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,41,,
+,3,Woody Debris,,3,,,3,,,3,,,3,,,,42,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,43,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,44,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,45,,
+,3,Woody Debris,,3,,,3,,,3,,,3,,,,46,,
+,3,Woody Debris,,2,,,2,,,3,,,3,,,,47,,
+,3,Woody Debris,,3,,,3,,,3,,,3,,,,48,,
+,3,Woody Debris,,3,,,3,,,3,,,3,,,,49,,
+,3,Woody Debris,,3,,,2,,,3,,,2,,,,50,,
+,2,Woody Debris,,2,,,2,,,2,,,2,,,,51,,
+,2,Wyethia amplexicaulis,1,2,2,,,,,,,,,,,,50,f,n
+,3,Xylorhiza glabriuscula,1,3,3,1,2,2,1,2,1,5,2,2,,,9,f,n
+,2,Xylorhiza glabriuscula,,,,,,,,,,1,1,2,,,15,f,n
+,2,Zigadenus,2,2,1,1,2,1,2,2,1,1,1,1,,,33,f,n
+,2,Zigadenus venenosus,2,2,2,1,2,2,3,2,2,1,2,2,,,8,f,n
+,2,Zigadenus venenosus,3,2,1,2,2,2,1,1,1,,,,,,11,f,n
+,2,Zigadenus venenosus,,,,,,,,,,,,,1,2,19,f,n
+,2,Zigadenus venenosus,1,2,1,,,,,,,,,,,,21,f,n
+,1,Zigadenus venenosus,,,,,,,,,,,,,1,1,23,f,n
+,1,Zigadenus venenosus,1,2,2,,,,1,1,1,,,,,,26,f,n
